@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleDisplayName</key>
+    <string>DN</string>
+    <key>CFBundleExecutable</key>
+    <string>$(EXECUTABLE_NAME)</string>
+    <key>CFBundleIdentifier</key>
+    <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Dagens Næringsliv</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>$(MARKETING_VERSION)</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>CFBundleURLName</key>
+            <string>no.dn.dn2020</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>dnapp</string>
+            </array>
+        </dict>
+        <dict>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>twitterkit-jLOo7c3Z2t6W3yE0AcIdcwZYp</string>
+            </array>
+        </dict>
+    </array>
+    <key>CFBundleVersion</key>
+    <string>$(CURRENT_PROJECT_VERSION)</string>
+    <key>Configuration</key>
+    <string>${CONFIGURATION}</string>
+    <key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>
+    <false/>
+    <key>GADApplicationIdentifier</key>
+    <string>$(GOOGLE_AD_IDENTIFIER)</string>
+    <key>ITSAppUsesNonExemptEncryption</key>
+    <false/>
+    <key>LSApplicationQueriesSchemes</key>
+    <array/>
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+        <key>NSAllowsArbitraryLoads</key>
+        <true/>
+    </dict>
+    <key>NSCalendarsUsageDescription</key>
+    <string>App may need to access calendar</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Kameraet skal brukes til å skanne strekkoder.</string>
+    <key>NSFaceIDUsageDescription</key>
+    <string>Velg "OK" for kjapp innlogging.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Your location is used to provide geo targeted ads. </string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Your location is used to provide geo targeted ads.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>App may need to access photo library</string>
+    <key>NSUserTrackingUsageDescription</key>
+    <string>Vi bruker utelukkende data til å forbedre opplevelsen din.</string>
+    <key>SKAdNetworkItems</key>
+    <array>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>cstr6suwn9.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>4fzdc2evr5.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>2fnua5tdw4.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>ydx93a7ass.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>5a6flpkh64.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>p78axxw29g.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>v72qych5uu.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>c6k4g5qg8m.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>s39g8k73mm.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>3qy4746246.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>3sh42y64q3.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>f38h382jlk.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>hs6bdukanm.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>prcb7njmu6.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>wzmmz9fp6w.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>yclnxrl5pm.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>4468km3ulz.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>t38b2kh725.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>7ug5zh24hu.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>9rd848q2bz.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>n6fk4nfna4.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>kbd757ywx3.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>9t245vhmpl.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>2u9pt9hc89.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>8s468mfl3y.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>av6w8kgt66.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>klf5c3l5u5.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>ppxm28t8ap.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>424m5254lk.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>uw77j35x4d.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>e5fvkxwrpn.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>zq492l623r.skadnetwork</string>
+        </dict>
+        <dict>
+            <key>SKAdNetworkIdentifier</key>
+            <string>3qcr597p9d.skadnetwork</string>
+        </dict>
+    </array>
+    <key>UIAppFonts</key>
+    <array>
+        <string>MarrSans-Regular.otf</string>
+        <string>MarrSansDN-Regular.otf</string>
+        <string>MarrSansDN-Medium.otf</string>
+        <string>MarrSansDN-Semibold.otf</string>
+        <string>NoeDisplay-Regular.otf</string>
+        <string>MarrSansDNWeb-SemiBold.otf</string>
+        <string>MarrSansDNWeb-Regular.otf</string>
+        <string>MarrSansDNWeb-Bold.otf</string>
+        <string>MarrSans-BoldItalic.otf</string>
+        <string>MarrSans-RegularItalic.otf</string>
+        <string>MarrSans-SemiboldItalic.otf</string>
+        <string>Guardian Text Egyp-Black.otf</string>
+        <string>Guardian Text Egyp-Bold.otf</string>
+        <string>Guardian Text Egyp-Bold It.otf</string>
+        <string>Guardian Text Egyp-Medium.otf</string>
+        <string>Guardian Text Egyp-Regular.otf</string>
+        <string>Guardian Text Egyp-Regular It.otf</string>
+        <string>Guardian Sans-Black.otf</string>
+        <string>Guardian Sans-Hairline.otf</string>
+        <string>Guardian Sans-Light.otf</string>
+        <string>Guardian Sans-Light It.otf</string>
+        <string>Guardian Sans-Medium.otf</string>
+        <string>Guardian Sans-Semibold.otf</string>
+        <string>Guardian Sans-Thin.otf</string>
+        <string>Guardian Sans-Ultra.otf</string>
+        <string>Guardian Sans-Bold.otf</string>
+        <string>Guardian Sans-Regular.otf</string>
+        <string>NoeText-RegularItalic.otf</string>
+        <string>NoeText-Regular.otf</string>
+        <string>Noe Display-Black.otf</string>
+        <string>Noe Display-Bold.otf</string>
+        <string>Noe Display-Medium.otf</string>
+        <string>Noe Text Bold.ttf</string>
+        <string>NoeTextBlackItalicBeta.otf</string>
+    </array>
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>audio</string>
+        <string>remote-notification</string>
+    </array>
+    <key>UILaunchStoryboardName</key>
+    <string>LaunchScreen</string>
+    <key>UIMainStoryboardFile</key>
+    <string>Main</string>
+    <key>UIReUIRequiresFullScreen</key>
+    <true/>
+    <key>UIRequiredDeviceCapabilities</key>
+    <array>
+        <string>armv7</string>
+    </array>
+    <key>UIRequiresFullScreen</key>
+    <true/>
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+    </array>
+    <key>UIUserInterfaceStyle</key>
+    <string>Light</string>
+    <key>UIViewControllerBasedStatusBarAppearance</key>
+    <true/>
+</dict>
+</plist>

@@ -7,32 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CE53BD1C2797D8F5001CCE7F /* GoogleAdSampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE53BD0C2797D8F4001CCE7F /* GoogleAdSampleApp.swift */; };
-		CE53BD1D2797D8F5001CCE7F /* GoogleAdSampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE53BD0C2797D8F4001CCE7F /* GoogleAdSampleApp.swift */; };
-		CE53BD1E2797D8F5001CCE7F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE53BD0D2797D8F4001CCE7F /* ContentView.swift */; };
-		CE53BD1F2797D8F5001CCE7F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE53BD0D2797D8F4001CCE7F /* ContentView.swift */; };
 		CE53BD202797D8F5001CCE7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE53BD0E2797D8F5001CCE7F /* Assets.xcassets */; };
-		CE53BD212797D8F5001CCE7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE53BD0E2797D8F5001CCE7F /* Assets.xcassets */; };
+		CE53BD2C2797D986001CCE7F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE53BD2B2797D986001CCE7F /* AppDelegate.swift */; };
+		CE53BD2E2797D9EE001CCE7F /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE53BD2D2797D9EE001CCE7F /* Launch Screen.storyboard */; };
+		CE53BD302797DA11001CCE7F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE53BD2F2797DA11001CCE7F /* Main.storyboard */; };
+		CE53BD322797DA96001CCE7F /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE53BD312797DA96001CCE7F /* HomeVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CE53BD0C2797D8F4001CCE7F /* GoogleAdSampleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoogleAdSampleApp.swift; sourceTree = "<group>"; };
-		CE53BD0D2797D8F4001CCE7F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CE53BD0E2797D8F5001CCE7F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE53BD132797D8F5001CCE7F /* GoogleAdSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoogleAdSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		CE53BD192797D8F5001CCE7F /* GoogleAdSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoogleAdSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		CE53BD1B2797D8F5001CCE7F /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		CE53BD2A2797D986001CCE7F /* GoogleAdSample (iOS)-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GoogleAdSample (iOS)-Bridging-Header.h"; sourceTree = "<group>"; };
+		CE53BD2B2797D986001CCE7F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		CE53BD2D2797D9EE001CCE7F /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		CE53BD2F2797DA11001CCE7F /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		CE53BD312797DA96001CCE7F /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
+		CE53BD332797DD5B001CCE7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		CE53BD102797D8F5001CCE7F /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		CE53BD162797D8F5001CCE7F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -46,7 +40,6 @@
 			isa = PBXGroup;
 			children = (
 				CE53BD0B2797D8F4001CCE7F /* Shared */,
-				CE53BD1A2797D8F5001CCE7F /* macOS */,
 				CE53BD142797D8F5001CCE7F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,9 +47,13 @@
 		CE53BD0B2797D8F4001CCE7F /* Shared */ = {
 			isa = PBXGroup;
 			children = (
-				CE53BD0C2797D8F4001CCE7F /* GoogleAdSampleApp.swift */,
-				CE53BD0D2797D8F4001CCE7F /* ContentView.swift */,
 				CE53BD0E2797D8F5001CCE7F /* Assets.xcassets */,
+				CE53BD2B2797D986001CCE7F /* AppDelegate.swift */,
+				CE53BD2A2797D986001CCE7F /* GoogleAdSample (iOS)-Bridging-Header.h */,
+				CE53BD2D2797D9EE001CCE7F /* Launch Screen.storyboard */,
+				CE53BD2F2797DA11001CCE7F /* Main.storyboard */,
+				CE53BD312797DA96001CCE7F /* HomeVC.swift */,
+				CE53BD332797DD5B001CCE7F /* Info.plist */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -65,17 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				CE53BD132797D8F5001CCE7F /* GoogleAdSample.app */,
-				CE53BD192797D8F5001CCE7F /* GoogleAdSample.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		CE53BD1A2797D8F5001CCE7F /* macOS */ = {
-			isa = PBXGroup;
-			children = (
-				CE53BD1B2797D8F5001CCE7F /* macOS.entitlements */,
-			);
-			path = macOS;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -98,23 +86,6 @@
 			productReference = CE53BD132797D8F5001CCE7F /* GoogleAdSample.app */;
 			productType = "com.apple.product-type.application";
 		};
-		CE53BD182797D8F5001CCE7F /* GoogleAdSample (macOS) */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = CE53BD272797D8F5001CCE7F /* Build configuration list for PBXNativeTarget "GoogleAdSample (macOS)" */;
-			buildPhases = (
-				CE53BD152797D8F5001CCE7F /* Sources */,
-				CE53BD162797D8F5001CCE7F /* Frameworks */,
-				CE53BD172797D8F5001CCE7F /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "GoogleAdSample (macOS)";
-			productName = "GoogleAdSample (macOS)";
-			productReference = CE53BD192797D8F5001CCE7F /* GoogleAdSample.app */;
-			productType = "com.apple.product-type.application";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -127,9 +98,7 @@
 				TargetAttributes = {
 					CE53BD122797D8F5001CCE7F = {
 						CreatedOnToolsVersion = 13.2.1;
-					};
-					CE53BD182797D8F5001CCE7F = {
-						CreatedOnToolsVersion = 13.2.1;
+						LastSwiftMigration = 1320;
 					};
 				};
 			};
@@ -147,7 +116,6 @@
 			projectRoot = "";
 			targets = (
 				CE53BD122797D8F5001CCE7F /* GoogleAdSample (iOS) */,
-				CE53BD182797D8F5001CCE7F /* GoogleAdSample (macOS) */,
 			);
 		};
 /* End PBXProject section */
@@ -157,15 +125,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE53BD302797DA11001CCE7F /* Main.storyboard in Resources */,
+				CE53BD2E2797D9EE001CCE7F /* Launch Screen.storyboard in Resources */,
 				CE53BD202797D8F5001CCE7F /* Assets.xcassets in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		CE53BD172797D8F5001CCE7F /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				CE53BD212797D8F5001CCE7F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,17 +138,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE53BD1E2797D8F5001CCE7F /* ContentView.swift in Sources */,
-				CE53BD1C2797D8F5001CCE7F /* GoogleAdSampleApp.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		CE53BD152797D8F5001CCE7F /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				CE53BD1F2797D8F5001CCE7F /* ContentView.swift in Sources */,
-				CE53BD1D2797D8F5001CCE7F /* GoogleAdSampleApp.swift in Sources */,
+				CE53BD2C2797D986001CCE7F /* AppDelegate.swift in Sources */,
+				CE53BD322797DA96001CCE7F /* HomeVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -309,16 +262,22 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_EXPAND_BUILD_SETTINGS = YES;
+				INFOPLIST_FILE = ./Shared/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -326,8 +285,11 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.nhst.GoogleAd.GoogleAdSample;
 				PRODUCT_NAME = GoogleAdSample;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "Shared/GoogleAdSample (iOS)-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -338,16 +300,22 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_EXPAND_BUILD_SETTINGS = YES;
+				INFOPLIST_FILE = ./Shared/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -355,63 +323,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.nhst.GoogleAd.GoogleAdSample;
 				PRODUCT_NAME = GoogleAdSample;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "Shared/GoogleAdSample (iOS)-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		CE53BD282797D8F5001CCE7F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
-				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
-				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/../Frameworks",
-				);
-				MACOSX_DEPLOYMENT_TARGET = 12.1;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.nhst.GoogleAd.GoogleAdSample;
-				PRODUCT_NAME = GoogleAdSample;
-				SDKROOT = macosx;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-			};
-			name = Debug;
-		};
-		CE53BD292797D8F5001CCE7F /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
-				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
-				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/../Frameworks",
-				);
-				MACOSX_DEPLOYMENT_TARGET = 12.1;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.nhst.GoogleAd.GoogleAdSample;
-				PRODUCT_NAME = GoogleAdSample;
-				SDKROOT = macosx;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -432,15 +350,6 @@
 			buildConfigurations = (
 				CE53BD252797D8F5001CCE7F /* Debug */,
 				CE53BD262797D8F5001CCE7F /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		CE53BD272797D8F5001CCE7F /* Build configuration list for PBXNativeTarget "GoogleAdSample (macOS)" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				CE53BD282797D8F5001CCE7F /* Debug */,
-				CE53BD292797D8F5001CCE7F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
