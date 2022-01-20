@@ -123,6 +123,9 @@
 		CEE5308F27995DBB009F2086 /* ImageDescriptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5308D27995DBB009F2086 /* ImageDescriptor.swift */; };
 		CEE5309027995DBB009F2086 /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5308E27995DBB009F2086 /* Image.swift */; };
 		CEE5309227996062009F2086 /* DFPAdManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5309127996062009F2086 /* DFPAdManager.swift */; };
+		CEE53094279964C9009F2086 /* NewsFeedController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE53093279964C9009F2086 /* NewsFeedController.swift */; };
+		CEE5309627996512009F2086 /* DNNewsServiceProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5309527996512009F2086 /* DNNewsServiceProvider.swift */; };
+		CEE53098279965AF009F2086 /* HTTPAdditionalHeaderProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE53097279965AF009F2086 /* HTTPAdditionalHeaderProvider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -247,6 +250,9 @@
 		CEE5308D27995DBB009F2086 /* ImageDescriptor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageDescriptor.swift; sourceTree = "<group>"; };
 		CEE5308E27995DBB009F2086 /* Image.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Image.swift; sourceTree = "<group>"; };
 		CEE5309127996062009F2086 /* DFPAdManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DFPAdManager.swift; path = Front/DFPAdManager.swift; sourceTree = "<group>"; };
+		CEE53093279964C9009F2086 /* NewsFeedController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewsFeedController.swift; sourceTree = "<group>"; };
+		CEE5309527996512009F2086 /* DNNewsServiceProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DNNewsServiceProvider.swift; sourceTree = "<group>"; };
+		CEE53097279965AF009F2086 /* HTTPAdditionalHeaderProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTTPAdditionalHeaderProvider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -322,6 +328,7 @@
 		CE9D716827981A7F002BD4BF /* Extesnions */ = {
 			isa = PBXGroup;
 			children = (
+				CEE53097279965AF009F2086 /* HTTPAdditionalHeaderProvider.swift */,
 				CEE5304A27994778009F2086 /* CGSizeExtension.swift */,
 				CEE52FAC2799233A009F2086 /* UIView+SafeAnchor.swift */,
 				CEE52F9C27992211009F2086 /* IntExtensions.swift */,
@@ -551,7 +558,9 @@
 				CEE52FD127992E22009F2086 /* Delegates */,
 				CEE52FB827992B80009F2086 /* NewsFeedViewController.swift */,
 				CEE52FB727992B80009F2086 /* NewsFeedViewController.xib */,
+				CEE53093279964C9009F2086 /* NewsFeedController.swift */,
 				CEE53030279945C8009F2086 /* BaseNewsFeedController.swift */,
+				CEE5309527996512009F2086 /* DNNewsServiceProvider.swift */,
 			);
 			path = Front;
 			sourceTree = "<group>";
@@ -835,6 +844,7 @@
 				CEE52FB327992389009F2086 /* CollectionViewContainerType.swift in Sources */,
 				CEE52FC027992CF7009F2086 /* NewsFeedContainerViewType.swift in Sources */,
 				CE9D716727981A59002BD4BF /* BaseFeedViewController.swift in Sources */,
+				CEE53098279965AF009F2086 /* HTTPAdditionalHeaderProvider.swift in Sources */,
 				CEE5304027994641009F2086 /* PageInfoProvider.swift in Sources */,
 				CE9D721027981C46002BD4BF /* Log+Extension.swift in Sources */,
 				CEE5303A2799461A009F2086 /* VerticalPaginationProvider.swift in Sources */,
@@ -843,6 +853,7 @@
 				CEE52FAD2799233A009F2086 /* UIView+SafeAnchor.swift in Sources */,
 				CEE5304D279947F6009F2086 /* Feed.swift in Sources */,
 				CEE52F9427992187009F2086 /* CollectionViewPartRendererFactory.swift in Sources */,
+				CEE5309627996512009F2086 /* DNNewsServiceProvider.swift in Sources */,
 				CEE5308427995D0B009F2086 /* CollectionViewToggleContentTheme.swift in Sources */,
 				CE9D71D927981B39002BD4BF /* URLPutJSON.swift in Sources */,
 				CE9D71CB27981B39002BD4BF /* CollectionViewCellLayoutInitials.swift in Sources */,
@@ -886,6 +897,7 @@
 				CE9D71C827981B39002BD4BF /* CollectionViewCustomLayout.swift in Sources */,
 				CEE52FD527992F2C009F2086 /* DFPAdView.swift in Sources */,
 				CEE52FBA27992B80009F2086 /* NewsFeedViewController.swift in Sources */,
+				CEE53094279964C9009F2086 /* NewsFeedController.swift in Sources */,
 				CEE5306527995889009F2086 /* ArticleSummaryPagePartBuilderType.swift in Sources */,
 				CEE52FC827992D66009F2086 /* SearchViewPresentingController.swift in Sources */,
 			);
