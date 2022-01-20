@@ -126,6 +126,18 @@
 		CEE53094279964C9009F2086 /* NewsFeedController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE53093279964C9009F2086 /* NewsFeedController.swift */; };
 		CEE5309627996512009F2086 /* DNNewsServiceProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5309527996512009F2086 /* DNNewsServiceProvider.swift */; };
 		CEE53098279965AF009F2086 /* HTTPAdditionalHeaderProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE53097279965AF009F2086 /* HTTPAdditionalHeaderProvider.swift */; };
+		CEE5309B27996A92009F2086 /* ArticleSummaryPagePartBuilderType+ArticleSummaryParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5309927996A91009F2086 /* ArticleSummaryPagePartBuilderType+ArticleSummaryParts.swift */; };
+		CEE5309C27996A92009F2086 /* ArticleSummaryPagePartBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5309A27996A91009F2086 /* ArticleSummaryPagePartBuilder.swift */; };
+		CEE5309E27996B3A009F2086 /* ArticleSummaryPageViewInitialsFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5309D27996B3A009F2086 /* ArticleSummaryPageViewInitialsFactory.swift */; };
+		CEE530A027996C2C009F2086 /* CollectionViewFeedMappingContext.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5309F27996C2C009F2086 /* CollectionViewFeedMappingContext.swift */; };
+		CEE530A227996CF2009F2086 /* DFPAdPart.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530A127996CF2009F2086 /* DFPAdPart.swift */; };
+		CEE530AA27996D4C009F2086 /* FeedAppearanceProviderFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530A427996D4C009F2086 /* FeedAppearanceProviderFactory.swift */; };
+		CEE530AB27996D4C009F2086 /* FeedAppearanceProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530A527996D4C009F2086 /* FeedAppearanceProvider.swift */; };
+		CEE530AC27996D4C009F2086 /* FeedAppearanceProvideriPad.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530A627996D4C009F2086 /* FeedAppearanceProvideriPad.swift */; };
+		CEE530AD27996D4C009F2086 /* FeedAppearanceProving.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530A727996D4C009F2086 /* FeedAppearanceProving.swift */; };
+		CEE530AE27996D4C009F2086 /* FeedAppearanceProvideriPadPro.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530A827996D4C009F2086 /* FeedAppearanceProvideriPadPro.swift */; };
+		CEE530AF27996D4C009F2086 /* FeedAppearanceProvideriPhone.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530A927996D4C009F2086 /* FeedAppearanceProvideriPhone.swift */; };
+		CEE530B127996DCE009F2086 /* Ad.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530B027996DCE009F2086 /* Ad.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -253,6 +265,18 @@
 		CEE53093279964C9009F2086 /* NewsFeedController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewsFeedController.swift; sourceTree = "<group>"; };
 		CEE5309527996512009F2086 /* DNNewsServiceProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DNNewsServiceProvider.swift; sourceTree = "<group>"; };
 		CEE53097279965AF009F2086 /* HTTPAdditionalHeaderProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTTPAdditionalHeaderProvider.swift; sourceTree = "<group>"; };
+		CEE5309927996A91009F2086 /* ArticleSummaryPagePartBuilderType+ArticleSummaryParts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ArticleSummaryPagePartBuilderType+ArticleSummaryParts.swift"; sourceTree = "<group>"; };
+		CEE5309A27996A91009F2086 /* ArticleSummaryPagePartBuilder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleSummaryPagePartBuilder.swift; sourceTree = "<group>"; };
+		CEE5309D27996B3A009F2086 /* ArticleSummaryPageViewInitialsFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleSummaryPageViewInitialsFactory.swift; sourceTree = "<group>"; };
+		CEE5309F27996C2C009F2086 /* CollectionViewFeedMappingContext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewFeedMappingContext.swift; sourceTree = "<group>"; };
+		CEE530A127996CF2009F2086 /* DFPAdPart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DFPAdPart.swift; sourceTree = "<group>"; };
+		CEE530A427996D4C009F2086 /* FeedAppearanceProviderFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedAppearanceProviderFactory.swift; sourceTree = "<group>"; };
+		CEE530A527996D4C009F2086 /* FeedAppearanceProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedAppearanceProvider.swift; sourceTree = "<group>"; };
+		CEE530A627996D4C009F2086 /* FeedAppearanceProvideriPad.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedAppearanceProvideriPad.swift; sourceTree = "<group>"; };
+		CEE530A727996D4C009F2086 /* FeedAppearanceProving.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedAppearanceProving.swift; sourceTree = "<group>"; };
+		CEE530A827996D4C009F2086 /* FeedAppearanceProvideriPadPro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedAppearanceProvideriPadPro.swift; sourceTree = "<group>"; };
+		CEE530A927996D4C009F2086 /* FeedAppearanceProvideriPhone.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedAppearanceProvideriPhone.swift; sourceTree = "<group>"; };
+		CEE530B027996DCE009F2086 /* Ad.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ad.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -457,6 +481,7 @@
 			children = (
 				CEE5306F27995BEB009F2086 /* Fragments */,
 				CEE5306D27995BD1009F2086 /* UnknownPart.swift */,
+				CEE530A127996CF2009F2086 /* DFPAdPart.swift */,
 				CEE5306B27995BB3009F2086 /* IntermediaryPart.swift */,
 				CEE52F98279921BA009F2086 /* FeedPart.swift */,
 				CEE52F7727990A61009F2086 /* CollectionViewFeedPart.swift */,
@@ -469,6 +494,7 @@
 		CEE52F7D27990EB3009F2086 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				CEE530B027996DCE009F2086 /* Ad.swift */,
 				CEE5308E27995DBB009F2086 /* Image.swift */,
 				CEE5308D27995DBB009F2086 /* ImageDescriptor.swift */,
 				CEE5308B27995D2C009F2086 /* Margins.swift */,
@@ -550,6 +576,7 @@
 		CEE52FB627992B66009F2086 /* Front */ = {
 			isa = PBXGroup;
 			children = (
+				CEE530A327996D4C009F2086 /* Sizing */,
 				CEE5307C27995D0B009F2086 /* ContentThemes */,
 				CEE5305B2799587E009F2086 /* PartBuilder */,
 				CEE53041279946C1009F2086 /* Resolver */,
@@ -628,7 +655,11 @@
 		CEE5305B2799587E009F2086 /* PartBuilder */ = {
 			isa = PBXGroup;
 			children = (
+				CEE5309D27996B3A009F2086 /* ArticleSummaryPageViewInitialsFactory.swift */,
+				CEE5309A27996A91009F2086 /* ArticleSummaryPagePartBuilder.swift */,
+				CEE5309927996A91009F2086 /* ArticleSummaryPagePartBuilderType+ArticleSummaryParts.swift */,
 				CEE53069279958C5009F2086 /* FeedMappingContextType.swift */,
+				CEE5309F27996C2C009F2086 /* CollectionViewFeedMappingContext.swift */,
 				CEE5305C27995889009F2086 /* Type */,
 				CEE5305027994913009F2086 /* TypeErasedInstance */,
 			);
@@ -667,6 +698,19 @@
 				CEE5308327995D0B009F2086 /* CollectionViewImageContentTheme.swift */,
 			);
 			path = ContentThemes;
+			sourceTree = "<group>";
+		};
+		CEE530A327996D4C009F2086 /* Sizing */ = {
+			isa = PBXGroup;
+			children = (
+				CEE530A427996D4C009F2086 /* FeedAppearanceProviderFactory.swift */,
+				CEE530A527996D4C009F2086 /* FeedAppearanceProvider.swift */,
+				CEE530A627996D4C009F2086 /* FeedAppearanceProvideriPad.swift */,
+				CEE530A727996D4C009F2086 /* FeedAppearanceProving.swift */,
+				CEE530A827996D4C009F2086 /* FeedAppearanceProvideriPadPro.swift */,
+				CEE530A927996D4C009F2086 /* FeedAppearanceProvideriPhone.swift */,
+			);
+			path = Sizing;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -791,6 +835,7 @@
 				CEE52FC427992D42009F2086 /* NewsFeedViewControllerDelegate.swift in Sources */,
 				CEE52FCC27992D96009F2086 /* WebContentViewCellDelegate.swift in Sources */,
 				CEE52F73279909E7009F2086 /* ErrorStateMapper.swift in Sources */,
+				CEE530AE27996D4C009F2086 /* FeedAppearanceProvideriPadPro.swift in Sources */,
 				CEE5306327995889009F2086 /* FeedPartBuilderType.swift in Sources */,
 				CE9D71D027981B39002BD4BF /* CollectionViewDecoratorViewInitialsType.swift in Sources */,
 				CEE52F7127990992009F2086 /* Data+Extension.swift in Sources */,
@@ -799,6 +844,7 @@
 				CEE5306A279958C5009F2086 /* FeedMappingContextType.swift in Sources */,
 				CEE52FA127992259009F2086 /* PartDisplaying.swift in Sources */,
 				CEE52F99279921BA009F2086 /* FeedPart.swift in Sources */,
+				CEE5309B27996A92009F2086 /* ArticleSummaryPagePartBuilderType+ArticleSummaryParts.swift in Sources */,
 				CEE53047279946F2009F2086 /* DFPAd.swift in Sources */,
 				CEE5303C2799461A009F2086 /* PaginationDelegate.swift in Sources */,
 				CE9D71D527981B39002BD4BF /* CollectionViewSectionSeparatorLayoutAttributes.swift in Sources */,
@@ -840,6 +886,7 @@
 				CE9D71CE27981B39002BD4BF /* Builder.swift in Sources */,
 				CEE52FA7279922A2009F2086 /* Debouncer.swift in Sources */,
 				CEE52F9527992187009F2086 /* GeneralCollectionViewPartRenderer.swift in Sources */,
+				CEE530A027996C2C009F2086 /* CollectionViewFeedMappingContext.swift in Sources */,
 				CEE52F9727992187009F2086 /* CollectionViewPartRendering.swift in Sources */,
 				CEE52FB327992389009F2086 /* CollectionViewContainerType.swift in Sources */,
 				CEE52FC027992CF7009F2086 /* NewsFeedContainerViewType.swift in Sources */,
@@ -871,19 +918,27 @@
 				CEE5308C27995D2C009F2086 /* Margins.swift in Sources */,
 				CEE52F8127990EF7009F2086 /* UnknownComponent.swift in Sources */,
 				CEE52F9127992187009F2086 /* PartRendering.swift in Sources */,
+				CEE5309C27996A92009F2086 /* ArticleSummaryPagePartBuilder.swift in Sources */,
 				CEE52FAA279922E2009F2086 /* CollectionViewSectionSeparatorView.swift in Sources */,
+				CEE530A227996CF2009F2086 /* DFPAdPart.swift in Sources */,
 				CEE5304B27994778009F2086 /* CGSizeExtension.swift in Sources */,
 				CE9D71CA27981B39002BD4BF /* CollectionViewSupplementaryViewInitials.swift in Sources */,
 				CEE52F7A27990A61009F2086 /* CollectionViewFeedPart.swift in Sources */,
 				CEE530392799461A009F2086 /* HorizontalPaginationManager.swift in Sources */,
 				CE9D71C927981B39002BD4BF /* CollectionViewSectionLayoutInitials.swift in Sources */,
+				CEE530AB27996D4C009F2086 /* FeedAppearanceProvider.swift in Sources */,
 				CEE52F6E27990577009F2086 /* CollectionViewFlowLayoutInfoProvider.swift in Sources */,
 				CEE52F8627991107009F2086 /* CollectionViewSectionInfoProviding.swift in Sources */,
+				CEE530B127996DCE009F2086 /* Ad.swift in Sources */,
 				CEE5308A27995D0B009F2086 /* CollectionViewImageContentTheme.swift in Sources */,
 				CEE52FAB279922E2009F2086 /* CollectionViewItemSeparatorView.swift in Sources */,
 				CE9D71C727981B39002BD4BF /* URLPostJSON.swift in Sources */,
+				CEE5309E27996B3A009F2086 /* ArticleSummaryPageViewInitialsFactory.swift in Sources */,
 				CEE52F9627992187009F2086 /* CollectionViewPartRenderingBase.swift in Sources */,
+				CEE530AF27996D4C009F2086 /* FeedAppearanceProvideriPhone.swift in Sources */,
 				CEE52F8527991107009F2086 /* SectionPart.swift in Sources */,
+				CEE530AD27996D4C009F2086 /* FeedAppearanceProving.swift in Sources */,
+				CEE530AC27996D4C009F2086 /* FeedAppearanceProvideriPad.swift in Sources */,
 				CEE52F9227992187009F2086 /* GeneralPartRenderer.swift in Sources */,
 				CE9D71D227981B39002BD4BF /* CollectionViewSupplementaryViewInitialsType.swift in Sources */,
 				CEE5306E27995BD1009F2086 /* UnknownPart.swift in Sources */,
@@ -899,6 +954,7 @@
 				CEE52FBA27992B80009F2086 /* NewsFeedViewController.swift in Sources */,
 				CEE53094279964C9009F2086 /* NewsFeedController.swift in Sources */,
 				CEE5306527995889009F2086 /* ArticleSummaryPagePartBuilderType.swift in Sources */,
+				CEE530AA27996D4C009F2086 /* FeedAppearanceProviderFactory.swift in Sources */,
 				CEE52FC827992D66009F2086 /* SearchViewPresentingController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
