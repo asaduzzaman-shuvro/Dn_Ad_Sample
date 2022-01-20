@@ -141,6 +141,7 @@
 		CEE530B427996FC0009F2086 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530B327996FC0009F2086 /* CollectionViewCell.swift */; };
 		CEE530B627996FD1009F2086 /* DFPAdCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530B527996FD1009F2086 /* DFPAdCollectionViewCell.swift */; };
 		CEE530B827996FE4009F2086 /* DFPAdCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEE530B727996FE4009F2086 /* DFPAdCollectionViewCell.xib */; };
+		CEE530BA2799722A009F2086 /* UseCaseBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530B92799722A009F2086 /* UseCaseBuilder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -283,6 +284,7 @@
 		CEE530B327996FC0009F2086 /* CollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 		CEE530B527996FD1009F2086 /* DFPAdCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DFPAdCollectionViewCell.swift; sourceTree = "<group>"; };
 		CEE530B727996FE4009F2086 /* DFPAdCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DFPAdCollectionViewCell.xib; sourceTree = "<group>"; };
+		CEE530B92799722A009F2086 /* UseCaseBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UseCaseBuilder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -575,6 +577,7 @@
 			children = (
 				CEE5309127996062009F2086 /* DFPAdManager.swift */,
 				CEE52FB627992B66009F2086 /* Front */,
+				CEE530B92799722A009F2086 /* UseCaseBuilder.swift */,
 			);
 			path = UseCase;
 			sourceTree = "<group>";
@@ -944,6 +947,7 @@
 				CEE5304B27994778009F2086 /* CGSizeExtension.swift in Sources */,
 				CE9D71CA27981B39002BD4BF /* CollectionViewSupplementaryViewInitials.swift in Sources */,
 				CEE52F7A27990A61009F2086 /* CollectionViewFeedPart.swift in Sources */,
+				CEE530BA2799722A009F2086 /* UseCaseBuilder.swift in Sources */,
 				CEE530392799461A009F2086 /* HorizontalPaginationManager.swift in Sources */,
 				CE9D71C927981B39002BD4BF /* CollectionViewSectionLayoutInitials.swift in Sources */,
 				CEE530AB27996D4C009F2086 /* FeedAppearanceProvider.swift in Sources */,
