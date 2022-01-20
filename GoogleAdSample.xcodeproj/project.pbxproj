@@ -138,6 +138,9 @@
 		CEE530AE27996D4C009F2086 /* FeedAppearanceProvideriPadPro.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530A827996D4C009F2086 /* FeedAppearanceProvideriPadPro.swift */; };
 		CEE530AF27996D4C009F2086 /* FeedAppearanceProvideriPhone.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530A927996D4C009F2086 /* FeedAppearanceProvideriPhone.swift */; };
 		CEE530B127996DCE009F2086 /* Ad.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530B027996DCE009F2086 /* Ad.swift */; };
+		CEE530B427996FC0009F2086 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530B327996FC0009F2086 /* CollectionViewCell.swift */; };
+		CEE530B627996FD1009F2086 /* DFPAdCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530B527996FD1009F2086 /* DFPAdCollectionViewCell.swift */; };
+		CEE530B827996FE4009F2086 /* DFPAdCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEE530B727996FE4009F2086 /* DFPAdCollectionViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -277,6 +280,9 @@
 		CEE530A827996D4C009F2086 /* FeedAppearanceProvideriPadPro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedAppearanceProvideriPadPro.swift; sourceTree = "<group>"; };
 		CEE530A927996D4C009F2086 /* FeedAppearanceProvideriPhone.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedAppearanceProvideriPhone.swift; sourceTree = "<group>"; };
 		CEE530B027996DCE009F2086 /* Ad.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ad.swift; sourceTree = "<group>"; };
+		CEE530B327996FC0009F2086 /* CollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		CEE530B527996FD1009F2086 /* DFPAdCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DFPAdCollectionViewCell.swift; sourceTree = "<group>"; };
+		CEE530B727996FE4009F2086 /* DFPAdCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DFPAdCollectionViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -576,6 +582,7 @@
 		CEE52FB627992B66009F2086 /* Front */ = {
 			isa = PBXGroup;
 			children = (
+				CEE530B227996FB5009F2086 /* Cell */,
 				CEE530A327996D4C009F2086 /* Sizing */,
 				CEE5307C27995D0B009F2086 /* ContentThemes */,
 				CEE5305B2799587E009F2086 /* PartBuilder */,
@@ -713,6 +720,16 @@
 			path = Sizing;
 			sourceTree = "<group>";
 		};
+		CEE530B227996FB5009F2086 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				CEE530B527996FD1009F2086 /* DFPAdCollectionViewCell.swift */,
+				CEE530B727996FE4009F2086 /* DFPAdCollectionViewCell.xib */,
+				CEE530B327996FC0009F2086 /* CollectionViewCell.swift */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -778,6 +795,7 @@
 				CE53BD2E2797D9EE001CCE7F /* Launch Screen.storyboard in Resources */,
 				CE53BD202797D8F5001CCE7F /* Assets.xcassets in Resources */,
 				CEE52FBE27992C13009F2086 /* ErrorStateView.xib in Resources */,
+				CEE530B827996FE4009F2086 /* DFPAdCollectionViewCell.xib in Resources */,
 				CEE52FB927992B80009F2086 /* NewsFeedViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -863,12 +881,14 @@
 				CEE52FC627992D54009F2086 /* SearchableContentDelegate.swift in Sources */,
 				CE53BD2C2797D986001CCE7F /* AppDelegate.swift in Sources */,
 				CEE5306C27995BB3009F2086 /* IntermediaryPart.swift in Sources */,
+				CEE530B627996FD1009F2086 /* DFPAdCollectionViewCell.swift in Sources */,
 				CEE5308527995D0B009F2086 /* CollectionViewControlStateTheme.swift in Sources */,
 				CE9D71CC27981B39002BD4BF /* CollectionViewDecoratorViewInitials.swift in Sources */,
 				CEE52FA427992287009F2086 /* CollectionViewCellReusing.swift in Sources */,
 				CEE5309227996062009F2086 /* DFPAdManager.swift in Sources */,
 				CE9D716A27981A9C002BD4BF /* UIColor+DN.swift in Sources */,
 				CE9D71D127981B39002BD4BF /* LayoutInitialsDefinerType.swift in Sources */,
+				CEE530B427996FC0009F2086 /* CollectionViewCell.swift in Sources */,
 				CE9D71C327981B39002BD4BF /* ALPushTransitionAnimatorZoomIn.swift in Sources */,
 				CEE52F7527990A14009F2086 /* JSONExtension.swift in Sources */,
 				CEE5303E2799461A009F2086 /* HorizontalPaginationProvider.swift in Sources */,

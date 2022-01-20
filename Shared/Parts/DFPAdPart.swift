@@ -30,8 +30,8 @@ class DFPAdPart: CollectionViewFeedPart {
         super.init()
         
         self.size = size
-        self.cellNibName = "" //DFPAdCollectionViewCell.nibName
-        self.cellReuseId =  ""//DFPAdCollectionViewCell.reusableIdentifier
+        self.cellNibName = "DFPAdCollectionViewCell"
+        self.cellReuseId =  "DFPAdCollectionViewCell"
     }
 }
 
