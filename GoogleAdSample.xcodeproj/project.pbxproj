@@ -122,6 +122,7 @@
 		CEE5308C27995D2C009F2086 /* Margins.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5308B27995D2C009F2086 /* Margins.swift */; };
 		CEE5308F27995DBB009F2086 /* ImageDescriptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5308D27995DBB009F2086 /* ImageDescriptor.swift */; };
 		CEE5309027995DBB009F2086 /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5308E27995DBB009F2086 /* Image.swift */; };
+		CEE5309227996062009F2086 /* DFPAdManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5309127996062009F2086 /* DFPAdManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -245,6 +246,7 @@
 		CEE5308B27995D2C009F2086 /* Margins.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Margins.swift; sourceTree = "<group>"; };
 		CEE5308D27995DBB009F2086 /* ImageDescriptor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageDescriptor.swift; sourceTree = "<group>"; };
 		CEE5308E27995DBB009F2086 /* Image.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Image.swift; sourceTree = "<group>"; };
+		CEE5309127996062009F2086 /* DFPAdManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DFPAdManager.swift; path = Front/DFPAdManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -532,6 +534,7 @@
 		CEE52FB527992B5E009F2086 /* UseCase */ = {
 			isa = PBXGroup;
 			children = (
+				CEE5309127996062009F2086 /* DFPAdManager.swift */,
 				CEE52FB627992B66009F2086 /* Front */,
 			);
 			path = UseCase;
@@ -808,6 +811,7 @@
 				CEE5308527995D0B009F2086 /* CollectionViewControlStateTheme.swift in Sources */,
 				CE9D71CC27981B39002BD4BF /* CollectionViewDecoratorViewInitials.swift in Sources */,
 				CEE52FA427992287009F2086 /* CollectionViewCellReusing.swift in Sources */,
+				CEE5309227996062009F2086 /* DFPAdManager.swift in Sources */,
 				CE9D716A27981A9C002BD4BF /* UIColor+DN.swift in Sources */,
 				CE9D71D127981B39002BD4BF /* LayoutInitialsDefinerType.swift in Sources */,
 				CE9D71C327981B39002BD4BF /* ALPushTransitionAnimatorZoomIn.swift in Sources */,
