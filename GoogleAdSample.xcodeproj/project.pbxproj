@@ -88,6 +88,13 @@
 		CEE52FCE27992DB3009F2086 /* AdComponentDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FCD27992DB3009F2086 /* AdComponentDelegate.swift */; };
 		CEE52FD027992E19009F2086 /* DynamicContentCellDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FCF27992E19009F2086 /* DynamicContentCellDelegate.swift */; };
 		CEE52FD527992F2C009F2086 /* DFPAdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FD427992F2C009F2086 /* DFPAdView.swift */; };
+		CEE53031279945C8009F2086 /* BaseNewsFeedController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE53030279945C8009F2086 /* BaseNewsFeedController.swift */; };
+		CEE530392799461A009F2086 /* HorizontalPaginationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530332799461A009F2086 /* HorizontalPaginationManager.swift */; };
+		CEE5303A2799461A009F2086 /* VerticalPaginationProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530342799461A009F2086 /* VerticalPaginationProvider.swift */; };
+		CEE5303B2799461A009F2086 /* VerticalPaginationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530352799461A009F2086 /* VerticalPaginationManager.swift */; };
+		CEE5303C2799461A009F2086 /* PaginationDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530362799461A009F2086 /* PaginationDelegate.swift */; };
+		CEE5303E2799461A009F2086 /* HorizontalPaginationProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE530382799461A009F2086 /* HorizontalPaginationProvider.swift */; };
+		CEE5304027994641009F2086 /* PageInfoProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE5303F27994641009F2086 /* PageInfoProvider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -177,6 +184,13 @@
 		CEE52FCD27992DB3009F2086 /* AdComponentDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdComponentDelegate.swift; sourceTree = "<group>"; };
 		CEE52FCF27992E19009F2086 /* DynamicContentCellDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DynamicContentCellDelegate.swift; sourceTree = "<group>"; };
 		CEE52FD427992F2C009F2086 /* DFPAdView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DFPAdView.swift; sourceTree = "<group>"; };
+		CEE53030279945C8009F2086 /* BaseNewsFeedController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseNewsFeedController.swift; sourceTree = "<group>"; };
+		CEE530332799461A009F2086 /* HorizontalPaginationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HorizontalPaginationManager.swift; sourceTree = "<group>"; };
+		CEE530342799461A009F2086 /* VerticalPaginationProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VerticalPaginationProvider.swift; sourceTree = "<group>"; };
+		CEE530352799461A009F2086 /* VerticalPaginationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VerticalPaginationManager.swift; sourceTree = "<group>"; };
+		CEE530362799461A009F2086 /* PaginationDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaginationDelegate.swift; sourceTree = "<group>"; };
+		CEE530382799461A009F2086 /* HorizontalPaginationProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HorizontalPaginationProvider.swift; sourceTree = "<group>"; };
+		CEE5303F27994641009F2086 /* PageInfoProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageInfoProvider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -221,6 +235,7 @@
 		CE53BD0B2797D8F4001CCE7F /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				CEE530322799461A009F2086 /* LoadMore */,
 				CEE52FB527992B5E009F2086 /* UseCase */,
 				CEE52F8727992187009F2086 /* Rendering */,
 				CEE52F7D27990EB3009F2086 /* Model */,
@@ -387,6 +402,7 @@
 		CEE52F7D27990EB3009F2086 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				CEE5303F27994641009F2086 /* PageInfoProvider.swift */,
 				CEE52F9E2799223D009F2086 /* TableViewCellReusing.swift */,
 				CEE52F9A279921E6009F2086 /* TableViewCellWidthSizing.swift */,
 				CEE52F7E27990ECA009F2086 /* Component.swift */,
@@ -465,6 +481,7 @@
 				CEE52FD127992E22009F2086 /* Delegates */,
 				CEE52FB827992B80009F2086 /* NewsFeedViewController.swift */,
 				CEE52FB727992B80009F2086 /* NewsFeedViewController.xib */,
+				CEE53030279945C8009F2086 /* BaseNewsFeedController.swift */,
 			);
 			path = Front;
 			sourceTree = "<group>";
@@ -497,6 +514,18 @@
 				CEE52FD427992F2C009F2086 /* DFPAdView.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		CEE530322799461A009F2086 /* LoadMore */ = {
+			isa = PBXGroup;
+			children = (
+				CEE530332799461A009F2086 /* HorizontalPaginationManager.swift */,
+				CEE530342799461A009F2086 /* VerticalPaginationProvider.swift */,
+				CEE530352799461A009F2086 /* VerticalPaginationManager.swift */,
+				CEE530362799461A009F2086 /* PaginationDelegate.swift */,
+				CEE530382799461A009F2086 /* HorizontalPaginationProvider.swift */,
+			);
+			path = LoadMore;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -625,9 +654,11 @@
 				CEE52F9D27992211009F2086 /* IntExtensions.swift in Sources */,
 				CEE52FA127992259009F2086 /* PartDisplaying.swift in Sources */,
 				CEE52F99279921BA009F2086 /* FeedPart.swift in Sources */,
+				CEE5303C2799461A009F2086 /* PaginationDelegate.swift in Sources */,
 				CE9D71D527981B39002BD4BF /* CollectionViewSectionSeparatorLayoutAttributes.swift in Sources */,
 				CEE52F6D27990577009F2086 /* CollectionViewFeedContentProvider.swift in Sources */,
 				CE9D71D627981B39002BD4BF /* CollectionViewSeparatorLayoutAttributes.swift in Sources */,
+				CEE53031279945C8009F2086 /* BaseNewsFeedController.swift in Sources */,
 				CEE52F6F27990577009F2086 /* CollectionViewFeedContentProviding.swift in Sources */,
 				CEE52FD027992E19009F2086 /* DynamicContentCellDelegate.swift in Sources */,
 				CE9D71D827981B39002BD4BF /* UIView+LoadFromXIB.swift in Sources */,
@@ -641,6 +672,7 @@
 				CE9D71D127981B39002BD4BF /* LayoutInitialsDefinerType.swift in Sources */,
 				CE9D71C327981B39002BD4BF /* ALPushTransitionAnimatorZoomIn.swift in Sources */,
 				CEE52F7527990A14009F2086 /* JSONExtension.swift in Sources */,
+				CEE5303E2799461A009F2086 /* HorizontalPaginationProvider.swift in Sources */,
 				CEE52FB427992389009F2086 /* CollectionViewEditingViewControllerType.swift in Sources */,
 				CE9D71C627981B39002BD4BF /* URLSessionDataTask.swift in Sources */,
 				CE53BD322797DA96001CCE7F /* HomeVC.swift in Sources */,
@@ -657,7 +689,9 @@
 				CEE52FB327992389009F2086 /* CollectionViewContainerType.swift in Sources */,
 				CEE52FC027992CF7009F2086 /* NewsFeedContainerViewType.swift in Sources */,
 				CE9D716727981A59002BD4BF /* BaseFeedViewController.swift in Sources */,
+				CEE5304027994641009F2086 /* PageInfoProvider.swift in Sources */,
 				CE9D721027981C46002BD4BF /* Log+Extension.swift in Sources */,
+				CEE5303A2799461A009F2086 /* VerticalPaginationProvider.swift in Sources */,
 				CE9D71D427981B39002BD4BF /* CollectionViewDecorationViewHandler.swift in Sources */,
 				CEE52FAD2799233A009F2086 /* UIView+SafeAnchor.swift in Sources */,
 				CEE52F9427992187009F2086 /* CollectionViewPartRendererFactory.swift in Sources */,
@@ -675,6 +709,7 @@
 				CEE52FAA279922E2009F2086 /* CollectionViewSectionSeparatorView.swift in Sources */,
 				CE9D71CA27981B39002BD4BF /* CollectionViewSupplementaryViewInitials.swift in Sources */,
 				CEE52F7A27990A61009F2086 /* CollectionViewFeedPart.swift in Sources */,
+				CEE530392799461A009F2086 /* HorizontalPaginationManager.swift in Sources */,
 				CE9D71C927981B39002BD4BF /* CollectionViewSectionLayoutInitials.swift in Sources */,
 				CEE52F6E27990577009F2086 /* CollectionViewFlowLayoutInfoProvider.swift in Sources */,
 				CEE52F8627991107009F2086 /* CollectionViewSectionInfoProviding.swift in Sources */,
@@ -685,6 +720,7 @@
 				CEE52F9227992187009F2086 /* GeneralPartRenderer.swift in Sources */,
 				CE9D71D227981B39002BD4BF /* CollectionViewSupplementaryViewInitialsType.swift in Sources */,
 				CE9D71D727981B39002BD4BF /* UIView+RoundCorners.swift in Sources */,
+				CEE5303B2799461A009F2086 /* VerticalPaginationManager.swift in Sources */,
 				CE9D71C527981B39002BD4BF /* URLDataReader.swift in Sources */,
 				CEE52FC227992D0D009F2086 /* ProgressEventListenerViewType.swift in Sources */,
 				CE9D71C227981B39002BD4BF /* URLSearchDataReader.swift in Sources */,
