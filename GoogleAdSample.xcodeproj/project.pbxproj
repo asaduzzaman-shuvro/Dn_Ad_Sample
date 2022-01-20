@@ -75,6 +75,19 @@
 		CEE52FB227992389009F2086 /* PageType.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FAF27992388009F2086 /* PageType.swift */; };
 		CEE52FB327992389009F2086 /* CollectionViewContainerType.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FB027992389009F2086 /* CollectionViewContainerType.swift */; };
 		CEE52FB427992389009F2086 /* CollectionViewEditingViewControllerType.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FB127992389009F2086 /* CollectionViewEditingViewControllerType.swift */; };
+		CEE52FB927992B80009F2086 /* NewsFeedViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEE52FB727992B80009F2086 /* NewsFeedViewController.xib */; };
+		CEE52FBA27992B80009F2086 /* NewsFeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FB827992B80009F2086 /* NewsFeedViewController.swift */; };
+		CEE52FBD27992C13009F2086 /* ErrorStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FBB27992C13009F2086 /* ErrorStateView.swift */; };
+		CEE52FBE27992C13009F2086 /* ErrorStateView.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEE52FBC27992C13009F2086 /* ErrorStateView.xib */; };
+		CEE52FC027992CF7009F2086 /* NewsFeedContainerViewType.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FBF27992CF6009F2086 /* NewsFeedContainerViewType.swift */; };
+		CEE52FC227992D0D009F2086 /* ProgressEventListenerViewType.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FC127992D0D009F2086 /* ProgressEventListenerViewType.swift */; };
+		CEE52FC427992D42009F2086 /* NewsFeedViewControllerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FC327992D42009F2086 /* NewsFeedViewControllerDelegate.swift */; };
+		CEE52FC627992D54009F2086 /* SearchableContentDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FC527992D54009F2086 /* SearchableContentDelegate.swift */; };
+		CEE52FC827992D66009F2086 /* SearchViewPresentingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FC727992D66009F2086 /* SearchViewPresentingController.swift */; };
+		CEE52FCC27992D96009F2086 /* WebContentViewCellDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FCB27992D96009F2086 /* WebContentViewCellDelegate.swift */; };
+		CEE52FCE27992DB3009F2086 /* AdComponentDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FCD27992DB3009F2086 /* AdComponentDelegate.swift */; };
+		CEE52FD027992E19009F2086 /* DynamicContentCellDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FCF27992E19009F2086 /* DynamicContentCellDelegate.swift */; };
+		CEE52FD527992F2C009F2086 /* DFPAdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE52FD427992F2C009F2086 /* DFPAdView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -151,6 +164,19 @@
 		CEE52FAF27992388009F2086 /* PageType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageType.swift; sourceTree = "<group>"; };
 		CEE52FB027992389009F2086 /* CollectionViewContainerType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewContainerType.swift; sourceTree = "<group>"; };
 		CEE52FB127992389009F2086 /* CollectionViewEditingViewControllerType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewEditingViewControllerType.swift; sourceTree = "<group>"; };
+		CEE52FB727992B80009F2086 /* NewsFeedViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NewsFeedViewController.xib; sourceTree = "<group>"; };
+		CEE52FB827992B80009F2086 /* NewsFeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewsFeedViewController.swift; sourceTree = "<group>"; };
+		CEE52FBB27992C13009F2086 /* ErrorStateView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ErrorStateView.swift; sourceTree = "<group>"; };
+		CEE52FBC27992C13009F2086 /* ErrorStateView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ErrorStateView.xib; sourceTree = "<group>"; };
+		CEE52FBF27992CF6009F2086 /* NewsFeedContainerViewType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewsFeedContainerViewType.swift; sourceTree = "<group>"; };
+		CEE52FC127992D0D009F2086 /* ProgressEventListenerViewType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgressEventListenerViewType.swift; sourceTree = "<group>"; };
+		CEE52FC327992D42009F2086 /* NewsFeedViewControllerDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewsFeedViewControllerDelegate.swift; sourceTree = "<group>"; };
+		CEE52FC527992D54009F2086 /* SearchableContentDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchableContentDelegate.swift; sourceTree = "<group>"; };
+		CEE52FC727992D66009F2086 /* SearchViewPresentingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchViewPresentingController.swift; sourceTree = "<group>"; };
+		CEE52FCB27992D96009F2086 /* WebContentViewCellDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebContentViewCellDelegate.swift; sourceTree = "<group>"; };
+		CEE52FCD27992DB3009F2086 /* AdComponentDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdComponentDelegate.swift; sourceTree = "<group>"; };
+		CEE52FCF27992E19009F2086 /* DynamicContentCellDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DynamicContentCellDelegate.swift; sourceTree = "<group>"; };
+		CEE52FD427992F2C009F2086 /* DFPAdView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DFPAdView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -195,6 +221,7 @@
 		CE53BD0B2797D8F4001CCE7F /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				CEE52FB527992B5E009F2086 /* UseCase */,
 				CEE52F8727992187009F2086 /* Rendering */,
 				CEE52F7D27990EB3009F2086 /* Model */,
 				CEE52F7627990A2C009F2086 /* Parts */,
@@ -227,6 +254,8 @@
 				CEE52FAC2799233A009F2086 /* UIView+SafeAnchor.swift */,
 				CEE52F9C27992211009F2086 /* IntExtensions.swift */,
 				CEE52F7427990A14009F2086 /* JSONExtension.swift */,
+				CEE52FBB27992C13009F2086 /* ErrorStateView.swift */,
+				CEE52FBC27992C13009F2086 /* ErrorStateView.xib */,
 				CEE52F72279909E7009F2086 /* ErrorStateMapper.swift */,
 				CE9D716927981A9C002BD4BF /* UIColor+DN.swift */,
 				CE9D720F27981C46002BD4BF /* Log+Extension.swift */,
@@ -420,6 +449,56 @@
 			path = ContainerType;
 			sourceTree = "<group>";
 		};
+		CEE52FB527992B5E009F2086 /* UseCase */ = {
+			isa = PBXGroup;
+			children = (
+				CEE52FB627992B66009F2086 /* Front */,
+			);
+			path = UseCase;
+			sourceTree = "<group>";
+		};
+		CEE52FB627992B66009F2086 /* Front */ = {
+			isa = PBXGroup;
+			children = (
+				CEE52FD327992F20009F2086 /* Views */,
+				CEE52FD227992E32009F2086 /* Type */,
+				CEE52FD127992E22009F2086 /* Delegates */,
+				CEE52FB827992B80009F2086 /* NewsFeedViewController.swift */,
+				CEE52FB727992B80009F2086 /* NewsFeedViewController.xib */,
+			);
+			path = Front;
+			sourceTree = "<group>";
+		};
+		CEE52FD127992E22009F2086 /* Delegates */ = {
+			isa = PBXGroup;
+			children = (
+				CEE52FCF27992E19009F2086 /* DynamicContentCellDelegate.swift */,
+				CEE52FCD27992DB3009F2086 /* AdComponentDelegate.swift */,
+				CEE52FCB27992D96009F2086 /* WebContentViewCellDelegate.swift */,
+				CEE52FC727992D66009F2086 /* SearchViewPresentingController.swift */,
+				CEE52FC527992D54009F2086 /* SearchableContentDelegate.swift */,
+				CEE52FC327992D42009F2086 /* NewsFeedViewControllerDelegate.swift */,
+			);
+			path = Delegates;
+			sourceTree = "<group>";
+		};
+		CEE52FD227992E32009F2086 /* Type */ = {
+			isa = PBXGroup;
+			children = (
+				CEE52FC127992D0D009F2086 /* ProgressEventListenerViewType.swift */,
+				CEE52FBF27992CF6009F2086 /* NewsFeedContainerViewType.swift */,
+			);
+			path = Type;
+			sourceTree = "<group>";
+		};
+		CEE52FD327992F20009F2086 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				CEE52FD427992F2C009F2086 /* DFPAdView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -484,6 +563,8 @@
 				CE53BD302797DA11001CCE7F /* Main.storyboard in Resources */,
 				CE53BD2E2797D9EE001CCE7F /* Launch Screen.storyboard in Resources */,
 				CE53BD202797D8F5001CCE7F /* Assets.xcassets in Resources */,
+				CEE52FBE27992C13009F2086 /* ErrorStateView.xib in Resources */,
+				CEE52FB927992B80009F2086 /* NewsFeedViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -536,6 +617,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEE52FC427992D42009F2086 /* NewsFeedViewControllerDelegate.swift in Sources */,
+				CEE52FCC27992D96009F2086 /* WebContentViewCellDelegate.swift in Sources */,
 				CEE52F73279909E7009F2086 /* ErrorStateMapper.swift in Sources */,
 				CE9D71D027981B39002BD4BF /* CollectionViewDecoratorViewInitialsType.swift in Sources */,
 				CEE52F7127990992009F2086 /* Data+Extension.swift in Sources */,
@@ -546,9 +629,11 @@
 				CEE52F6D27990577009F2086 /* CollectionViewFeedContentProvider.swift in Sources */,
 				CE9D71D627981B39002BD4BF /* CollectionViewSeparatorLayoutAttributes.swift in Sources */,
 				CEE52F6F27990577009F2086 /* CollectionViewFeedContentProviding.swift in Sources */,
+				CEE52FD027992E19009F2086 /* DynamicContentCellDelegate.swift in Sources */,
 				CE9D71D827981B39002BD4BF /* UIView+LoadFromXIB.swift in Sources */,
 				CEE52F7C27990A61009F2086 /* VaryingSizePart.swift in Sources */,
 				CEE52FB227992389009F2086 /* PageType.swift in Sources */,
+				CEE52FC627992D54009F2086 /* SearchableContentDelegate.swift in Sources */,
 				CE53BD2C2797D986001CCE7F /* AppDelegate.swift in Sources */,
 				CE9D71CC27981B39002BD4BF /* CollectionViewDecoratorViewInitials.swift in Sources */,
 				CEE52FA427992287009F2086 /* CollectionViewCellReusing.swift in Sources */,
@@ -563,12 +648,14 @@
 				CEE52FA527992287009F2086 /* CollectionViewPartDisplaying.swift in Sources */,
 				CE9D71C427981B39002BD4BF /* ALPopTransitionAnimatorZoomOut.swift in Sources */,
 				CEE52F9B279921E6009F2086 /* TableViewCellWidthSizing.swift in Sources */,
+				CEE52FBD27992C13009F2086 /* ErrorStateView.swift in Sources */,
 				CE9D71CF27981B39002BD4BF /* CollectionViewSectionLayoutInitialsType.swift in Sources */,
 				CE9D71CE27981B39002BD4BF /* Builder.swift in Sources */,
 				CEE52FA7279922A2009F2086 /* Debouncer.swift in Sources */,
 				CEE52F9527992187009F2086 /* GeneralCollectionViewPartRenderer.swift in Sources */,
 				CEE52F9727992187009F2086 /* CollectionViewPartRendering.swift in Sources */,
 				CEE52FB327992389009F2086 /* CollectionViewContainerType.swift in Sources */,
+				CEE52FC027992CF7009F2086 /* NewsFeedContainerViewType.swift in Sources */,
 				CE9D716727981A59002BD4BF /* BaseFeedViewController.swift in Sources */,
 				CE9D721027981C46002BD4BF /* Log+Extension.swift in Sources */,
 				CE9D71D427981B39002BD4BF /* CollectionViewDecorationViewHandler.swift in Sources */,
@@ -581,6 +668,7 @@
 				CE9D71CD27981B39002BD4BF /* CollectionViewCellLayoutInitialsType.swift in Sources */,
 				CEE52F9F2799223D009F2086 /* TableViewCellReusing.swift in Sources */,
 				CEE52F7F27990ECA009F2086 /* Component.swift in Sources */,
+				CEE52FCE27992DB3009F2086 /* AdComponentDelegate.swift in Sources */,
 				CEE52F9327992187009F2086 /* PartRendererBase.swift in Sources */,
 				CEE52F8127990EF7009F2086 /* UnknownComponent.swift in Sources */,
 				CEE52F9127992187009F2086 /* PartRendering.swift in Sources */,
@@ -598,8 +686,12 @@
 				CE9D71D227981B39002BD4BF /* CollectionViewSupplementaryViewInitialsType.swift in Sources */,
 				CE9D71D727981B39002BD4BF /* UIView+RoundCorners.swift in Sources */,
 				CE9D71C527981B39002BD4BF /* URLDataReader.swift in Sources */,
+				CEE52FC227992D0D009F2086 /* ProgressEventListenerViewType.swift in Sources */,
 				CE9D71C227981B39002BD4BF /* URLSearchDataReader.swift in Sources */,
 				CE9D71C827981B39002BD4BF /* CollectionViewCustomLayout.swift in Sources */,
+				CEE52FD527992F2C009F2086 /* DFPAdView.swift in Sources */,
+				CEE52FBA27992B80009F2086 /* NewsFeedViewController.swift in Sources */,
+				CEE52FC827992D66009F2086 /* SearchViewPresentingController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
