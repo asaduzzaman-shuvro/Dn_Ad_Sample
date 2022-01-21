@@ -37,6 +37,18 @@
 		CE1F4E41279A588B00CEDBA8 /* ArticleSummaryHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E40279A588B00CEDBA8 /* ArticleSummaryHeader.swift */; };
 		CE1F4E43279A58A000CEDBA8 /* GroupInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E42279A58A000CEDBA8 /* GroupInfo.swift */; };
 		CE1F4E45279A58E200CEDBA8 /* NewsDateFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E44279A58E200CEDBA8 /* NewsDateFormatter.swift */; };
+		CE1F4E47279A612000CEDBA8 /* DNWebUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E46279A611F00CEDBA8 /* DNWebUtil.swift */; };
+		CE1F4E49279A61A000CEDBA8 /* String+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E48279A61A000CEDBA8 /* String+Extension.swift */; };
+		CE1F4E4B279A714300CEDBA8 /* ArticleDetailChunk.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E4A279A714300CEDBA8 /* ArticleDetailChunk.swift */; };
+		CE1F4E52279A71E300CEDBA8 /* ArticleDetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E4D279A71E300CEDBA8 /* ArticleDetailController.swift */; };
+		CE1F4E53279A71E300CEDBA8 /* EditionArticlesDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E4E279A71E300CEDBA8 /* EditionArticlesDelegate.swift */; };
+		CE1F4E54279A71E300CEDBA8 /* ArticleDetailViewControllerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E50279A71E300CEDBA8 /* ArticleDetailViewControllerDelegate.swift */; };
+		CE1F4E55279A71E300CEDBA8 /* ArticleDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E51279A71E300CEDBA8 /* ArticleDetailViewController.swift */; };
+		CE1F4E57279A723300CEDBA8 /* URLMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E56279A723300CEDBA8 /* URLMapper.swift */; };
+		CE1F4E59279A729C00CEDBA8 /* Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E58279A729C00CEDBA8 /* Article.swift */; };
+		CE1F4E5B279A733100CEDBA8 /* URL+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E5A279A733100CEDBA8 /* URL+Extensions.swift */; };
+		CE1F4E5D279A73CA00CEDBA8 /* UIView+PropertyWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E5C279A73CA00CEDBA8 /* UIView+PropertyWrapper.swift */; };
+		CE1F4E5F279A745900CEDBA8 /* DNWebCookieManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E5E279A745900CEDBA8 /* DNWebCookieManager.swift */; };
 		CE53BD202797D8F5001CCE7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE53BD0E2797D8F5001CCE7F /* Assets.xcassets */; };
 		CE53BD2C2797D986001CCE7F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE53BD2B2797D986001CCE7F /* AppDelegate.swift */; };
 		CE53BD2E2797D9EE001CCE7F /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE53BD2D2797D9EE001CCE7F /* Launch Screen.storyboard */; };
@@ -205,6 +217,18 @@
 		CE1F4E40279A588B00CEDBA8 /* ArticleSummaryHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleSummaryHeader.swift; sourceTree = "<group>"; };
 		CE1F4E42279A58A000CEDBA8 /* GroupInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GroupInfo.swift; sourceTree = "<group>"; };
 		CE1F4E44279A58E200CEDBA8 /* NewsDateFormatter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewsDateFormatter.swift; sourceTree = "<group>"; };
+		CE1F4E46279A611F00CEDBA8 /* DNWebUtil.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DNWebUtil.swift; sourceTree = "<group>"; };
+		CE1F4E48279A61A000CEDBA8 /* String+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extension.swift"; sourceTree = "<group>"; };
+		CE1F4E4A279A714300CEDBA8 /* ArticleDetailChunk.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleDetailChunk.swift; sourceTree = "<group>"; };
+		CE1F4E4D279A71E300CEDBA8 /* ArticleDetailController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleDetailController.swift; sourceTree = "<group>"; };
+		CE1F4E4E279A71E300CEDBA8 /* EditionArticlesDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditionArticlesDelegate.swift; sourceTree = "<group>"; };
+		CE1F4E50279A71E300CEDBA8 /* ArticleDetailViewControllerDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleDetailViewControllerDelegate.swift; sourceTree = "<group>"; };
+		CE1F4E51279A71E300CEDBA8 /* ArticleDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleDetailViewController.swift; sourceTree = "<group>"; };
+		CE1F4E56279A723300CEDBA8 /* URLMapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = URLMapper.swift; sourceTree = "<group>"; };
+		CE1F4E58279A729C00CEDBA8 /* Article.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Article.swift; sourceTree = "<group>"; };
+		CE1F4E5A279A733100CEDBA8 /* URL+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "URL+Extensions.swift"; sourceTree = "<group>"; };
+		CE1F4E5C279A73CA00CEDBA8 /* UIView+PropertyWrapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+PropertyWrapper.swift"; sourceTree = "<group>"; };
+		CE1F4E5E279A745900CEDBA8 /* DNWebCookieManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DNWebCookieManager.swift; sourceTree = "<group>"; };
 		CE53BD0E2797D8F5001CCE7F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE53BD132797D8F5001CCE7F /* GoogleAdSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoogleAdSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE53BD2A2797D986001CCE7F /* GoogleAdSample (iOS)-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GoogleAdSample (iOS)-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -386,6 +410,25 @@
 			path = Type;
 			sourceTree = "<group>";
 		};
+		CE1F4E4C279A71E300CEDBA8 /* DisplayArticleDetails */ = {
+			isa = PBXGroup;
+			children = (
+				CE1F4E4D279A71E300CEDBA8 /* ArticleDetailController.swift */,
+				CE1F4E4E279A71E300CEDBA8 /* EditionArticlesDelegate.swift */,
+				CE1F4E4F279A71E300CEDBA8 /* View */,
+			);
+			path = DisplayArticleDetails;
+			sourceTree = "<group>";
+		};
+		CE1F4E4F279A71E300CEDBA8 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				CE1F4E50279A71E300CEDBA8 /* ArticleDetailViewControllerDelegate.swift */,
+				CE1F4E51279A71E300CEDBA8 /* ArticleDetailViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		CE53BD062797D8F4001CCE7F = {
 			isa = PBXGroup;
 			children = (
@@ -430,6 +473,11 @@
 		CE9D716827981A7F002BD4BF /* Extesnions */ = {
 			isa = PBXGroup;
 			children = (
+				CE1F4E5E279A745900CEDBA8 /* DNWebCookieManager.swift */,
+				CE1F4E5C279A73CA00CEDBA8 /* UIView+PropertyWrapper.swift */,
+				CE1F4E5A279A733100CEDBA8 /* URL+Extensions.swift */,
+				CE1F4E56279A723300CEDBA8 /* URLMapper.swift */,
+				CE1F4E46279A611F00CEDBA8 /* DNWebUtil.swift */,
 				CE1F4E44279A58E200CEDBA8 /* NewsDateFormatter.swift */,
 				CE1F4E25279A523800CEDBA8 /* UILabelExtensions.swift */,
 				CEE53097279965AF009F2086 /* HTTPAdditionalHeaderProvider.swift */,
@@ -443,6 +491,7 @@
 				CE9D716927981A9C002BD4BF /* UIColor+DN.swift */,
 				CE9D720F27981C46002BD4BF /* Log+Extension.swift */,
 				CEE52F7027990992009F2086 /* Data+Extension.swift */,
+				CE1F4E48279A61A000CEDBA8 /* String+Extension.swift */,
 			);
 			path = Extesnions;
 			sourceTree = "<group>";
@@ -597,6 +646,8 @@
 				CE1F4E3E279A587900CEDBA8 /* Author.swift */,
 				CE1F4E40279A588B00CEDBA8 /* ArticleSummaryHeader.swift */,
 				CE1F4E42279A58A000CEDBA8 /* GroupInfo.swift */,
+				CE1F4E4A279A714300CEDBA8 /* ArticleDetailChunk.swift */,
+				CE1F4E58279A729C00CEDBA8 /* Article.swift */,
 				CEE52FA6279922A2009F2086 /* Debouncer.swift */,
 			);
 			path = Model;
@@ -680,6 +731,7 @@
 				CEE52FB727992B80009F2086 /* NewsFeedViewController.xib */,
 				CEE53093279964C9009F2086 /* NewsFeedController.swift */,
 				CEE53030279945C8009F2086 /* BaseNewsFeedController.swift */,
+				CE1F4E4C279A71E300CEDBA8 /* DisplayArticleDetails */,
 				CEE5309527996512009F2086 /* DNNewsServiceProvider.swift */,
 			);
 			path = Front;
@@ -958,6 +1010,7 @@
 			files = (
 				CEE5308927995D0B009F2086 /* CollectionViewBadgeContentTheme.swift in Sources */,
 				CE1F4E2A279A548200CEDBA8 /* ArticleSummary.swift in Sources */,
+				CE1F4E57279A723300CEDBA8 /* URLMapper.swift in Sources */,
 				CEE52FC427992D42009F2086 /* NewsFeedViewControllerDelegate.swift in Sources */,
 				CEE52FCC27992D96009F2086 /* WebContentViewCellDelegate.swift in Sources */,
 				CE1F4E1C279A50C500CEDBA8 /* ArticleSummaryPart.swift in Sources */,
@@ -969,7 +1022,9 @@
 				CEE52F7127990992009F2086 /* Data+Extension.swift in Sources */,
 				CEE52F9D27992211009F2086 /* IntExtensions.swift in Sources */,
 				CE1F4E41279A588B00CEDBA8 /* ArticleSummaryHeader.swift in Sources */,
+				CE1F4E47279A612000CEDBA8 /* DNWebUtil.swift in Sources */,
 				CEE5305827994913009F2086 /* AnyCollectionViewFeedPartBuilder.swift in Sources */,
+				CE1F4E52279A71E300CEDBA8 /* ArticleDetailController.swift in Sources */,
 				CEE5306A279958C5009F2086 /* FeedMappingContextType.swift in Sources */,
 				CEE52FA127992259009F2086 /* PartDisplaying.swift in Sources */,
 				CEE52F99279921BA009F2086 /* FeedPart.swift in Sources */,
@@ -1009,6 +1064,7 @@
 				CEE52F7527990A14009F2086 /* JSONExtension.swift in Sources */,
 				CEE5303E2799461A009F2086 /* HorizontalPaginationProvider.swift in Sources */,
 				CEE52FB427992389009F2086 /* CollectionViewEditingViewControllerType.swift in Sources */,
+				CE1F4E5F279A745900CEDBA8 /* DNWebCookieManager.swift in Sources */,
 				CE9D71C627981B39002BD4BF /* URLSessionDataTask.swift in Sources */,
 				CE53BD322797DA96001CCE7F /* HomeVC.swift in Sources */,
 				CEE5308627995D0B009F2086 /* CollectionViewContentTheme.swift in Sources */,
@@ -1021,6 +1077,7 @@
 				CEE52F9B279921E6009F2086 /* TableViewCellWidthSizing.swift in Sources */,
 				CE1F4E32279A54DB00CEDBA8 /* ArticleSummaryType+ViewType.swift in Sources */,
 				CEE52FBD27992C13009F2086 /* ErrorStateView.swift in Sources */,
+				CE1F4E54279A71E300CEDBA8 /* ArticleDetailViewControllerDelegate.swift in Sources */,
 				CE9D71CF27981B39002BD4BF /* CollectionViewSectionLayoutInitialsType.swift in Sources */,
 				CE1F4E37279A57CB00CEDBA8 /* ImageWithRepresentations.swift in Sources */,
 				CE9D71CE27981B39002BD4BF /* Builder.swift in Sources */,
@@ -1033,6 +1090,7 @@
 				CE9D716727981A59002BD4BF /* BaseFeedViewController.swift in Sources */,
 				CE1F4E24279A51AA00CEDBA8 /* BookmarkSectionView.swift in Sources */,
 				CE1F4E43279A58A000CEDBA8 /* GroupInfo.swift in Sources */,
+				CE1F4E49279A61A000CEDBA8 /* String+Extension.swift in Sources */,
 				CEE53098279965AF009F2086 /* HTTPAdditionalHeaderProvider.swift in Sources */,
 				CEE5304027994641009F2086 /* PageInfoProvider.swift in Sources */,
 				CE9D721027981C46002BD4BF /* Log+Extension.swift in Sources */,
@@ -1050,6 +1108,7 @@
 				CE9D71CB27981B39002BD4BF /* CollectionViewCellLayoutInitials.swift in Sources */,
 				CEE5308827995D0B009F2086 /* CollectionViewTextContentTheme.swift in Sources */,
 				CEE52F7B27990A61009F2086 /* CollectionViewPart.swift in Sources */,
+				CE1F4E5D279A73CA00CEDBA8 /* UIView+PropertyWrapper.swift in Sources */,
 				CE1F4E29279A548200CEDBA8 /* ArticleSummaryType.swift in Sources */,
 				CE9D71DA27981B39002BD4BF /* GCDutils.swift in Sources */,
 				CEE5304F27994808009F2086 /* PagedFeed.swift in Sources */,
@@ -1080,6 +1139,7 @@
 				CEE530B127996DCE009F2086 /* Ad.swift in Sources */,
 				CEE5308A27995D0B009F2086 /* CollectionViewImageContentTheme.swift in Sources */,
 				CEE52FAB279922E2009F2086 /* CollectionViewItemSeparatorView.swift in Sources */,
+				CE1F4E53279A71E300CEDBA8 /* EditionArticlesDelegate.swift in Sources */,
 				CE9D71C727981B39002BD4BF /* URLPostJSON.swift in Sources */,
 				CEE5309E27996B3A009F2086 /* ArticleSummaryPageViewInitialsFactory.swift in Sources */,
 				CE1F4E3D279A585C00CEDBA8 /* VideoContent.swift in Sources */,
@@ -1090,6 +1150,7 @@
 				CEE530AC27996D4C009F2086 /* FeedAppearanceProvideriPad.swift in Sources */,
 				CEE52F9227992187009F2086 /* GeneralPartRenderer.swift in Sources */,
 				CE1F4E2C279A54AD00CEDBA8 /* ArticleStyle.swift in Sources */,
+				CE1F4E59279A729C00CEDBA8 /* Article.swift in Sources */,
 				CE9D71D227981B39002BD4BF /* CollectionViewSupplementaryViewInitialsType.swift in Sources */,
 				CEE5306E27995BD1009F2086 /* UnknownPart.swift in Sources */,
 				CE9D71D727981B39002BD4BF /* UIView+RoundCorners.swift in Sources */,
@@ -1100,12 +1161,15 @@
 				CE1F4E3F279A587900CEDBA8 /* Author.swift in Sources */,
 				CE9D71C227981B39002BD4BF /* URLSearchDataReader.swift in Sources */,
 				CEE53044279946D6009F2086 /* FeedJSONResolver.swift in Sources */,
+				CE1F4E55279A71E300CEDBA8 /* ArticleDetailViewController.swift in Sources */,
 				CE9D71C827981B39002BD4BF /* CollectionViewCustomLayout.swift in Sources */,
 				CEE52FD527992F2C009F2086 /* DFPAdView.swift in Sources */,
 				CEE52FBA27992B80009F2086 /* NewsFeedViewController.swift in Sources */,
 				CE1F4E19279A506E00CEDBA8 /* ArticleSummaryTextPortionView.swift in Sources */,
 				CEE53094279964C9009F2086 /* NewsFeedController.swift in Sources */,
+				CE1F4E5B279A733100CEDBA8 /* URL+Extensions.swift in Sources */,
 				CEE5306527995889009F2086 /* ArticleSummaryPagePartBuilderType.swift in Sources */,
+				CE1F4E4B279A714300CEDBA8 /* ArticleDetailChunk.swift in Sources */,
 				CEE530AA27996D4C009F2086 /* FeedAppearanceProviderFactory.swift in Sources */,
 				CEE52FC827992D66009F2086 /* SearchViewPresentingController.swift in Sources */,
 			);

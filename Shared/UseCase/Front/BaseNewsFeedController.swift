@@ -90,10 +90,10 @@ class BaseNewsFeedController<SectionType>: NewsFeedViewControllerDelegate, Pagin
     func performPendingOperation() {}
     
     func partSelected(_ part: CollectionViewFeedPart) {
-//        if let part = part as? ArticleSummaryPart {
-//            self.previouslyTappedArticleId = part.articleId
-//            self.showArticleById(part.articleId)
-//        }
+        if let part = part as? ArticleSummaryPart {
+            self.previouslyTappedArticleId = part.articleSummary.id
+            self.showArticleBySummary(part.articleSummary)
+        }
     }
     
     
@@ -264,18 +264,8 @@ extension BaseNewsFeedController {
 //        return articleSummaries
 //    }
     
-    fileprivate func showArticleById(_ articleId: String) {
-//        let articleSummaries = self.getArticleSummaries()
-//
-//        guard articleId != "" && articleSummaries.count > 0 else {
-//            return
-//        }
-//
-//        let selectedIndex = articleSummaries.firstIndex(where: { $0.id == articleId }) ?? 0
-//
-//        let summary = articleSummaries[selectedIndex]
-//        log(object: "Showing Article: articleUrl# \(summary.publicUrl)")
-//        self.navigateForTeaser(articleSummary: summary, urlString: summary.publicUrl)
+    fileprivate func showArticleBySummary(_ articleSummary: ArticleSummary) {
+        self.navigateForTeaser(articleSummary: articleSummary, urlString: articleSummary.publicUrl)
     }
 }
 
@@ -289,21 +279,24 @@ extension BaseNewsFeedController {
 //}
 
 //MARKL:- NavigationForArticleTeasers
-//extension BaseNewsFeedController{
-//    func navigateForTeaser(articleSummary: ArticleSummaryType, urlString: String){
-////        let articleSummaryUrl = SettingsManager.sharedInstance.forceLoadArticle.shouldLoadArticle ?
-////            SettingsManager.sharedInstance.forceLoadArticle.articleUrl :
-////            articleSummary.publicUrl
-////
-////        let webType = DNWebUtil.sharedInstance.getType(for: articleSummaryUrl)
-////        if webType.type == .article {
-////            let articleDetailChunk: ArticleDetailChunk = SettingsManager.sharedInstance.forceLoadArticle.shouldLoadArticle ? ArticleDetailChunk.build(publicLink: SettingsManager.sharedInstance.forceLoadArticle.articleUrl) :
-////                ArticleDetailChunk.build(summary: articleSummary)
-////
-////            let articleDetail = UseCaseBuilder.buildUpArticleDetailController(articleDetail: articleDetailChunk, hierarchicalType: .pushed)
-////            self.pushViewController(articleDetail.viewController, animated: true)
-////        }else{
-////            self.open(articleSummaryUrl)
-////        }
-//    }
-//}
+extension BaseNewsFeedController{
+    func navigateForTeaser(articleSummary: ArticleSummaryType, urlString: String){
+
+        let webType = DNWebUtil.sharedInstance.getType(for: urlString)
+        if webType.type == .article {
+            let articleDetailChunk: ArticleDetailChunk = ArticleDetailChunk.build(summary: articleSummary)
+            
+            let controller = ArticleDetailController()
+            controller.article = articleDetailChunk
+            
+            let viewController = ArticleDetailViewController()
+            
+            viewController.delegate = controller
+            controller.viewController = viewController
+            
+            self.pushViewController(viewController, animated: true)
+        }else{
+            self.open(articleSummary.publicUrl)
+        }
+    }
+}
