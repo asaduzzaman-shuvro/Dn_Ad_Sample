@@ -33,68 +33,21 @@ class DNNewsServiceProvider {
         }
     }
 
-    private func requestNewsFeedAsync(withUrl url: URL,completion: @escaping (_ json: JSON) -> Void, onError: @escaping (_ error: NSError?) -> Void, cachePolicy: NSURLRequest.CachePolicy?) {
-        URLSessionDataTask().onConfigureRequest { config in
-            config.allowsCellularAccess = true
-            config.timeoutIntervalForRequest = 30
-            config.timeoutIntervalForResource = 60
-            config.httpAdditionalHeaders = HTTPAdditionalHeaderProvider.additionalHTTPHeadersForJSONQuery()
-        }.onRequestCompleted(onThread: .background) { data in
-            NSLog("\(String(describing: data?.count)) news feed bytes arrived.")
-            do {
-                let json = try JSON(data: data!)
-                completion(json)
-            } catch let serializationError as NSError {
-                onError(NSError(domain: "ParseErro", code: -9999, userInfo: nil))
-                return
-            }
-        }.onError { error, response, data in
-            self.reportAPIFail(url.absoluteString)
-            onError(NSError(domain: "CommunicationError", code: 5, userInfo: nil))
-        }.requestFromURL(url, cachePolicy: cachePolicy)
-    }
     
     func requestNewsFeedAndCacheAsync(withPageInfo pageInfo: PageInfo?, _ completion: @escaping (_ cachedJSON: JSON?, _ json: JSON?, _ error: NSError?) -> Void, onError:@escaping (_ error: NSError?) -> Void) {
         
-        let original = feedUrlString
-        let encoded = original.addingPercentEncoding(withAllowedCharacters: .urlFragmentAllowed)
-        let url = URL(string: encoded!)!
-        
-        var urlComponents:URLComponents = URLComponents(url: url, resolvingAgainstBaseURL: false)!
-        if let pageInfo = pageInfo {
-            urlComponents.queryItems = [
-                URLQueryItem(name: "page", value: "\(pageInfo.currentPage)")
-            ]
+        completion(nil, try? self.loadDummyJSON(), nil)
+    }
+    
+    func loadDummyJSON() throws -> JSON {
+        guard let url = Bundle.main.url(forResource: "dummy_front", withExtension: "json") else {
+            throw(NSError(domain: "Can't find the url", code: -1, userInfo: nil))
         }
-        
-        guard let componentsUrl = urlComponents.url else {
-            return
+        do {
+            let data = try Data(contentsOf: url)
+            return try JSON(data: data)
+        } catch let error {
+            throw(error)
         }
-        log(object: componentsUrl)
-        
-        URLSessionDataTask().onConfigureRequest { config in
-            config.allowsCellularAccess = true
-            config.timeoutIntervalForRequest = 30
-            config.timeoutIntervalForResource = 60
-            config.httpAdditionalHeaders = HTTPAdditionalHeaderProvider.additionalHTTPHeadersForJSONQuery()
-            }.onRequestCompleted(onThread: .background) { data in
-                let result = self.dataToJSON(data!)
-                let cachedJSON = result.error == nil ? result.json : nil
-                self.requestNewsFeedAsync(withUrl: componentsUrl, completion: { (json) in
-                    completion(cachedJSON, json, nil)
-                }, onError: { (error) in
-                    if cachedJSON != nil {
-                        completion(cachedJSON, nil, error)
-                    } else {
-                        onError(error)
-                    }
-                }, cachePolicy: NSURLRequest.CachePolicy.reloadIgnoringCacheData)
-            }.onError { error, response, data in
-                self.requestNewsFeedAsync(withUrl: componentsUrl, completion: { (json) in
-                    completion(nil, json, nil)
-                }, onError: { (error) in
-                    onError(error)
-                }, cachePolicy: NSURLRequest.CachePolicy.reloadIgnoringCacheData)
-            }.requestFromURL(componentsUrl, cachePolicy: NSURLRequest.CachePolicy.returnCacheDataDontLoad)
     }
 }

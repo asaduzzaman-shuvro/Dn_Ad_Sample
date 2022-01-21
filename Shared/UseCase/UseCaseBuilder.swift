@@ -11,7 +11,7 @@ import UIKit
 class UseCaseBuilder {
     
     class func buildUpFront() -> UIViewController {
-        let serviceProvider = DNNewsServiceProvider(pageType: .front, feedUrlString: "https://app.dn.no/v2/front")
+        let serviceProvider = DNNewsServiceProvider(pageType: .front, feedUrlString: "")
         let jsonResolver = FeedJSONResolver(pageType: .front, componentFactory: ComponentFactory())
         
         let partBuilder = AnyArticleSummaryPagePartBuilder<FrontArticleSummarySection>(partBuilder: ArticleSummaryPagePartBuilder(pageType: .front, viewInitialsFactory: ArticleSummaryPageViewInitialsFactory()))

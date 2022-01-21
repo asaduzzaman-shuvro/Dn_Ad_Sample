@@ -1,0 +1,3995 @@
+{
+    "updated_at": "2022-01-21T03:03:06.000Z",
+    "components": [
+        {
+            "type": "investor_header",
+            "source_url": "https://services.dn.no/widget/investor?app=true"
+        },
+        {
+            "id": "2-1-1149432",
+            "public_link": "https://www.dn.no/utenriks/japan/kina/toyota/nervose-investorer-sender-asia-borsene-lavere-den-perfekte-stormen-for-finansmarkedene/2-1-1149432",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Nervøse investorer sender Asia-børsene lavere: – Den perfekte stormen for finansmarkedene",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Utenriks",
+                "id": "utenriks",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/a81a07a06a070e70a1b8cf416a065415?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/a81a07a06a070e70a1b8cf416a065415?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/a81a07a06a070e70a1b8cf416a065415?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/ZW84cVRnQldoT3BXTDI0NWJLd21UZ0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/a81a07a06a070e70a1b8cf416a065415",
+                    "landscape_representation": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/a81a07a06a070e70a1b8cf416a065415",
+                    "portrait_representation": "https://images.dn.no/image/SStubVZxWVJMRWYxZzJGMzBJZW91dGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/a81a07a06a070e70a1b8cf416a065415",
+                    "portrait_wide_representation": "https://images.dn.no/image/L25DblJiRVBGZ21oMEh2alVqUDhrTmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/a81a07a06a070e70a1b8cf416a065415"
+                }
+            }
+        },
+        {
+            "id": "2-1-1148863",
+            "public_link": "https://www.dn.no/luftfart/sas/anko-van-der-werff/sas-pilot-group/pilotene-er-nar-frist-i-forhandlinger-pa-tre-maneder-og-sas-star-pa-sitt-eventuelle-rettslige-prosesser-reduserer-ikke-kravet/2-1-1148863",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Pilotene er nær frist i forhandlinger på tre måneder, og SAS står på sitt: – Eventuelle rettslige prosesser reduserer ikke kravet",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "B",
+            "header": {
+                "html_text": "Luftfart",
+                "id": "luftfart",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/aE5oY1BsTlRCWllXbmF5d1EvNnl0bkwzY2YxRU12Q2I3b3E5RzI0MTczUT0=/nhst/binary/af31cdd51a6ec5b35fa3723a5d40b96d?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/aE5oY1BsTlRCWllXbmF5d1EvNnl0bkwzY2YxRU12Q2I3b3E5RzI0MTczUT0=/nhst/binary/af31cdd51a6ec5b35fa3723a5d40b96d?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/aE5oY1BsTlRCWllXbmF5d1EvNnl0bkwzY2YxRU12Q2I3b3E5RzI0MTczUT0=/nhst/binary/af31cdd51a6ec5b35fa3723a5d40b96d?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/Qm5YMHVyU2tuYnJ1RGZIY205cVFIZ0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/af31cdd51a6ec5b35fa3723a5d40b96d",
+                    "landscape_representation": "https://images.dn.no/image/aE5oY1BsTlRCWllXbmF5d1EvNnl0bkwzY2YxRU12Q2I3b3E5RzI0MTczUT0=/nhst/binary/af31cdd51a6ec5b35fa3723a5d40b96d",
+                    "portrait_representation": "https://images.dn.no/image/aUlhYXRJcTN5aGFrSEp2MHlsZ2U3ZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/af31cdd51a6ec5b35fa3723a5d40b96d",
+                    "portrait_wide_representation": "https://images.dn.no/image/M1ExZTlaaCt5cG5IUStJRzBCcUlBOWE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/af31cdd51a6ec5b35fa3723a5d40b96d"
+                }
+            }
+        },
+        {
+            "id": "2-1-1149072",
+            "public_link": "https://www.dn.no/uten-filter/politikk/store-regjeringen/jonas-gahr-store/store-og-vedum-fra-seier-til-slit/2-1-1149072",
+            "layout": {
+                "theme": "commentary",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Frithjof Jacobsen",
+            "title": "Støre og Vedum fra seier til slit",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "B",
+            "author_info": {
+                "name": "Frithjof Jacobsen",
+                "title": "",
+                "image": {
+                    "photographer": {
+                        "name": ""
+                    },
+                    "caption": "",
+                    "alignment": "",
+                    "files": [
+                        {
+                            "url": "https://www.dn.no/bylines/f_jacobsen-2_s.jpg",
+                            "size": {
+                                "width": 96,
+                                "height": 96
+                            }
+                        },
+                        {
+                            "url": "https://www.dn.no/bylines/f_jacobsen-2_s.jpg",
+                            "size": {
+                                "width": 144,
+                                "height": 144
+                            }
+                        },
+                        {
+                            "url": "https://www.dn.no/bylines/f_jacobsen-2_s.jpg",
+                            "size": {
+                                "width": 288,
+                                "height": 288
+                            }
+                        }
+                    ],
+                    "representation": {
+                        "square_representation": "",
+                        "landscape_representation": "",
+                        "portrait_representation": "",
+                        "portrait_wide_representation": ""
+                    }
+                }
+            },
+            "header": {
+                "html_text": "Uten filter",
+                "id": "uten_filter",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/QXk1TklsV0F2N0txcE03NndDekFka2tRMXNQRjBacUtGamkvcXVXeklRbz0=/nhst/binary/9f106a558ca110bb36212b78d771474c?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/QXk1TklsV0F2N0txcE03NndDekFka2tRMXNQRjBacUtGamkvcXVXeklRbz0=/nhst/binary/9f106a558ca110bb36212b78d771474c?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/QXk1TklsV0F2N0txcE03NndDekFka2tRMXNQRjBacUtGamkvcXVXeklRbz0=/nhst/binary/9f106a558ca110bb36212b78d771474c?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/R0ZleEtKS0t0b0N5ZTFybWREL1lVeEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/9f106a558ca110bb36212b78d771474c",
+                    "landscape_representation": "https://images.dn.no/image/QXk1TklsV0F2N0txcE03NndDekFka2tRMXNQRjBacUtGamkvcXVXeklRbz0=/nhst/binary/9f106a558ca110bb36212b78d771474c",
+                    "portrait_representation": "https://images.dn.no/image/OVhveWFIWlBUVFNlcGJoSEk4bVNVeEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/9f106a558ca110bb36212b78d771474c",
+                    "portrait_wide_representation": "https://images.dn.no/image/ZXlyclo4b0RLRzErdnlzeVdxaHczaEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/9f106a558ca110bb36212b78d771474c"
+                }
+            }
+        },
+        {
+            "id": "2-1-1149401",
+            "public_link": "https://www.dn.no/etterbors/netflix-med-83-millioner-nye-abonnenter-i-fjerde-kvartal/2-1-1149401",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Netflix-aksjen stuper etter skuffende abonnementsvekst",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "B",
+            "header": {
+                "html_text": "Etterbørs",
+                "id": "etterbørs",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "type": "ad_dfp",
+            "provider": "dfp",
+            "mobile_alias": "/21646926696/dn.no/toppbanner",
+            "mobile_ratio": {
+                "width": 320,
+                "height": 250
+            },
+            "tablet_ratio": {},
+            "size_type": "BANNER"
+        },
+        {
+            "id": "ijrfr51s",
+            "public_link": "https://direkte.dn.no/nyhetsstudio/#102164",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "16.877 nye koronasmittede registrert siste døgn – ny rekord",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "group": {
+                "group_id": "c-flow_6"
+            },
+            "skin": "dn",
+            "priority": "C-Flow",
+            "background": "highlight",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "id": "f85bqsb3",
+            "public_link": "https://direkte.dn.no/nyhetsstudio/#102166",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Tajik: Seriøse aktører vil tilpasse seg regjeringens innstramninge",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "group": {
+                "group_id": "c-flow_6"
+            },
+            "skin": "dn",
+            "priority": "C-Flow",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "id": "d15fde4q",
+            "public_link": "https://direkte.dn.no/nyhetsstudio/#102165",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Serbia lytter til miljøvernere – planlagt litiumgruve stoppes",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "group": {
+                "group_id": "c-flow_6"
+            },
+            "skin": "dn",
+            "priority": "C-Flow",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "type": "hot_topics",
+            "title": "DN hot topics"
+        },
+        {
+            "type": "ad_dfp",
+            "provider": "dfp",
+            "mobile_alias": "/21646926696/dn.no/brandboard",
+            "mobile_ratio": {
+                "width": 320,
+                "height": 400
+            },
+            "tablet_ratio": {},
+            "size_type": "BANNER"
+        },
+        {
+            "id": "2-1-1149383",
+            "public_link": "https://www.dn.no/anbefaler-inntil-1500-deltagere-pa-arrangementer/2-1-1149383",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Anbefaler inntil 1500 deltagere på arrangementer",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/NjJsZWcvRFh1RlN6WWQyU3BTTGY3QkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/4883e75ca6292fdf1ecc3e5cd9bab330?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/NjJsZWcvRFh1RlN6WWQyU3BTTGY3QkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/4883e75ca6292fdf1ecc3e5cd9bab330?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/NjJsZWcvRFh1RlN6WWQyU3BTTGY3QkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/4883e75ca6292fdf1ecc3e5cd9bab330?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/UGdMcml5d0MrSUtLUzRpRjVJNUQzUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/4883e75ca6292fdf1ecc3e5cd9bab330",
+                    "landscape_representation": "https://images.dn.no/image/NjJsZWcvRFh1RlN6WWQyU3BTTGY3QkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/4883e75ca6292fdf1ecc3e5cd9bab330",
+                    "portrait_representation": "https://images.dn.no/image/VllNVTJkaHFqOGZlaDNkNjNxalQ1aEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/4883e75ca6292fdf1ecc3e5cd9bab330",
+                    "portrait_wide_representation": "https://images.dn.no/image/cTF4WEFUQkF3Nm5qMy82UkhXV0xheEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/4883e75ca6292fdf1ecc3e5cd9bab330"
+                }
+            }
+        },
+        {
+            "id": "2-1-1147849",
+            "public_link": "https://www.dn.no/leder/hadia-tajik/arbeidsliv/bemanningsbransjen/dn-mener-urettferdig-forbud-mot-innleie/2-1-1147849",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "DN mener: Urettferdig forbud mot innleie",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Leder",
+                "id": "leder",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/7e6fc05e3e7049c30ad22804be7af04e?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/7e6fc05e3e7049c30ad22804be7af04e?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/7e6fc05e3e7049c30ad22804be7af04e?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/ZW84cVRnQldoT3BXTDI0NWJLd21UZ0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/7e6fc05e3e7049c30ad22804be7af04e",
+                    "landscape_representation": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/7e6fc05e3e7049c30ad22804be7af04e",
+                    "portrait_representation": "https://images.dn.no/image/SStubVZxWVJMRWYxZzJGMzBJZW91dGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/7e6fc05e3e7049c30ad22804be7af04e",
+                    "portrait_wide_representation": "https://images.dn.no/image/L25DblJiRVBGZ21oMEh2alVqUDhrTmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/7e6fc05e3e7049c30ad22804be7af04e"
+                }
+            }
+        },
+        {
+            "id": "2-1-1146963",
+            "public_link": "https://www.dn.no/arbeidsliv/arbeidsliv/koronavaksine/aker-bp-nekter-uvaksinerte-a-jobbe-offshore-skaper-reaksjoner/2-1-1146963",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Aker BP nekter uvaksinerte å jobbe offshore – skaper reaksjoner",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Arbeidsliv",
+                "id": "arbeidsliv",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhRWxOaHVNMW0wOWo2a3ZNenJHL3hscz0=/nhst/binary/76d7c146be36a69191d4c00941c69a2f?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhRWxOaHVNMW0wOWo2a3ZNenJHL3hscz0=/nhst/binary/76d7c146be36a69191d4c00941c69a2f?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhRWxOaHVNMW0wOWo2a3ZNenJHL3hscz0=/nhst/binary/76d7c146be36a69191d4c00941c69a2f?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/T2FwN3AyVzQreDREMmRYNUVVa2NxeEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/76d7c146be36a69191d4c00941c69a2f",
+                    "landscape_representation": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhRWxOaHVNMW0wOWo2a3ZNenJHL3hscz0=/nhst/binary/76d7c146be36a69191d4c00941c69a2f",
+                    "portrait_representation": "https://images.dn.no/image/LzV3c2dGcXp4K0lOS3lXdGhCTzFoaEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/76d7c146be36a69191d4c00941c69a2f",
+                    "portrait_wide_representation": "https://images.dn.no/image/RVFOV3IrL1h1cEpmQ3NiNkFlOFJHUVVja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/76d7c146be36a69191d4c00941c69a2f"
+                }
+            }
+        },
+        {
+            "type": "ad_dfp",
+            "provider": "dfp",
+            "mobile_alias": "/21646926696/dn.no/ukens_stilling",
+            "mobile_ratio": {
+                "width": 320,
+                "height": 180
+            },
+            "tablet_ratio": {},
+            "size_type": "BANNER"
+        },
+        {
+            "id": "102163",
+            "public_link": "https://investor.dn.no/p/102163",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Oppgangen blåste bort på Wall Street",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "group": {
+                "group_id": "c-flow_11"
+            },
+            "skin": "investor",
+            "priority": "C-Flow",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "id": "102161",
+            "public_link": "https://investor.dn.no/p/102161",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Russlands sentralbank vil ha forbud mot kryptovaluta",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "group": {
+                "group_id": "c-flow_11"
+            },
+            "skin": "investor",
+            "priority": "C-Flow",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "id": "102158",
+            "public_link": "https://investor.dn.no/p/102158",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Flatt på Oslo Børs",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "group": {
+                "group_id": "c-flow_11"
+            },
+            "skin": "investor",
+            "priority": "C-Flow",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "id": "2-1-1148109",
+            "public_link": "https://www.dn.no/innlegg/strom/strompris/kraftmarkedet/innlegg-dagens-kraftmarked-fungerer-godt/2-1-1148109",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Dagens kraftmarked fungerer godt",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Innlegg",
+                "id": "innlegg",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/f6577f9486889600553785759e6b879e?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/f6577f9486889600553785759e6b879e?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/f6577f9486889600553785759e6b879e?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/M3VrUzlmNVpsOWFhcjZHNFF6LzFwUUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/f6577f9486889600553785759e6b879e",
+                    "landscape_representation": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/f6577f9486889600553785759e6b879e",
+                    "portrait_representation": "https://images.dn.no/image/NHBuVUs5M1hZOTNlRFJxSTV0VHQyOWE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/f6577f9486889600553785759e6b879e",
+                    "portrait_wide_representation": "https://images.dn.no/image/My9hVStISmxjTnNFajk3V0Q3d09VZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/f6577f9486889600553785759e6b879e"
+                }
+            }
+        },
+        {
+            "id": "2-1-1092365",
+            "public_link": "https://www.dn.no/d2/smak/mat/jordbruk/potet/den-kan-bli-til-sprit-gull-og-kan-redde-en-hel-verden/2-1-1092365",
+            "layout": {
+                "theme": "feature",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Den kan bli til sprit, gull – og kan redde en hel verden",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "d2",
+            "priority": "A",
+            "header": {
+                "html_text": "Smak",
+                "id": "smak",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvTExRSzhOenJYSzU4ZW8wNWlTYW16ST0=/nhst/binary/a947f679fd42ab16f382fc506e8dee39?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvTExRSzhOenJYSzU4ZW8wNWlTYW16ST0=/nhst/binary/a947f679fd42ab16f382fc506e8dee39?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvTExRSzhOenJYSzU4ZW8wNWlTYW16ST0=/nhst/binary/a947f679fd42ab16f382fc506e8dee39?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/MzRaNDJxTTV1ZVNEZThQNzRvNTF1dGxXRThkdHc0dStlRTdsbWNmcXF4Yz0=/nhst/binary/a947f679fd42ab16f382fc506e8dee39",
+                    "landscape_representation": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvTExRSzhOenJYSzU4ZW8wNWlTYW16ST0=/nhst/binary/a947f679fd42ab16f382fc506e8dee39",
+                    "portrait_representation": "https://images.dn.no/image/Q0pCWDJweVQ5aS8wSFN2R2JpUTFSdjN1MDVzQXNPcVV1QU0xNVFMaU1OYz0=/nhst/binary/a947f679fd42ab16f382fc506e8dee39",
+                    "portrait_wide_representation": "https://images.dn.no/image/UTlmUU1ERXhVM1pEUytobzlLb05UR3ZmZGQwVXlhNjlmZmJZWkRTVS9rTT0=/nhst/binary/a947f679fd42ab16f382fc506e8dee39"
+                }
+            }
+        },
+        {
+            "id": "2-1-1080820",
+            "public_link": "https://www.dn.no/magasinet/marked/magseis/seismikk/anders-farestveit/oljeservice-grunder-anders-farestveit-raser-etter-milliardfusjon-med-amerikanere-har-de-lurt-en-gjeng-naive-nordmenn/2-1-1080820",
+            "layout": {
+                "theme": "feature",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Project Thunder: – Den største dekkoperasjonen på Oslo Børs",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "magasinet",
+            "priority": "A",
+            "background": "highlight",
+            "header": {
+                "html_text": "Finans",
+                "id": "finans",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/QXk1TklsV0F2N0txcE03NndDekFkcENBUFJybW1YR3hrL1dWWmxIT0FnTT0=/nhst/binary/4def1b79806fab2dac4cf63f2de96ef9?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/QXk1TklsV0F2N0txcE03NndDekFkcENBUFJybW1YR3hrL1dWWmxIT0FnTT0=/nhst/binary/4def1b79806fab2dac4cf63f2de96ef9?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/QXk1TklsV0F2N0txcE03NndDekFkcENBUFJybW1YR3hrL1dWWmxIT0FnTT0=/nhst/binary/4def1b79806fab2dac4cf63f2de96ef9?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/bm43aW03RUlqRjZLWXczbXJwMkRGTmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/4def1b79806fab2dac4cf63f2de96ef9",
+                    "landscape_representation": "https://images.dn.no/image/QXk1TklsV0F2N0txcE03NndDekFkcENBUFJybW1YR3hrL1dWWmxIT0FnTT0=/nhst/binary/4def1b79806fab2dac4cf63f2de96ef9",
+                    "portrait_representation": "https://images.dn.no/image/T2xBYVltUE5zQTV2bDlDd3h4UG43OWE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/4def1b79806fab2dac4cf63f2de96ef9",
+                    "portrait_wide_representation": "https://images.dn.no/image/cGo3Z3pJdnJXSFVxa01vVXpVeHloTmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/4def1b79806fab2dac4cf63f2de96ef9"
+                }
+            }
+        },
+        {
+            "type": "ad_dfp",
+            "provider": "dfp",
+            "mobile_alias": "/21646926696/dn.no/brandboard",
+            "mobile_ratio": {
+                "width": 320,
+                "height": 400
+            },
+            "tablet_ratio": {},
+            "size_type": "BANNER"
+        },
+        {
+            "id": "2-1-1147685",
+            "public_link": "https://www.dn.no/kommentar/norges-bank/jens-stoltenberg/ida-wolden-bache/sjokket-som-gir-fordel-stoltenberg/2-1-1147685",
+            "layout": {
+                "theme": "commentary",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Sverre Strandhagen",
+            "title": "Sjokket som gir fordel Stoltenberg",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "author_info": {
+                "name": "Sverre Strandhagen",
+                "title": "",
+                "image": {
+                    "photographer": {
+                        "name": ""
+                    },
+                    "caption": "",
+                    "alignment": "",
+                    "files": [
+                        {
+                            "url": "https://www.dn.no/bylines/s_strandhagen_s.jpg",
+                            "size": {
+                                "width": 96,
+                                "height": 96
+                            }
+                        },
+                        {
+                            "url": "https://www.dn.no/bylines/s_strandhagen_s.jpg",
+                            "size": {
+                                "width": 144,
+                                "height": 144
+                            }
+                        },
+                        {
+                            "url": "https://www.dn.no/bylines/s_strandhagen_s.jpg",
+                            "size": {
+                                "width": 288,
+                                "height": 288
+                            }
+                        }
+                    ],
+                    "representation": {
+                        "square_representation": "",
+                        "landscape_representation": "",
+                        "portrait_representation": "",
+                        "portrait_wide_representation": ""
+                    }
+                }
+            },
+            "header": {
+                "html_text": "Kommentar",
+                "id": "kommentar",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/aE5oY1BsTlRCWllXbmF5d1EvNnl0c0ZWdzRxalpUdzRZVVUxVDdQSlhzST0=/nhst/binary/27459ee6afebd9ce08d284a7b2fccacc?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/aE5oY1BsTlRCWllXbmF5d1EvNnl0c0ZWdzRxalpUdzRZVVUxVDdQSlhzST0=/nhst/binary/27459ee6afebd9ce08d284a7b2fccacc?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/aE5oY1BsTlRCWllXbmF5d1EvNnl0c0ZWdzRxalpUdzRZVVUxVDdQSlhzST0=/nhst/binary/27459ee6afebd9ce08d284a7b2fccacc?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/RGFGQ1NxcGVkNFRUZXE5ZU5YK1VnZ0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/27459ee6afebd9ce08d284a7b2fccacc",
+                    "landscape_representation": "https://images.dn.no/image/aE5oY1BsTlRCWllXbmF5d1EvNnl0c0ZWdzRxalpUdzRZVVUxVDdQSlhzST0=/nhst/binary/27459ee6afebd9ce08d284a7b2fccacc",
+                    "portrait_representation": "https://images.dn.no/image/eFRWbnhubCsxSit5RXVBUS8wYnJIZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/27459ee6afebd9ce08d284a7b2fccacc",
+                    "portrait_wide_representation": "https://images.dn.no/image/QUwxT0ZqSFVZQ0lGdlVncjNVckJvdGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/27459ee6afebd9ce08d284a7b2fccacc"
+                }
+            }
+        },
+        {
+            "id": "2-1-1148986",
+            "public_link": "https://www.dn.no/innlegg/bitcoin/etherum/kryptovaluta/innlegg-mangelfullt-om-bitcoins-energibruk/2-1-1148986",
+            "layout": {
+                "theme": "commentary",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Svein Ølnes",
+            "title": "Mangelfullt om bitcoins energibruk",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Innlegg",
+                "id": "innlegg",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/0ab7c034b32bdac5237c9bb15fe7f962?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/0ab7c034b32bdac5237c9bb15fe7f962?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/0ab7c034b32bdac5237c9bb15fe7f962?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/ZW84cVRnQldoT3BXTDI0NWJLd21UZ0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/0ab7c034b32bdac5237c9bb15fe7f962",
+                    "landscape_representation": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/0ab7c034b32bdac5237c9bb15fe7f962",
+                    "portrait_representation": "https://images.dn.no/image/SStubVZxWVJMRWYxZzJGMzBJZW91dGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/0ab7c034b32bdac5237c9bb15fe7f962",
+                    "portrait_wide_representation": "https://images.dn.no/image/L25DblJiRVBGZ21oMEh2alVqUDhrTmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/0ab7c034b32bdac5237c9bb15fe7f962"
+                }
+            }
+        },
+        {
+            "id": "2-1-1148895",
+            "public_link": "https://www.dn.no/marked/investorveteran-jan-petter-sissener-enig-i-euronext-growth-kritikk-her-er-det-tapt-store-formuer/2-1-1148895",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Tidligere meglertopp om Euronext Growth-rapport:",
+            "title": "– Det skuffer meg at Børsen virker så lite villig til å fylle hele rollen sin",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Finans",
+                "id": "finans",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/36e03025a406c26eaa37a268fcc7002b?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/36e03025a406c26eaa37a268fcc7002b?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/36e03025a406c26eaa37a268fcc7002b?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/K2liMFRGSERYYTRIZG1jazViZVF4d0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/36e03025a406c26eaa37a268fcc7002b",
+                    "landscape_representation": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/36e03025a406c26eaa37a268fcc7002b",
+                    "portrait_representation": "https://images.dn.no/image/RUlTR0k0bHhHb2ExTVZpSFlsUXRadGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/36e03025a406c26eaa37a268fcc7002b",
+                    "portrait_wide_representation": "https://images.dn.no/image/Rll2WkxMR1FQN3RPSEo0QVQxY2pzTmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/36e03025a406c26eaa37a268fcc7002b"
+                }
+            }
+        },
+        {
+            "id": "6-1-JAUrMmiM",
+            "public_link": "https://dntv.dn.no/m/JAUrMmiM/meretes-utvalgte-rimelig-rodvinsfavoritt",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Et av Polets desidert rimeligste og beste rødvinskjøp",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dntv",
+            "priority": "A",
+            "header": {
+                "html_text": "Vin",
+                "id": "vin",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/7f41a0528496061c1e69865a10621b69?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/7f41a0528496061c1e69865a10621b69?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/7f41a0528496061c1e69865a10621b69?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/RCtYVHhqTmdyUUpDMlFPcm5XYjhheEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/7f41a0528496061c1e69865a10621b69",
+                    "landscape_representation": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/7f41a0528496061c1e69865a10621b69",
+                    "portrait_representation": "https://images.dn.no/image/NHp4aXU4UlRGakQremkzblBQQXd1UkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/7f41a0528496061c1e69865a10621b69",
+                    "portrait_wide_representation": "https://images.dn.no/image/SCtDaUxnOGhwTWsrQldjNmF4NlV2QkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/7f41a0528496061c1e69865a10621b69"
+                }
+            },
+            "video": {
+                "type": "dnPlay",
+                "image": {
+                    "photographer": {
+                        "name": ""
+                    },
+                    "caption": "",
+                    "alignment": "",
+                    "files": [
+                        {
+                            "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/7f41a0528496061c1e69865a10621b69?image_version=360",
+                            "size": {
+                                "width": 360,
+                                "height": 202
+                            }
+                        },
+                        {
+                            "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/7f41a0528496061c1e69865a10621b69?image_version=720",
+                            "size": {
+                                "width": 720,
+                                "height": 405
+                            }
+                        },
+                        {
+                            "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/7f41a0528496061c1e69865a10621b69?image_version=1080",
+                            "size": {
+                                "width": 1080,
+                                "height": 607
+                            }
+                        }
+                    ],
+                    "representation": {
+                        "square_representation": "https://images.dn.no/image/RCtYVHhqTmdyUUpDMlFPcm5XYjhheEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/7f41a0528496061c1e69865a10621b69",
+                        "landscape_representation": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/7f41a0528496061c1e69865a10621b69",
+                        "portrait_representation": "https://images.dn.no/image/NHp4aXU4UlRGakQremkzblBQQXd1UkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/7f41a0528496061c1e69865a10621b69",
+                        "portrait_wide_representation": "https://images.dn.no/image/SCtDaUxnOGhwTWsrQldjNmF4NlV2QkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/7f41a0528496061c1e69865a10621b69"
+                    }
+                },
+                "provider": "brightcove"
+            }
+        },
+        {
+            "id": "2-1-1144548",
+            "public_link": "https://www.dn.no/magasinet/portrettet/gunnveig-grodeland/immunitet/korona/gunnveig-grodeland-nar-folk-lar-vare-a-invitere-venner-som-er-uvaksinerte-da-har-det-gatt-for-langt/2-1-1144548",
+            "layout": {
+                "theme": "feature",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Vaksineforsker:",
+            "title": "– Når folk lar være å invitere venner som er uvaksinerte, da har det gått for langt",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "magasinet",
+            "priority": "A",
+            "header": {
+                "html_text": "Portrettet",
+                "id": "portrettet",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/cE9ha3kwS2phTE54NTQ3ZTh2MnQxd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/ef20a4ba473608abb7964f15f29ce261?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/cE9ha3kwS2phTE54NTQ3ZTh2MnQxd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/ef20a4ba473608abb7964f15f29ce261?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/cE9ha3kwS2phTE54NTQ3ZTh2MnQxd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/ef20a4ba473608abb7964f15f29ce261?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/UkpWY2d0WDBmUkhxQzBLWnhpOUlhZ0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/ef20a4ba473608abb7964f15f29ce261",
+                    "landscape_representation": "https://images.dn.no/image/cE9ha3kwS2phTE54NTQ3ZTh2MnQxd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/ef20a4ba473608abb7964f15f29ce261",
+                    "portrait_representation": "https://images.dn.no/image/OFNjMnJNQk9OaXRFYlNldFZHL3AwdGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/ef20a4ba473608abb7964f15f29ce261",
+                    "portrait_wide_representation": "https://images.dn.no/image/eHYvM3BvMU95TERqeSsySStQOTdZTmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/ef20a4ba473608abb7964f15f29ce261"
+                }
+            }
+        },
+        {
+            "type": "ad_dfp",
+            "provider": "dfp",
+            "mobile_alias": "/21646926696/dn.no/brandboard",
+            "mobile_ratio": {
+                "width": 320,
+                "height": 320
+            },
+            "tablet_ratio": {},
+            "size_type": "BANNER"
+        },
+        {
+            "id": "2-1-1027634",
+            "public_link": "https://www.dn.no/magasinet/helse/diett/helse/tom-i-magen-skarp-i-hodet/2-1-1027634",
+            "layout": {
+                "theme": "feature",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "De faster for å få et klarere hode",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "magasinet",
+            "priority": "A",
+            "header": {
+                "html_text": "Helse",
+                "id": "helse",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/aE5oY1BsTlRCWllXbmF5d1EvNnl0akI3MTEwTVlBZ1pmbXc5aXpZQ2xoVT0=/nhst/binary/2372c782fd2f1a37e66f523c098f8c4c?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/aE5oY1BsTlRCWllXbmF5d1EvNnl0akI3MTEwTVlBZ1pmbXc5aXpZQ2xoVT0=/nhst/binary/2372c782fd2f1a37e66f523c098f8c4c?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/aE5oY1BsTlRCWllXbmF5d1EvNnl0akI3MTEwTVlBZ1pmbXc5aXpZQ2xoVT0=/nhst/binary/2372c782fd2f1a37e66f523c098f8c4c?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/MzRaNDJxTTV1ZVNEZThQNzRvNTF1dDYzdFlIK3hPYjJkdXJvVmErZm1qST0=/nhst/binary/2372c782fd2f1a37e66f523c098f8c4c",
+                    "landscape_representation": "https://images.dn.no/image/aE5oY1BsTlRCWllXbmF5d1EvNnl0akI3MTEwTVlBZ1pmbXc5aXpZQ2xoVT0=/nhst/binary/2372c782fd2f1a37e66f523c098f8c4c",
+                    "portrait_representation": "https://images.dn.no/image/cnRWTEV0dGZTSVJIYmdleldlSWt4dGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/2372c782fd2f1a37e66f523c098f8c4c",
+                    "portrait_wide_representation": "https://images.dn.no/image/UTlmUU1ERXhVM1pEUytobzlLb05USk4vY1YzZStXaVFLUXhjSzhpWWduND0=/nhst/binary/2372c782fd2f1a37e66f523c098f8c4c"
+                }
+            }
+        },
+        {
+            "id": "2-1-1145238",
+            "public_link": "https://www.dn.no/magasinet/musikk/aurora/petroleum-records/anmeldelser/guddommelig-aurora/2-1-1145238",
+            "layout": {
+                "theme": "feature",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Aurora Aksnes er blitt en av landets største popstjerner. Nå vender hun blikket mot det hinsidige",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "magasinet",
+            "priority": "A",
+            "header": {
+                "html_text": "Musikk",
+                "id": "musikk",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvT3h0V1JQRVhCWHRhbFh6QW5vWC96Zz0=/nhst/binary/f472eabff736ae0e1467875895d69b76?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvT3h0V1JQRVhCWHRhbFh6QW5vWC96Zz0=/nhst/binary/f472eabff736ae0e1467875895d69b76?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvT3h0V1JQRVhCWHRhbFh6QW5vWC96Zz0=/nhst/binary/f472eabff736ae0e1467875895d69b76?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/MzRaNDJxTTV1ZVNEZThQNzRvNTF1bHBzN3MxSVJZK2ZmSWIySkQrMnR1ST0=/nhst/binary/f472eabff736ae0e1467875895d69b76",
+                    "landscape_representation": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvT3h0V1JQRVhCWHRhbFh6QW5vWC96Zz0=/nhst/binary/f472eabff736ae0e1467875895d69b76",
+                    "portrait_representation": "https://images.dn.no/image/Q0pCWDJweVQ5aS8wSFN2R2JpUTFScGFNUnpzdHhBZ3V0ZmhJVXhrOU5Oaz0=/nhst/binary/f472eabff736ae0e1467875895d69b76",
+                    "portrait_wide_representation": "https://images.dn.no/image/UTlmUU1ERXhVM1pEUytobzlLb05UQmVYVGppdXNRYXkyV2ZpbUtuSWs0Zz0=/nhst/binary/f472eabff736ae0e1467875895d69b76"
+                }
+            }
+        },
+        {
+            "id": "6-1-CajmG9Jd",
+            "public_link": "https://dntv.dn.no/m/CajmG9Jd/slik-ble-han-seismikkens-far",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Slik ble han seismikkens far",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dntv",
+            "priority": "B",
+            "header": {
+                "html_text": "Energi",
+                "id": "energi",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/8228f941b6e58d3be462d8810446cd2a?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/8228f941b6e58d3be462d8810446cd2a?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/8228f941b6e58d3be462d8810446cd2a?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/TDNQSVF6TENxeDNXSHRtaTkxTUcxQVVja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/8228f941b6e58d3be462d8810446cd2a",
+                    "landscape_representation": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/8228f941b6e58d3be462d8810446cd2a",
+                    "portrait_representation": "https://images.dn.no/image/Sm5peUZxbE9NMzZpTnZGcXdEYkVXeEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/8228f941b6e58d3be462d8810446cd2a",
+                    "portrait_wide_representation": "https://images.dn.no/image/akpFVFJoV2NZbFpNelJVdUdYcTczeEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/8228f941b6e58d3be462d8810446cd2a"
+                }
+            },
+            "video": {
+                "type": "dnPlay",
+                "image": {
+                    "photographer": {
+                        "name": ""
+                    },
+                    "caption": "",
+                    "alignment": "",
+                    "files": [
+                        {
+                            "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/8228f941b6e58d3be462d8810446cd2a?image_version=360",
+                            "size": {
+                                "width": 360,
+                                "height": 202
+                            }
+                        },
+                        {
+                            "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/8228f941b6e58d3be462d8810446cd2a?image_version=720",
+                            "size": {
+                                "width": 720,
+                                "height": 405
+                            }
+                        },
+                        {
+                            "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/8228f941b6e58d3be462d8810446cd2a?image_version=1080",
+                            "size": {
+                                "width": 1080,
+                                "height": 607
+                            }
+                        }
+                    ],
+                    "representation": {
+                        "square_representation": "https://images.dn.no/image/TDNQSVF6TENxeDNXSHRtaTkxTUcxQVVja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/8228f941b6e58d3be462d8810446cd2a",
+                        "landscape_representation": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/8228f941b6e58d3be462d8810446cd2a",
+                        "portrait_representation": "https://images.dn.no/image/Sm5peUZxbE9NMzZpTnZGcXdEYkVXeEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/8228f941b6e58d3be462d8810446cd2a",
+                        "portrait_wide_representation": "https://images.dn.no/image/akpFVFJoV2NZbFpNelJVdUdYcTczeEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/8228f941b6e58d3be462d8810446cd2a"
+                    }
+                },
+                "provider": "brightcove"
+            }
+        },
+        {
+            "id": "2-1-1149050",
+            "public_link": "https://www.dn.no/bors/huddly/revisjon/finanstilsynet/finanstilsynet-med-knallhard-kritikk-av-revisjonsselskapet-mazars-etter-euronext-gjennomgang-alvorlig-brudd-pa-revisorloven/2-1-1149050",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Finanstilsynet med knallhard kritikk av Mazars: – Alvorlig brudd på revisorloven",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Børs",
+                "id": "børs",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/efd404a0481e508564780702cd9e8299?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/efd404a0481e508564780702cd9e8299?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/efd404a0481e508564780702cd9e8299?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/Vm5ieFJTL0lHNmltZ1VaZzlKaDUvUUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/efd404a0481e508564780702cd9e8299",
+                    "landscape_representation": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/efd404a0481e508564780702cd9e8299",
+                    "portrait_representation": "https://images.dn.no/image/UzJJZFdKRlhaUVkwbm1rZlZHZ3V4TmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/efd404a0481e508564780702cd9e8299",
+                    "portrait_wide_representation": "https://images.dn.no/image/VE9TVllFWVUyc0oxQTBrd0FEWDl2TmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/efd404a0481e508564780702cd9e8299"
+                }
+            }
+        },
+        {
+            "id": "2-1-1149084",
+            "public_link": "https://www.dn.no/arbeidsliv/rammes-bedriften-av-karantenekravene/2-1-1149084",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Etterlysning: Rammes bedriften av karantenekravene?",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "B",
+            "header": {
+                "html_text": "Arbeidsliv",
+                "id": "arbeidsliv",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "id": "2-1-1140336",
+            "public_link": "https://www.dn.no/magasinet/boker/kjarlighet/familie/barn/-i-krangelen-er-vi-like-darlige-begge-to/2-1-1140336",
+            "layout": {
+                "theme": "feature",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Steinar Sagen:",
+            "title": "– Skilsmisse er bra for samfunnsøkonomien",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "magasinet",
+            "priority": "A",
+            "header": {
+                "html_text": "Bøker",
+                "id": "bøker",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/ckZMa2VpMWdRdDZYOVltcVVzS1gwQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/ba8655fe579a49d2f363f48607b75c23?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/ckZMa2VpMWdRdDZYOVltcVVzS1gwQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/ba8655fe579a49d2f363f48607b75c23?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/ckZMa2VpMWdRdDZYOVltcVVzS1gwQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/ba8655fe579a49d2f363f48607b75c23?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/SlVzTnE4MEVyaFUxbFVPcHROOFhSUUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/ba8655fe579a49d2f363f48607b75c23",
+                    "landscape_representation": "https://images.dn.no/image/ckZMa2VpMWdRdDZYOVltcVVzS1gwQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/ba8655fe579a49d2f363f48607b75c23",
+                    "portrait_representation": "https://images.dn.no/image/a0lVSTlQSEVrdGlzeGF4eWN4ZlBmNmtyUDhRYzBFc21sbzZnaFVtM0VaYz0=/nhst/binary/ba8655fe579a49d2f363f48607b75c23",
+                    "portrait_wide_representation": "https://images.dn.no/image/ajBSTnZlT2FLd01QUDJtTUtvWFU0Z0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/ba8655fe579a49d2f363f48607b75c23"
+                }
+            }
+        },
+        {
+            "id": "2-1-1143218",
+            "public_link": "https://www.dn.no/smak/restaurantguiden/oslobukta/barcode/bjorvika/the-vandelay-overpriset-maaemo-slektning/2-1-1143218",
+            "layout": {
+                "theme": "feature",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "The Vandelay:",
+            "title": "Da vi spurte hva det var i artisjokkdippen, var svaret: «Noe meierigreier, tipper jeg»",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "smak",
+            "priority": "A",
+            "header": {
+                "html_text": "Restaurantguiden",
+                "id": "restaurantguiden",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhRjQzcjNnUEhBSTRpaDNndDJTakdGQT0=/nhst/binary/890e798452848d900183fcdafbbc2605?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhRjQzcjNnUEhBSTRpaDNndDJTakdGQT0=/nhst/binary/890e798452848d900183fcdafbbc2605?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhRjQzcjNnUEhBSTRpaDNndDJTakdGQT0=/nhst/binary/890e798452848d900183fcdafbbc2605?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/TE02WXRHZ2M4NUkzZlBndnBaK3kyd0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/890e798452848d900183fcdafbbc2605",
+                    "landscape_representation": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhRjQzcjNnUEhBSTRpaDNndDJTakdGQT0=/nhst/binary/890e798452848d900183fcdafbbc2605",
+                    "portrait_representation": "https://images.dn.no/image/NGtCK3VOWmlIOUU5a2JBM3cvU3JwZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/890e798452848d900183fcdafbbc2605",
+                    "portrait_wide_representation": "https://images.dn.no/image/eGJmdWtIdDg4OCtZdTRaQXVaeFE3ZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/890e798452848d900183fcdafbbc2605"
+                }
+            }
+        },
+        {
+            "id": "ydax9gcc",
+            "public_link": "https://direkte.dn.no/nyhetsstudio/#102157",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Demonstrasjoner mot høye strømpriser i flere norske byer",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "group": {
+                "group_id": "c-flow_30"
+            },
+            "skin": "dn",
+            "priority": "C-Flow",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "id": "102154",
+            "public_link": "https://investor.dn.no/p/102154",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Opptur på Wall Street etter tunge dager",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "group": {
+                "group_id": "c-flow_30"
+            },
+            "skin": "investor",
+            "priority": "C-Flow",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "id": "lfttl3oq",
+            "public_link": "https://direkte.dn.no/nyhetsstudio/#102141",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Helsedirektoratet:",
+            "title": "Økende smittetrend har ikke økt belastningen på helsetjenesten",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "group": {
+                "group_id": "c-flow_30"
+            },
+            "skin": "dn",
+            "priority": "C-Flow",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "id": "6-1-1E8gdHck",
+            "public_link": "https://dntv.dn.no/m/1E8gdHck/bil-med-embret-dette-her-er-en-morsom-bil",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Bil med Embret:",
+            "title": "– Du skal kunne leke deg med denne bilen",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dntv",
+            "priority": "A",
+            "header": {
+                "html_text": "Motor",
+                "id": "motor",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/Y2pEdUtmZ2hjTnh2ZCs1L1JjSU5DUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/7aacf1a6feb099326879d1136f431dc2?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/Y2pEdUtmZ2hjTnh2ZCs1L1JjSU5DUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/7aacf1a6feb099326879d1136f431dc2?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/Y2pEdUtmZ2hjTnh2ZCs1L1JjSU5DUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/7aacf1a6feb099326879d1136f431dc2?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/RE4xdWdpTDdlQzN1QXZONFV6bDh3d0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/7aacf1a6feb099326879d1136f431dc2",
+                    "landscape_representation": "https://images.dn.no/image/Y2pEdUtmZ2hjTnh2ZCs1L1JjSU5DUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/7aacf1a6feb099326879d1136f431dc2",
+                    "portrait_representation": "https://images.dn.no/image/QnAxYlpWMSttRU5YV3VwRHo0cEZhZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/7aacf1a6feb099326879d1136f431dc2",
+                    "portrait_wide_representation": "https://images.dn.no/image/QTZGbHBmWEh5Z0RZYURNRStFNGYvdGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/7aacf1a6feb099326879d1136f431dc2"
+                }
+            },
+            "video": {
+                "type": "dnPlay",
+                "image": {
+                    "photographer": {
+                        "name": ""
+                    },
+                    "caption": "",
+                    "alignment": "",
+                    "files": [
+                        {
+                            "url": "https://images.dn.no/image/Y2pEdUtmZ2hjTnh2ZCs1L1JjSU5DUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/7aacf1a6feb099326879d1136f431dc2?image_version=360",
+                            "size": {
+                                "width": 360,
+                                "height": 202
+                            }
+                        },
+                        {
+                            "url": "https://images.dn.no/image/Y2pEdUtmZ2hjTnh2ZCs1L1JjSU5DUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/7aacf1a6feb099326879d1136f431dc2?image_version=720",
+                            "size": {
+                                "width": 720,
+                                "height": 405
+                            }
+                        },
+                        {
+                            "url": "https://images.dn.no/image/Y2pEdUtmZ2hjTnh2ZCs1L1JjSU5DUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/7aacf1a6feb099326879d1136f431dc2?image_version=1080",
+                            "size": {
+                                "width": 1080,
+                                "height": 607
+                            }
+                        }
+                    ],
+                    "representation": {
+                        "square_representation": "https://images.dn.no/image/RE4xdWdpTDdlQzN1QXZONFV6bDh3d0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/7aacf1a6feb099326879d1136f431dc2",
+                        "landscape_representation": "https://images.dn.no/image/Y2pEdUtmZ2hjTnh2ZCs1L1JjSU5DUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/7aacf1a6feb099326879d1136f431dc2",
+                        "portrait_representation": "https://images.dn.no/image/QnAxYlpWMSttRU5YV3VwRHo0cEZhZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/7aacf1a6feb099326879d1136f431dc2",
+                        "portrait_wide_representation": "https://images.dn.no/image/QTZGbHBmWEh5Z0RZYURNRStFNGYvdGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/7aacf1a6feb099326879d1136f431dc2"
+                    }
+                },
+                "provider": "brightcove"
+            }
+        },
+        {
+            "id": "2-1-1141855",
+            "public_link": "https://www.dn.no/d2/stilkoden/anders-kemp/har/gra/bor-jeg-satse-pa-gratt-har/2-1-1141855",
+            "layout": {
+                "theme": "feature",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "«Ikke sikker på om jeg er klar for en grå ramme rundt ansiktet»",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "d2",
+            "priority": "A",
+            "background": "highlight",
+            "header": {
+                "html_text": "Stilkoden",
+                "id": "stilkoden",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/cE9ha3kwS2phTE54NTQ3ZTh2MnQxd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/6ec9cd52f84111a0d613635b895c012c?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/cE9ha3kwS2phTE54NTQ3ZTh2MnQxd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/6ec9cd52f84111a0d613635b895c012c?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/cE9ha3kwS2phTE54NTQ3ZTh2MnQxd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/6ec9cd52f84111a0d613635b895c012c?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/MzRaNDJxTTV1ZVNEZThQNzRvNTF1aEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/6ec9cd52f84111a0d613635b895c012c",
+                    "landscape_representation": "https://images.dn.no/image/cE9ha3kwS2phTE54NTQ3ZTh2MnQxd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/6ec9cd52f84111a0d613635b895c012c",
+                    "portrait_representation": "https://images.dn.no/image/S1pib3ZKT3pkY2VjWG9Db0U2R2l1QUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/6ec9cd52f84111a0d613635b895c012c",
+                    "portrait_wide_representation": "https://images.dn.no/image/NG95UThQOXpoNWxRT3o0UnYxaEVlQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/6ec9cd52f84111a0d613635b895c012c"
+                }
+            }
+        },
+        {
+            "id": "2-1-1148949",
+            "public_link": "https://www.dn.no/kommentar/oslo-bors/euronext-growth/borsnoteringer/mens-beskrivelsen-av-interessekonflikter-manglet-var-aksjemeglerne-noye-med-ansvarsfraskrivelsene/2-1-1148949",
+            "layout": {
+                "theme": "commentary",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Bård Bjerkholt",
+            "title": "Mens beskrivelsen av interessekonflikter manglet, var aksjemeglerne nøye med ansvarsfraskrivelsene",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "author_info": {
+                "name": "Bård Bjerkholt",
+                "title": "",
+                "image": {
+                    "photographer": {
+                        "name": ""
+                    },
+                    "caption": "",
+                    "alignment": "",
+                    "files": [
+                        {
+                            "url": "https://www.dn.no/bylines/b_bjerkholt_s.jpg",
+                            "size": {
+                                "width": 96,
+                                "height": 96
+                            }
+                        },
+                        {
+                            "url": "https://www.dn.no/bylines/b_bjerkholt_s.jpg",
+                            "size": {
+                                "width": 144,
+                                "height": 144
+                            }
+                        },
+                        {
+                            "url": "https://www.dn.no/bylines/b_bjerkholt_s.jpg",
+                            "size": {
+                                "width": 288,
+                                "height": 288
+                            }
+                        }
+                    ],
+                    "representation": {
+                        "square_representation": "",
+                        "landscape_representation": "",
+                        "portrait_representation": "",
+                        "portrait_wide_representation": ""
+                    }
+                }
+            },
+            "header": {
+                "html_text": "Kommentar",
+                "id": "kommentar",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/5939cec641039f199ed5ba90bbd2587c?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/5939cec641039f199ed5ba90bbd2587c?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/5939cec641039f199ed5ba90bbd2587c?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/ajhvM0hLOFJMYjA1cUJlTDZXZSt3QUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/5939cec641039f199ed5ba90bbd2587c",
+                    "landscape_representation": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/5939cec641039f199ed5ba90bbd2587c",
+                    "portrait_representation": "https://images.dn.no/image/YU80eTRZUEgreXBuY2dYNXVwUHVDTmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/5939cec641039f199ed5ba90bbd2587c",
+                    "portrait_wide_representation": "https://images.dn.no/image/eUFpSldPMEpJSnBSaHcrUUVaYmQ3TmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/5939cec641039f199ed5ba90bbd2587c"
+                }
+            }
+        },
+        {
+            "id": "2-1-1149011",
+            "public_link": "https://www.dn.no/bors/oslo-bors/oivind-amundsen/euronext-growth/borsdirektoren-om-finanstilsynets-rapport-ikke-kommet-med-noen-alvorlige-forhold/2-1-1149011",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Børsdirektøren om Finanstilsynets rapport:",
+            "title": "– Ikke kommet med noen alvorlige forhold",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Børs",
+                "id": "børs",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/78484b7721db4b87079dc2de653808bb?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/78484b7721db4b87079dc2de653808bb?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/78484b7721db4b87079dc2de653808bb?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/ajhRQ0x5RVNnZHYvd3RqTDhxUXEwd0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/78484b7721db4b87079dc2de653808bb",
+                    "landscape_representation": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/78484b7721db4b87079dc2de653808bb",
+                    "portrait_representation": "https://images.dn.no/image/WUQvMGViUGhvRVBQT1JjOG5KN3BnOWE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/78484b7721db4b87079dc2de653808bb",
+                    "portrait_wide_representation": "https://images.dn.no/image/VUtIdElYWlNPM1V2TEtnVE1aSnh2ZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/78484b7721db4b87079dc2de653808bb"
+                }
+            }
+        },
+        {
+            "id": "2-1-1148078",
+            "public_link": "https://www.dn.no/innlegg/koronadebatt/jus/politikk/innlegg-om-koronapass-fullvaksinert-i-dag-uvaksinert-i-morgen/2-1-1148078",
+            "layout": {
+                "theme": "commentary",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Morten Walløe Tvedt, førsteamanuensis i rettsvitenskap:",
+            "title": "«Fullvaksinert» i dag – «uvaksinert» i morgen",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Innlegg",
+                "id": "innlegg",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/d1NMaGNqWnJmVUQ4Q2lnWE9uZ21mSkNBUFJybW1YR3hrL1dWWmxIT0FnTT0=/nhst/binary/b53e0845dca7dcc74763084f33c78888?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/d1NMaGNqWnJmVUQ4Q2lnWE9uZ21mSkNBUFJybW1YR3hrL1dWWmxIT0FnTT0=/nhst/binary/b53e0845dca7dcc74763084f33c78888?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/d1NMaGNqWnJmVUQ4Q2lnWE9uZ21mSkNBUFJybW1YR3hrL1dWWmxIT0FnTT0=/nhst/binary/b53e0845dca7dcc74763084f33c78888?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/VkpqSUFnb2hZSEM0azV4VllvMm1oQUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/b53e0845dca7dcc74763084f33c78888",
+                    "landscape_representation": "https://images.dn.no/image/d1NMaGNqWnJmVUQ4Q2lnWE9uZ21mSkNBUFJybW1YR3hrL1dWWmxIT0FnTT0=/nhst/binary/b53e0845dca7dcc74763084f33c78888",
+                    "portrait_representation": "https://images.dn.no/image/dEtBV0piaGllU2Vkd2hISXBUVWlqZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/b53e0845dca7dcc74763084f33c78888",
+                    "portrait_wide_representation": "https://images.dn.no/image/T20xWFhkUW9UbFY5ajc4OFpIb3JwTmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/b53e0845dca7dcc74763084f33c78888"
+                }
+            }
+        },
+        {
+            "id": "2-1-1145241",
+            "public_link": "https://www.dn.no/magasinet/musikk/anmeldelser/anmeldt/delillos/album-nummer-19/2-1-1145241",
+            "layout": {
+                "theme": "feature",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "deLillos overbeviser igjen, nå med konseptalbumet «Evige dager»",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "magasinet",
+            "priority": "A",
+            "header": {
+                "html_text": "Musikk",
+                "id": "musikk",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/4590476afcc91206b80b0b8cc4772a8f?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/4590476afcc91206b80b0b8cc4772a8f?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/4590476afcc91206b80b0b8cc4772a8f?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/M1NlclBmTUFmSlhvanJVM2ZZb1UzQUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/4590476afcc91206b80b0b8cc4772a8f",
+                    "landscape_representation": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/4590476afcc91206b80b0b8cc4772a8f",
+                    "portrait_representation": "https://images.dn.no/image/OXpDMzJtR0Z3ZVBQZWhRVmZ4YTdEZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/4590476afcc91206b80b0b8cc4772a8f",
+                    "portrait_wide_representation": "https://images.dn.no/image/ZDBBdkc3SHFZNk9CdDR1Yys5L1gxdGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/4590476afcc91206b80b0b8cc4772a8f"
+                }
+            }
+        },
+        {
+            "id": "2-1-1148887",
+            "public_link": "https://www.dn.no/eiendom/boligprodusentenes-forening/hyttemarkedet/hytter/fritidsboligmarkedet-er-na-storre-enn-smahusmarkedet-hyttebyggerne-venter-videre-vekst-i-ar/2-1-1148887",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Nå er fritidsboligmarkedet større enn småhusmarkedet",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "B",
+            "header": {
+                "html_text": "Eiendom",
+                "id": "eiendom",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhRzFlOVpwbk5VbWJVQzAwemFWOVlEaz0=/nhst/binary/b28f05ec2e6454c0df378713678a2d2d?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhRzFlOVpwbk5VbWJVQzAwemFWOVlEaz0=/nhst/binary/b28f05ec2e6454c0df378713678a2d2d?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhRzFlOVpwbk5VbWJVQzAwemFWOVlEaz0=/nhst/binary/b28f05ec2e6454c0df378713678a2d2d?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/dzlPdFZSRWxuWmlTamt6SENkZmE3Z0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/b28f05ec2e6454c0df378713678a2d2d",
+                    "landscape_representation": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhRzFlOVpwbk5VbWJVQzAwemFWOVlEaz0=/nhst/binary/b28f05ec2e6454c0df378713678a2d2d",
+                    "portrait_representation": "https://images.dn.no/image/MkU3NUdzMHFKb0o2VTdMZlV2bGYwZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/b28f05ec2e6454c0df378713678a2d2d",
+                    "portrait_wide_representation": "https://images.dn.no/image/OFJqZm0zUmdmclFNb1ZJSzlMK2xBTmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/b28f05ec2e6454c0df378713678a2d2d"
+                }
+            }
+        },
+        {
+            "id": "2-1-1147923",
+            "public_link": "https://www.dn.no/magasinet/profil/ida-wolden-bache/jens-stoltenberg/bank/professor-ansatte-ida-wolden-bache-i-norges-bank-det-forste-vi-sa-etter-intervjuet-var-hun-ma-vi-ha/2-1-1147923",
+            "layout": {
+                "theme": "feature",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "– Ida er den flinkeste eleven jeg noen gang har hatt",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "magasinet",
+            "priority": "A",
+            "header": {
+                "html_text": "Profil",
+                "id": "profil",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/fa5e9f667d6f68b1d55325dd991a1c1a?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/fa5e9f667d6f68b1d55325dd991a1c1a?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/fa5e9f667d6f68b1d55325dd991a1c1a?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/emxjc2duTW1ua2hZV3IxYWFSWWIrQUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/fa5e9f667d6f68b1d55325dd991a1c1a",
+                    "landscape_representation": "https://images.dn.no/image/OXBhZHF3Y25LdWZ3RllUd2VpbjkvQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/fa5e9f667d6f68b1d55325dd991a1c1a",
+                    "portrait_representation": "https://images.dn.no/image/L0Eyb1VlbHUzZEhuSVNsMTBSWnJUOWE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/fa5e9f667d6f68b1d55325dd991a1c1a",
+                    "portrait_wide_representation": "https://images.dn.no/image/S3RSNjRMd2hURWkvUVcrMno2K0owdGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/fa5e9f667d6f68b1d55325dd991a1c1a"
+                }
+            }
+        },
+        {
+            "id": "gjggm254",
+            "public_link": "https://direkte.dn.no/nyhetsstudio/#102152",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Nakstad er koronasmittet",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "skin": "dn",
+            "priority": "B",
+            "background": "highlight",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/T3lFYTRzbFkvT2k3QkFlaDJXSTdUQmE0Nkc5TmQ4TVpVOFhFZWJ5NlJtZz0=/nhst/binary/0e0534ad9145252a758a612f1fc24c9a?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/T3lFYTRzbFkvT2k3QkFlaDJXSTdUQmE0Nkc5TmQ4TVpVOFhFZWJ5NlJtZz0=/nhst/binary/0e0534ad9145252a758a612f1fc24c9a?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/T3lFYTRzbFkvT2k3QkFlaDJXSTdUQmE0Nkc5TmQ4TVpVOFhFZWJ5NlJtZz0=/nhst/binary/0e0534ad9145252a758a612f1fc24c9a?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/MERERkM1SDJaY28zMnhoajk0c21neTQ3d2NmV3EvS1JFVEZrM05GYXlGUT0=/nhst/binary/0e0534ad9145252a758a612f1fc24c9a",
+                    "landscape_representation": "https://images.dn.no/image/T3lFYTRzbFkvT2k3QkFlaDJXSTdUQmE0Nkc5TmQ4TVpVOFhFZWJ5NlJtZz0=/nhst/binary/0e0534ad9145252a758a612f1fc24c9a",
+                    "portrait_representation": "https://images.dn.no/image/VXY5L0dnQWZBYjloM2hOcUJQeWp5N25LSk1FYzNFcm0rc2xFVDYzdzh2UT0=/nhst/binary/0e0534ad9145252a758a612f1fc24c9a",
+                    "portrait_wide_representation": "https://images.dn.no/image/bHV6Y1JRYldyRzBYd2dWbG5LWE9ucm5LSk1FYzNFcm0rc2xFVDYzdzh2UT0=/nhst/binary/0e0534ad9145252a758a612f1fc24c9a"
+                }
+            }
+        },
+        {
+            "id": "2-1-1148476",
+            "public_link": "https://www.dn.no/bors/nicolay-grove/frontline/kahoot/investor-nicolay-grove-satset-alt-pa-frontline-na-selger-han-og-spar-marerittkvartal-for-selskapet/2-1-1148476",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Satset alt på Frontline og trodde på dobling – nå selger han",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Børs",
+                "id": "børs",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/TGpnUTJPblZwaEQ1aVc4bUg2S2ZrN0xRSzhOenJYSzU4ZW8wNWlTYW16ST0=/nhst/binary/4da060a04194f80b0d5860e454d00940?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/TGpnUTJPblZwaEQ1aVc4bUg2S2ZrN0xRSzhOenJYSzU4ZW8wNWlTYW16ST0=/nhst/binary/4da060a04194f80b0d5860e454d00940?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/TGpnUTJPblZwaEQ1aVc4bUg2S2ZrN0xRSzhOenJYSzU4ZW8wNWlTYW16ST0=/nhst/binary/4da060a04194f80b0d5860e454d00940?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/NWtINmd3RVhtalpjdVpURXczUGZGZ0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/4da060a04194f80b0d5860e454d00940",
+                    "landscape_representation": "https://images.dn.no/image/TGpnUTJPblZwaEQ1aVc4bUg2S2ZrN0xRSzhOenJYSzU4ZW8wNWlTYW16ST0=/nhst/binary/4da060a04194f80b0d5860e454d00940",
+                    "portrait_representation": "https://images.dn.no/image/V2xEdzNNT3FWa0ZZM2RwVzBGVWJqdGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/4da060a04194f80b0d5860e454d00940",
+                    "portrait_wide_representation": "https://images.dn.no/image/WmY2K3hSSkplMG04RWw3MDEwUGV3TmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/4da060a04194f80b0d5860e454d00940"
+                }
+            }
+        },
+        {
+            "id": "2-1-1145230",
+            "public_link": "https://www.dn.no/magasinet/film-og-serier/hbo-max/anmeldelser/anmeldt/rikdom-og-ruin-i-the-gilded-age/2-1-1145230",
+            "layout": {
+                "theme": "feature",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Rikdom og ruin i «The Gilded Age»",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "magasinet",
+            "priority": "B",
+            "header": {
+                "html_text": "Film og serier",
+                "id": "film_og_serier",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/3598968adaf9dd163839f15f06df3193?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/3598968adaf9dd163839f15f06df3193?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/3598968adaf9dd163839f15f06df3193?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/ZW84cVRnQldoT3BXTDI0NWJLd21UZ0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/3598968adaf9dd163839f15f06df3193",
+                    "landscape_representation": "https://images.dn.no/image/YmN3WEhkaUNYQ0VVNGpiSWhNb0MrRVRDWG9ZbWtaWWp1TEhUUlM1UEhYQT0=/nhst/binary/3598968adaf9dd163839f15f06df3193",
+                    "portrait_representation": "https://images.dn.no/image/SStubVZxWVJMRWYxZzJGMzBJZW91dGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/3598968adaf9dd163839f15f06df3193",
+                    "portrait_wide_representation": "https://images.dn.no/image/L25DblJiRVBGZ21oMEh2alVqUDhrTmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/3598968adaf9dd163839f15f06df3193"
+                }
+            }
+        },
+        {
+            "id": "102145",
+            "public_link": "https://investor.dn.no/p/102145",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Den europeiske sentralbanken:",
+            "title": "Tror inflasjonen vil avta i løpet av 2022",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "group": {
+                "group_id": "c-flow_45"
+            },
+            "skin": "investor",
+            "priority": "C-Flow",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "id": "ktstuooq",
+            "public_link": "https://direkte.dn.no/nyhetsstudio/#102143",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Oslo kommune viderefører gult og grønt nivå i skolen",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "group": {
+                "group_id": "c-flow_45"
+            },
+            "skin": "dn",
+            "priority": "C-Flow",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "id": "hj67wvz3",
+            "public_link": "https://investor.dn.no/#!/Oversikt/Direkte/102129",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Oljefondet har kjøpt logistikkeiendommer for 2,7 mrd.",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "group": {
+                "group_id": "c-flow_45"
+            },
+            "skin": "investor",
+            "priority": "C-Flow",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "id": "2-1-1140722",
+            "public_link": "https://www.dn.no/d2/mitt-kjoretoy/bil/motor/saab/mitt-kjoretoy-folk-tok-kontakt-bare-pa-grunn-av-saaben-den-appellerer-jo-til-en-hel-haug/2-1-1140722",
+            "layout": {
+                "theme": "feature",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "«Så fin bil. Du må ta vare på den» sier folk. Da tenker jeg: «Hva tror du jeg gjør?»",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "d2",
+            "priority": "A",
+            "header": {
+                "html_text": "Mitt kjøretøy",
+                "id": "mitt_kjøretøy",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/d1NMaGNqWnJmVUQ4Q2lnWE9uZ21mRFQvR1hQeU1sWEZNZkV6eE96ZndaST0=/nhst/binary/baf551af8c3cd3bb26cdba9245445493?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/d1NMaGNqWnJmVUQ4Q2lnWE9uZ21mRFQvR1hQeU1sWEZNZkV6eE96ZndaST0=/nhst/binary/baf551af8c3cd3bb26cdba9245445493?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/d1NMaGNqWnJmVUQ4Q2lnWE9uZ21mRFQvR1hQeU1sWEZNZkV6eE96ZndaST0=/nhst/binary/baf551af8c3cd3bb26cdba9245445493?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/ZUJPYzZMREdnZThRZ21wRGFTckhMUUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/baf551af8c3cd3bb26cdba9245445493",
+                    "landscape_representation": "https://images.dn.no/image/d1NMaGNqWnJmVUQ4Q2lnWE9uZ21mRFQvR1hQeU1sWEZNZkV6eE96ZndaST0=/nhst/binary/baf551af8c3cd3bb26cdba9245445493",
+                    "portrait_representation": "https://images.dn.no/image/dXRrMnViMjd5S1J2SHhRWmpDa2hwOWE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/baf551af8c3cd3bb26cdba9245445493",
+                    "portrait_wide_representation": "https://images.dn.no/image/ay81cXdlOGVGdlVXdUM5UlBlZnhJQUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/baf551af8c3cd3bb26cdba9245445493"
+                }
+            }
+        },
+        {
+            "id": "2-1-1098676",
+            "public_link": "https://www.dn.no/d2/mote/klar/designeren-bak-celine-kulten-er-tilbake-med-eget-merke/2-1-1098676",
+            "layout": {
+                "theme": "feature",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Designeren Phoebe Philo gjør comeback med eget merke",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "d2",
+            "priority": "A",
+            "background": "highlight",
+            "header": {
+                "html_text": "Mote",
+                "id": "mote",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhQVFKWmNqQ3M1OENBcWsrMTE0bHZSRT0=/nhst/binary/f5a8e5d0a2a17517f7c7feeec8e4770f?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhQVFKWmNqQ3M1OENBcWsrMTE0bHZSRT0=/nhst/binary/f5a8e5d0a2a17517f7c7feeec8e4770f?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhQVFKWmNqQ3M1OENBcWsrMTE0bHZSRT0=/nhst/binary/f5a8e5d0a2a17517f7c7feeec8e4770f?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/Y3JwSVh2dmJFTUV3ZjdhSGNXaEFWd0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/f5a8e5d0a2a17517f7c7feeec8e4770f",
+                    "landscape_representation": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhQVFKWmNqQ3M1OENBcWsrMTE0bHZSRT0=/nhst/binary/f5a8e5d0a2a17517f7c7feeec8e4770f",
+                    "portrait_representation": "https://images.dn.no/image/RVBCZk50MjJKQlBidkVpbFFDV3VhZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/f5a8e5d0a2a17517f7c7feeec8e4770f",
+                    "portrait_wide_representation": "https://images.dn.no/image/aktDRUVzWE9PQ3p3S0cvTDJnUFpXZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/f5a8e5d0a2a17517f7c7feeec8e4770f"
+                }
+            }
+        },
+        {
+            "id": "6-1-yltkj20v",
+            "public_link": "https://dntv.dn.no/m/yltkj20v/prisen-pa-varer-og-tjenester-oker-dette-er-forklaringen",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Prisen på varer og tjenester øker. Dette er forklaringen",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dntv",
+            "priority": "B",
+            "header": {
+                "html_text": "Makroøkonomi",
+                "id": "makroøkonomi",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/c1JsUEpPYjcrN2o0N1NKR0Y2RDJkUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/3a7314b3f2009c3a8579843b9633bdbd?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/c1JsUEpPYjcrN2o0N1NKR0Y2RDJkUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/3a7314b3f2009c3a8579843b9633bdbd?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/c1JsUEpPYjcrN2o0N1NKR0Y2RDJkUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/3a7314b3f2009c3a8579843b9633bdbd?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/WndYdDZBbCtqaTduZzlpeUd2am4yb0x5b0l1cWlYSXphMkVRUElRbGJIbz0=/nhst/binary/3a7314b3f2009c3a8579843b9633bdbd",
+                    "landscape_representation": "https://images.dn.no/image/c1JsUEpPYjcrN2o0N1NKR0Y2RDJkUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/3a7314b3f2009c3a8579843b9633bdbd",
+                    "portrait_representation": "https://images.dn.no/image/Z2NsTVMxSWw1YisxY1U4QnIxSFV5RzNzQkRoci9MWFZQNFN0eTRES3JZRT0=/nhst/binary/3a7314b3f2009c3a8579843b9633bdbd",
+                    "portrait_wide_representation": "https://images.dn.no/image/T1ZFQzBHZGt6SHpxNGF6amFlYXQva1ZDSDh3S2FvQXhrajNZdzZtWThvOD0=/nhst/binary/3a7314b3f2009c3a8579843b9633bdbd"
+                }
+            },
+            "video": {
+                "type": "dnPlay",
+                "image": {
+                    "photographer": {
+                        "name": ""
+                    },
+                    "caption": "",
+                    "alignment": "",
+                    "files": [
+                        {
+                            "url": "https://images.dn.no/image/c1JsUEpPYjcrN2o0N1NKR0Y2RDJkUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/3a7314b3f2009c3a8579843b9633bdbd?image_version=360",
+                            "size": {
+                                "width": 360,
+                                "height": 202
+                            }
+                        },
+                        {
+                            "url": "https://images.dn.no/image/c1JsUEpPYjcrN2o0N1NKR0Y2RDJkUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/3a7314b3f2009c3a8579843b9633bdbd?image_version=720",
+                            "size": {
+                                "width": 720,
+                                "height": 405
+                            }
+                        },
+                        {
+                            "url": "https://images.dn.no/image/c1JsUEpPYjcrN2o0N1NKR0Y2RDJkUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/3a7314b3f2009c3a8579843b9633bdbd?image_version=1080",
+                            "size": {
+                                "width": 1080,
+                                "height": 607
+                            }
+                        }
+                    ],
+                    "representation": {
+                        "square_representation": "https://images.dn.no/image/WndYdDZBbCtqaTduZzlpeUd2am4yb0x5b0l1cWlYSXphMkVRUElRbGJIbz0=/nhst/binary/3a7314b3f2009c3a8579843b9633bdbd",
+                        "landscape_representation": "https://images.dn.no/image/c1JsUEpPYjcrN2o0N1NKR0Y2RDJkUkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/3a7314b3f2009c3a8579843b9633bdbd",
+                        "portrait_representation": "https://images.dn.no/image/Z2NsTVMxSWw1YisxY1U4QnIxSFV5RzNzQkRoci9MWFZQNFN0eTRES3JZRT0=/nhst/binary/3a7314b3f2009c3a8579843b9633bdbd",
+                        "portrait_wide_representation": "https://images.dn.no/image/T1ZFQzBHZGt6SHpxNGF6amFlYXQva1ZDSDh3S2FvQXhrajNZdzZtWThvOD0=/nhst/binary/3a7314b3f2009c3a8579843b9633bdbd"
+                    }
+                },
+                "provider": "brightcove"
+            }
+        },
+        {
+            "id": "2-1-1145427",
+            "public_link": "https://www.dn.no/innlegg/klima-og-miljo/industri/forskning/innlegg-la-lettmetall-hjelpe-det-gronne-skiftet/2-1-1145427",
+            "layout": {
+                "theme": "commentary",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Mohammed M'Hamdi",
+            "title": "La lettmetall hjelpe det grønne skiftet",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Innlegg",
+                "id": "innlegg",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhUHZjNi9meWZKcGErRlo4cWUzbldCUT0=/nhst/binary/719cc94d913272142e39d086498150c5?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhUHZjNi9meWZKcGErRlo4cWUzbldCUT0=/nhst/binary/719cc94d913272142e39d086498150c5?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhUHZjNi9meWZKcGErRlo4cWUzbldCUT0=/nhst/binary/719cc94d913272142e39d086498150c5?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/SmxQUGkzMGtVTVp3R1lqWnM5bDZXZ0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/719cc94d913272142e39d086498150c5",
+                    "landscape_representation": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhUHZjNi9meWZKcGErRlo4cWUzbldCUT0=/nhst/binary/719cc94d913272142e39d086498150c5",
+                    "portrait_representation": "https://images.dn.no/image/dkNxRHUvY2phdGtyWklIT3VYNVZSOWE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/719cc94d913272142e39d086498150c5",
+                    "portrait_wide_representation": "https://images.dn.no/image/VXc0L3UrcjNHTmtkZ0h1azlmUGFrTmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/719cc94d913272142e39d086498150c5"
+                }
+            }
+        },
+        {
+            "id": "2-1-1148483",
+            "public_link": "https://www.dn.no/bors/euronext-growth/oslo-bors/dn-aksjer/finanstilsynet-mener-euronext-growth-noteringer-er-svart-raske-krever-endringer/2-1-1148483",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Kritiske til Oslo Børs:",
+            "title": "Fem ansatte håndterte 114 børsnoteringer på 21 måneder",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Børs",
+                "id": "børs",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhSjNrUm5xcTJjazVkK1VGZEdvazY2UT0=/nhst/binary/375916fa459d3cfc7e4de93c39f9014b?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhSjNrUm5xcTJjazVkK1VGZEdvazY2UT0=/nhst/binary/375916fa459d3cfc7e4de93c39f9014b?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhSjNrUm5xcTJjazVkK1VGZEdvazY2UT0=/nhst/binary/375916fa459d3cfc7e4de93c39f9014b?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/dFNybkNuTkFwU2YyZE5PNUNtemdRaEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/375916fa459d3cfc7e4de93c39f9014b",
+                    "landscape_representation": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhSjNrUm5xcTJjazVkK1VGZEdvazY2UT0=/nhst/binary/375916fa459d3cfc7e4de93c39f9014b",
+                    "portrait_representation": "https://images.dn.no/image/angveFl1WHhiV2tIN3hnMzQ1R2dCOWE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/375916fa459d3cfc7e4de93c39f9014b",
+                    "portrait_wide_representation": "https://images.dn.no/image/M2M4aldxU3FQZDY4ekJOd1hSREl5aEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/375916fa459d3cfc7e4de93c39f9014b"
+                }
+            }
+        },
+        {
+            "id": "2-1-1148836",
+            "public_link": "https://www.dn.no/makrookonomi/norges-bank/rente/oystein-olsen/norges-bank-gar-mot-renteheving-i-mars/2-1-1148836",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Varsler renteheving i mars:",
+            "title": "Økonomene tror på fire rentehevinger i år",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Makroøkonomi",
+                "id": "makroøkonomi",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/QXk1TklsV0F2N0txcE03NndDekFka2NwdVYwcndTVTJJaStJZnZuNTBIQT0=/nhst/binary/ca762d9669cf9197e68fed3bc66c19a3?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/QXk1TklsV0F2N0txcE03NndDekFka2NwdVYwcndTVTJJaStJZnZuNTBIQT0=/nhst/binary/ca762d9669cf9197e68fed3bc66c19a3?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/QXk1TklsV0F2N0txcE03NndDekFka2NwdVYwcndTVTJJaStJZnZuNTBIQT0=/nhst/binary/ca762d9669cf9197e68fed3bc66c19a3?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/eDVQTzZiVXlKUlB3Zk53bVpabEQ4QUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/ca762d9669cf9197e68fed3bc66c19a3",
+                    "landscape_representation": "https://images.dn.no/image/QXk1TklsV0F2N0txcE03NndDekFka2NwdVYwcndTVTJJaStJZnZuNTBIQT0=/nhst/binary/ca762d9669cf9197e68fed3bc66c19a3",
+                    "portrait_representation": "https://images.dn.no/image/V3BGd202cFl1eTNLdm5QQ3p0RVMwOWE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/ca762d9669cf9197e68fed3bc66c19a3",
+                    "portrait_wide_representation": "https://images.dn.no/image/OUVMK2tHMGxnTmZqZ3VXYWxHNVptdGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/ca762d9669cf9197e68fed3bc66c19a3"
+                }
+            }
+        },
+        {
+            "id": "2-1-1148690",
+            "public_link": "https://www.dn.no/solon-eiendom-sjefen-gar-av/2-1-1148690",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Solon Eiendom-sjefen går av",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/VkpXUy9xZzFwd0w5RjhpcG4yRlJ6QVVja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/d61e02a169f23dfff7bfb28ff89f56ec?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/VkpXUy9xZzFwd0w5RjhpcG4yRlJ6QVVja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/d61e02a169f23dfff7bfb28ff89f56ec?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/VkpXUy9xZzFwd0w5RjhpcG4yRlJ6QVVja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/d61e02a169f23dfff7bfb28ff89f56ec?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/QzlJVWdFLy9FNXIzNTZXSlAvZU56QkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/d61e02a169f23dfff7bfb28ff89f56ec",
+                    "landscape_representation": "https://images.dn.no/image/VkpXUy9xZzFwd0w5RjhpcG4yRlJ6QVVja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/d61e02a169f23dfff7bfb28ff89f56ec",
+                    "portrait_representation": "https://images.dn.no/image/c0NmcVJtNjJtbkUrVDNpUE1PTWpRQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/d61e02a169f23dfff7bfb28ff89f56ec",
+                    "portrait_wide_representation": "https://images.dn.no/image/NG1lbUhxTnhRbDExN0tESWFPWUVOaEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/d61e02a169f23dfff7bfb28ff89f56ec"
+                }
+            }
+        },
+        {
+            "type": "inline_feed",
+            "identifier": "2",
+            "label": "NYHETER FRA DN INVESTOR",
+            "section_type": "investor",
+            "request_type": "investor"
+        },
+        {
+            "id": "2-1-1149022",
+            "public_link": "https://www.dn.no/borskommentar/aker-offshore-wind/aker-horizons/kristian-rokke/aksjemarkedet-tror-ikke-det-spott-pa-rokkene/2-1-1149022",
+            "layout": {
+                "theme": "commentary",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Thor Chr. Jensen",
+            "title": "Aksjemarkedet tror ikke det spøtt på Røkkene",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "author_info": {
+                "name": "Thor Chr. Jensen",
+                "title": "",
+                "image": {
+                    "photographer": {
+                        "name": ""
+                    },
+                    "caption": "",
+                    "alignment": "",
+                    "files": [
+                        {
+                            "url": "https://www.dn.no/bylines/t_jensen_s.jpg",
+                            "size": {
+                                "width": 96,
+                                "height": 96
+                            }
+                        },
+                        {
+                            "url": "https://www.dn.no/bylines/t_jensen_s.jpg",
+                            "size": {
+                                "width": 144,
+                                "height": 144
+                            }
+                        },
+                        {
+                            "url": "https://www.dn.no/bylines/t_jensen_s.jpg",
+                            "size": {
+                                "width": 288,
+                                "height": 288
+                            }
+                        }
+                    ],
+                    "representation": {
+                        "square_representation": "",
+                        "landscape_representation": "",
+                        "portrait_representation": "",
+                        "portrait_wide_representation": ""
+                    }
+                }
+            },
+            "header": {
+                "html_text": "Børskommentar",
+                "id": "børskommentar",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/TEtmZXZKSk9aTDBReFFLalF5RDZIYzMxMlkvYVhOd29NR1ZDNTZ1SmlLOD0=/nhst/binary/46bfa10edaae6367d15da1db832fd184?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/TEtmZXZKSk9aTDBReFFLalF5RDZIYzMxMlkvYVhOd29NR1ZDNTZ1SmlLOD0=/nhst/binary/46bfa10edaae6367d15da1db832fd184?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/TEtmZXZKSk9aTDBReFFLalF5RDZIYzMxMlkvYVhOd29NR1ZDNTZ1SmlLOD0=/nhst/binary/46bfa10edaae6367d15da1db832fd184?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/Y3ppOVBQZGxyV3VWUGpwOWplczVmd0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/46bfa10edaae6367d15da1db832fd184",
+                    "landscape_representation": "https://images.dn.no/image/TEtmZXZKSk9aTDBReFFLalF5RDZIYzMxMlkvYVhOd29NR1ZDNTZ1SmlLOD0=/nhst/binary/46bfa10edaae6367d15da1db832fd184",
+                    "portrait_representation": "https://images.dn.no/image/OXV0RGdsWlpvU21zSGc2ZXREcmR0OWE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/46bfa10edaae6367d15da1db832fd184",
+                    "portrait_wide_representation": "https://images.dn.no/image/TkN5OTZIK2t4Q0wzNjNwcmpIVXpKOWE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/46bfa10edaae6367d15da1db832fd184"
+                }
+            }
+        },
+        {
+            "id": "2-1-1143015",
+            "public_link": "https://www.dn.no/magasinet/boker/lisa-esohel-knudsen/rasisme/debatt/grundig-men-overfladisk/2-1-1143015",
+            "layout": {
+                "theme": "feature",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Anmeldelse:",
+            "title": "Grundig, men overfladisk fra Lisa Esohel Knudsen",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "magasinet",
+            "priority": "B",
+            "header": {
+                "html_text": "Bøker",
+                "id": "bøker",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/TEtmZXZKSk9aTDBReFFLalF5RDZIYmN2K2x1UlM5ZzNSZlNleEtSYlRUOD0=/nhst/binary/a4b684ee978f4fd9161fe1852fc681b8?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/TEtmZXZKSk9aTDBReFFLalF5RDZIYmN2K2x1UlM5ZzNSZlNleEtSYlRUOD0=/nhst/binary/a4b684ee978f4fd9161fe1852fc681b8?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/TEtmZXZKSk9aTDBReFFLalF5RDZIYmN2K2x1UlM5ZzNSZlNleEtSYlRUOD0=/nhst/binary/a4b684ee978f4fd9161fe1852fc681b8?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/MzRaNDJxTTV1ZVNEZThQNzRvNTF1cWRoTGM2eVlONEhjOGNLZkF1U2srZz0=/nhst/binary/a4b684ee978f4fd9161fe1852fc681b8",
+                    "landscape_representation": "https://images.dn.no/image/TEtmZXZKSk9aTDBReFFLalF5RDZIYmN2K2x1UlM5ZzNSZlNleEtSYlRUOD0=/nhst/binary/a4b684ee978f4fd9161fe1852fc681b8",
+                    "portrait_representation": "https://images.dn.no/image/Q0pCWDJweVQ5aS8wSFN2R2JpUTFSaEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/a4b684ee978f4fd9161fe1852fc681b8",
+                    "portrait_wide_representation": "https://images.dn.no/image/UTlmUU1ERXhVM1pEUytobzlLb05UQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/a4b684ee978f4fd9161fe1852fc681b8"
+                }
+            }
+        },
+        {
+            "id": "8rhobg9m",
+            "public_link": "https://direkte.dn.no/nyhetsstudio/#102128",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Stortinget skal vurdere riksrett mot Hareide",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/VTZNQ1dRd293eWZJVThFR1RrUFZSQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/40c35f76bf6e9b3ba51fb0eb4fc2b5b1?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/VTZNQ1dRd293eWZJVThFR1RrUFZSQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/40c35f76bf6e9b3ba51fb0eb4fc2b5b1?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/VTZNQ1dRd293eWZJVThFR1RrUFZSQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/40c35f76bf6e9b3ba51fb0eb4fc2b5b1?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/V2UzVEhTTFdEWis3WDdKa05LeTNzZ0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/40c35f76bf6e9b3ba51fb0eb4fc2b5b1",
+                    "landscape_representation": "https://images.dn.no/image/VTZNQ1dRd293eWZJVThFR1RrUFZSQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/40c35f76bf6e9b3ba51fb0eb4fc2b5b1",
+                    "portrait_representation": "https://images.dn.no/image/MlkvNlJTQnRjWXovUk00Y3VrVjNsZ0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/40c35f76bf6e9b3ba51fb0eb4fc2b5b1",
+                    "portrait_wide_representation": "https://images.dn.no/image/cWs3VzBiMFl5ZkhIcjhWdEk5SVpqQUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/40c35f76bf6e9b3ba51fb0eb4fc2b5b1"
+                }
+            }
+        },
+        {
+            "id": "2-1-1148412",
+            "public_link": "https://www.dn.no/den-politiske-situasjonen/podkast/frithjof-jacobsen/arbeiderpartiet/kan-vikentrobbel-felle-store-regjeringen/2-1-1148412",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Kan Vikentrøbbel felle Støre-regjeringen?",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "podkast",
+            "priority": "A",
+            "header": {
+                "html_text": "Den politiske situasjonen",
+                "id": "den_politiske_situasjonen",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/add929d2c4a541c3c7f16a08fc519ab8?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/add929d2c4a541c3c7f16a08fc519ab8?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/add929d2c4a541c3c7f16a08fc519ab8?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/Rng2Zk12enBjS2RiZ1VOajh5dmF6QUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/add929d2c4a541c3c7f16a08fc519ab8",
+                    "landscape_representation": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/add929d2c4a541c3c7f16a08fc519ab8",
+                    "portrait_representation": "https://images.dn.no/image/MXhMcUE4cHJyMVo1aTluNU5SUTNSdGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/add929d2c4a541c3c7f16a08fc519ab8",
+                    "portrait_wide_representation": "https://images.dn.no/image/QjFKVnMyQUdYSmlCcEFaOUM5dWMvdGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/add929d2c4a541c3c7f16a08fc519ab8"
+                }
+            }
+        },
+        {
+            "id": "2-1-1144669",
+            "public_link": "https://www.dn.no/magasinet/motor/biltest/audi/sportsbil/biltest-av-audi-rs-3-en-audi-til-begjar/2-1-1144669",
+            "layout": {
+                "theme": "feature",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Ikke forbudt riktig ennå. Men det koster",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "magasinet",
+            "priority": "A",
+            "background": "highlight",
+            "header": {
+                "html_text": "Motor",
+                "id": "motor",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhUFdEWk5nSHFoVkg3TFdETjdzcklFWT0=/nhst/binary/2cb2a27ba597351b6054cab1692cb1fd?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhUFdEWk5nSHFoVkg3TFdETjdzcklFWT0=/nhst/binary/2cb2a27ba597351b6054cab1692cb1fd?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhUFdEWk5nSHFoVkg3TFdETjdzcklFWT0=/nhst/binary/2cb2a27ba597351b6054cab1692cb1fd?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/dDdRNVBNZ1cydStYSmpKdVlBTnVWQUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/2cb2a27ba597351b6054cab1692cb1fd",
+                    "landscape_representation": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhUFdEWk5nSHFoVkg3TFdETjdzcklFWT0=/nhst/binary/2cb2a27ba597351b6054cab1692cb1fd",
+                    "portrait_representation": "https://images.dn.no/image/dkdPWDE5eTVRNVlyYklkaklweDhvTmE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/2cb2a27ba597351b6054cab1692cb1fd",
+                    "portrait_wide_representation": "https://images.dn.no/image/cXZuOC9EWFdSc1plaTBhTlEyNklRdGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/2cb2a27ba597351b6054cab1692cb1fd"
+                }
+            }
+        },
+        {
+            "id": "2-1-1147845",
+            "public_link": "https://www.dn.no/innlegg/pengepolitikk/sentralbanken/okonomi/innlegg-stoltenberg-knuser-uavhengighetsmyten/2-1-1147845",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "J.K. Baltzersen:",
+            "title": "Stoltenberg knuser uavhengighetsmyten",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "B",
+            "header": {
+                "html_text": "Innlegg",
+                "id": "innlegg",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/TGpnUTJPblZwaEQ1aVc4bUg2S2ZrK25PNFpKUHc2TWNZMmpuYzdXYjdRcz0=/nhst/binary/d2dfdff1a3e8db0715d09aaf86f5bf24?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/TGpnUTJPblZwaEQ1aVc4bUg2S2ZrK25PNFpKUHc2TWNZMmpuYzdXYjdRcz0=/nhst/binary/d2dfdff1a3e8db0715d09aaf86f5bf24?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/TGpnUTJPblZwaEQ1aVc4bUg2S2ZrK25PNFpKUHc2TWNZMmpuYzdXYjdRcz0=/nhst/binary/d2dfdff1a3e8db0715d09aaf86f5bf24?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/SmpiYjZ4a214QVRrUHd3eDlOb096ZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/d2dfdff1a3e8db0715d09aaf86f5bf24",
+                    "landscape_representation": "https://images.dn.no/image/TGpnUTJPblZwaEQ1aVc4bUg2S2ZrK25PNFpKUHc2TWNZMmpuYzdXYjdRcz0=/nhst/binary/d2dfdff1a3e8db0715d09aaf86f5bf24",
+                    "portrait_representation": "https://images.dn.no/image/UW4reVIya0srRUNjWTBlNGhlSUN1ZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/d2dfdff1a3e8db0715d09aaf86f5bf24",
+                    "portrait_wide_representation": "https://images.dn.no/image/dVJYWXRkNHJBeDhWajFWYk8rOFlrdGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/d2dfdff1a3e8db0715d09aaf86f5bf24"
+                }
+            }
+        },
+        {
+            "id": "e80faneq",
+            "public_link": "https://investor.dn.no/#!/Oversikt/Direkte/102130",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Høegh Autoliners inngår kontrakt om fire nullutslipp-skip",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "group": {
+                "group_id": "c-flow_61"
+            },
+            "skin": "dn",
+            "priority": "C-Flow",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "id": "102106",
+            "public_link": "https://investor.dn.no/p/102106",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Kongsberg Automotive sikrer kontrakt på 430 mill.",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "group": {
+                "group_id": "c-flow_61"
+            },
+            "skin": "investor",
+            "priority": "C-Flow",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "id": "wropoerk",
+            "public_link": "https://direkte.dn.no/nyhetsstudio/#102086",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Trump-nederlag i høyesterett",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "group": {
+                "group_id": "c-flow_61"
+            },
+            "skin": "dn",
+            "priority": "C-Flow",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": ""
+        },
+        {
+            "id": "2-1-1148653",
+            "public_link": "https://www.dn.no/bors/oslo-bors/otovo/okea/venter-positiv-apning-pa-borsen-men-det-er-mye-uroligheter-i-markedet-og-det-vil-vare-volatilt-fremover/2-1-1148653",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Nordic Nanovector stuper på Børsen",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Børs",
+                "id": "børs",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/cE9ha3kwS2phTE54NTQ3ZTh2MnQxd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/9bd171b4ad06626e83348455bbeaf42c?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/cE9ha3kwS2phTE54NTQ3ZTh2MnQxd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/9bd171b4ad06626e83348455bbeaf42c?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/cE9ha3kwS2phTE54NTQ3ZTh2MnQxd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/9bd171b4ad06626e83348455bbeaf42c?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/ZGFHNG8xb0JHNlo4eUpMcmNGWWdmZ0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/9bd171b4ad06626e83348455bbeaf42c",
+                    "landscape_representation": "https://images.dn.no/image/cE9ha3kwS2phTE54NTQ3ZTh2MnQxd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/9bd171b4ad06626e83348455bbeaf42c",
+                    "portrait_representation": "https://images.dn.no/image/ZU1mS0YyZ0R4OGRkT1NyVWpvQU42ZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/9bd171b4ad06626e83348455bbeaf42c",
+                    "portrait_wide_representation": "https://images.dn.no/image/aXVselNMT0hjNXlpVDkzZk82aGZ3ZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/9bd171b4ad06626e83348455bbeaf42c"
+                }
+            }
+        },
+        {
+            "id": "2-1-1148648",
+            "public_link": "https://www.dn.no/marked/kristian-rokke-om-aker-offshore-winds-lisenstrobbel-vi-er-sa-klart-skuffet/2-1-1148648",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Analytiker om Aker Offshore Wind-melding: – Forsøk på å berolige markedet",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Finans",
+                "id": "finans",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/SFN3UnBrbGc0VTREYzF6RXpldFhIMGtRMXNQRjBacUtGamkvcXVXeklRbz0=/nhst/binary/d0c83ecffca8608b53fc5f551bc6e981?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/SFN3UnBrbGc0VTREYzF6RXpldFhIMGtRMXNQRjBacUtGamkvcXVXeklRbz0=/nhst/binary/d0c83ecffca8608b53fc5f551bc6e981?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/SFN3UnBrbGc0VTREYzF6RXpldFhIMGtRMXNQRjBacUtGamkvcXVXeklRbz0=/nhst/binary/d0c83ecffca8608b53fc5f551bc6e981?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/Ym1yaFdGcjZOQk1aOGNjZXlpVE1Od0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/d0c83ecffca8608b53fc5f551bc6e981",
+                    "landscape_representation": "https://images.dn.no/image/SFN3UnBrbGc0VTREYzF6RXpldFhIMGtRMXNQRjBacUtGamkvcXVXeklRbz0=/nhst/binary/d0c83ecffca8608b53fc5f551bc6e981",
+                    "portrait_representation": "https://images.dn.no/image/Kzk1RmUyVHhWOVZIenYwNkJ3ZjJROWE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/d0c83ecffca8608b53fc5f551bc6e981",
+                    "portrait_wide_representation": "https://images.dn.no/image/U3AxRTZHTTAzWFBQaUxlMDV3SEhhdGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/d0c83ecffca8608b53fc5f551bc6e981"
+                }
+            }
+        },
+        {
+            "id": "2-1-1147272",
+            "public_link": "https://www.dn.no/innlegg/offentlig-styring/politikk/velferdstjenester/kronikk-et-brudd-med-den-norske-utredningsmodellen/2-1-1147272",
+            "layout": {
+                "theme": "commentary",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Kristin Clemet, leder i Civita:",
+            "title": "Spørsmålene ingen på venstresiden svarer på annet enn med slagord og skjellsord",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Innlegg",
+                "id": "innlegg",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/TGpnUTJPblZwaEQ1aVc4bUg2S2ZrL3ZjNi9meWZKcGErRlo4cWUzbldCUT0=/nhst/binary/022f38d35aaffeab7eef8d52595e0dbb?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/TGpnUTJPblZwaEQ1aVc4bUg2S2ZrL3ZjNi9meWZKcGErRlo4cWUzbldCUT0=/nhst/binary/022f38d35aaffeab7eef8d52595e0dbb?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/TGpnUTJPblZwaEQ1aVc4bUg2S2ZrL3ZjNi9meWZKcGErRlo4cWUzbldCUT0=/nhst/binary/022f38d35aaffeab7eef8d52595e0dbb?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/c0FDMXNwOUViSFNWdG94STVtZEIvQUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/022f38d35aaffeab7eef8d52595e0dbb",
+                    "landscape_representation": "https://images.dn.no/image/TGpnUTJPblZwaEQ1aVc4bUg2S2ZrL3ZjNi9meWZKcGErRlo4cWUzbldCUT0=/nhst/binary/022f38d35aaffeab7eef8d52595e0dbb",
+                    "portrait_representation": "https://images.dn.no/image/YnpBVnFqYk1VZVl4ZDFZNG5NV1ptOWE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/022f38d35aaffeab7eef8d52595e0dbb",
+                    "portrait_wide_representation": "https://images.dn.no/image/MUVhWWVVN2IwckdTWDVaU2t2czl6dGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/022f38d35aaffeab7eef8d52595e0dbb"
+                }
+            }
+        },
+        {
+            "id": "2-1-1147559",
+            "public_link": "https://www.dn.no/teknologi/heaten-as/viking-heat-engines/tore-hansen-tangen/haper-pa-nytt-liv-etter-kjempekonkurs-na-gar-shell-og-nysno-inn-pa-eiersiden/2-1-1147559",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Håper på nytt liv etter kjempekonkurs – får Shell og Nysnø på eiersiden",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Teknologi",
+                "id": "teknologi",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/9603b244d438f3ccd1d97d5a5f9e66eb?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/9603b244d438f3ccd1d97d5a5f9e66eb?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/9603b244d438f3ccd1d97d5a5f9e66eb?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/RTZUNDJvV0lPVG02cTErMUxQbkFPUUJRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/9603b244d438f3ccd1d97d5a5f9e66eb",
+                    "landscape_representation": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhTU54aGlyNG5nVE1FL1BpZk1MQldsST0=/nhst/binary/9603b244d438f3ccd1d97d5a5f9e66eb",
+                    "portrait_representation": "https://images.dn.no/image/SDQwV0Viazd3NFkwYk9WakVqSWlEdGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/9603b244d438f3ccd1d97d5a5f9e66eb",
+                    "portrait_wide_representation": "https://images.dn.no/image/bUlZay9jS3JzdVJmNVU0Um9EbC9BdGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/9603b244d438f3ccd1d97d5a5f9e66eb"
+                }
+            }
+        },
+        {
+            "id": "2-1-1147964",
+            "public_link": "https://www.dn.no/eiendom/eiendom/nybolig/boligbygging/nyboligsalget-falt-for-sjette-maned-pa-rad/2-1-1147964",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Nyboligsalget falt for sjette måned på rad",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "B",
+            "header": {
+                "html_text": "Eiendom",
+                "id": "eiendom",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhUFdEWk5nSHFoVkg3TFdETjdzcklFWT0=/nhst/binary/dca68eea990138741798f28ba335f98d?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhUFdEWk5nSHFoVkg3TFdETjdzcklFWT0=/nhst/binary/dca68eea990138741798f28ba335f98d?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhUFdEWk5nSHFoVkg3TFdETjdzcklFWT0=/nhst/binary/dca68eea990138741798f28ba335f98d?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/NU1RZno4LzdJb0J1T0x0bm96OUF3d0JRQkxQN29SSWllK2UyeHlVUy9hVT0=/nhst/binary/dca68eea990138741798f28ba335f98d",
+                    "landscape_representation": "https://images.dn.no/image/bFd2eVdKUGtBTjVod0U1Z1lsd0xhUFdEWk5nSHFoVkg3TFdETjdzcklFWT0=/nhst/binary/dca68eea990138741798f28ba335f98d",
+                    "portrait_representation": "https://images.dn.no/image/WUdubWdKOXZ0YVZxTkpYZ0VOSkZvZGE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/dca68eea990138741798f28ba335f98d",
+                    "portrait_wide_representation": "https://images.dn.no/image/WDVVNGkxVXZmZms1dEJ4eU5tQlFlOWE5cTRtemFrUWFBSVNINUMvZ20xZz0=/nhst/binary/dca68eea990138741798f28ba335f98d"
+                }
+            }
+        },
+        {
+            "id": "2-1-1148650",
+            "public_link": "https://www.dn.no/energi/otovo/andreas-thorsheim/solceller/tross-kraftig-salgsvekst-okte-otovos-underskudd-i-fjerde-kvartal/2-1-1148650",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Kraftig salgsvekst for Otovo – men underskuddet økte",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "header": {
+                "html_text": "Energi",
+                "id": "energi",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/R0RFQ3BubndxaEJQR0NIZUJUWkw4aEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/0f1d659ab720ec69853d7510064feab3?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/R0RFQ3BubndxaEJQR0NIZUJUWkw4aEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/0f1d659ab720ec69853d7510064feab3?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/R0RFQ3BubndxaEJQR0NIZUJUWkw4aEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/0f1d659ab720ec69853d7510064feab3?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/Zm1MajR4SC9ORXB4cUh5SHhHYTJCV3JoRGQ4VlhaNmpsS1RMQ2VaeFhlZz0=/nhst/binary/0f1d659ab720ec69853d7510064feab3",
+                    "landscape_representation": "https://images.dn.no/image/R0RFQ3BubndxaEJQR0NIZUJUWkw4aEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/0f1d659ab720ec69853d7510064feab3",
+                    "portrait_representation": "https://images.dn.no/image/WHpOVm9PQ0tLQ1c3MGp3MXg2YzRmMFZDSDh3S2FvQXhrajNZdzZtWThvOD0=/nhst/binary/0f1d659ab720ec69853d7510064feab3",
+                    "portrait_wide_representation": "https://images.dn.no/image/dnlYeDBqRDdtQkZuWE51c21aK0RQcWtyUDhRYzBFc21sbzZnaFVtM0VaYz0=/nhst/binary/0f1d659ab720ec69853d7510064feab3"
+                }
+            }
+        },
+        {
+            "id": "2-1-1147083",
+            "public_link": "https://www.dn.no/kommentar/pengepolitikk/sentralbanken/federal-reserve/uavhengige-sentralbanker-det-var-for-finanskrisen-det/2-1-1147083",
+            "layout": {
+                "theme": "commentary",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "kicker": "Bård Bjerkholt",
+            "title": "Uavhengige sentralbanker? Det var før finanskrisen, det",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dn",
+            "priority": "A",
+            "author_info": {
+                "name": "Bård Bjerkholt",
+                "title": "",
+                "image": {
+                    "photographer": {
+                        "name": ""
+                    },
+                    "caption": "",
+                    "alignment": "",
+                    "files": [
+                        {
+                            "url": "https://www.dn.no/bylines/b_bjerkholt_s.jpg",
+                            "size": {
+                                "width": 96,
+                                "height": 96
+                            }
+                        },
+                        {
+                            "url": "https://www.dn.no/bylines/b_bjerkholt_s.jpg",
+                            "size": {
+                                "width": 144,
+                                "height": 144
+                            }
+                        },
+                        {
+                            "url": "https://www.dn.no/bylines/b_bjerkholt_s.jpg",
+                            "size": {
+                                "width": 288,
+                                "height": 288
+                            }
+                        }
+                    ],
+                    "representation": {
+                        "square_representation": "",
+                        "landscape_representation": "",
+                        "portrait_representation": "",
+                        "portrait_wide_representation": ""
+                    }
+                }
+            },
+            "header": {
+                "html_text": "Kommentar",
+                "id": "kommentar",
+                "external_source": false
+            },
+            "paid": true,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/akFrUFd2cnFZZWVOUHpyMm9sQTBIY3IweWJtbG4ydzZiSzBubDZVQ3BuVT0=/nhst/binary/43ae5e5413495e7539ea356ce7361f87?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/akFrUFd2cnFZZWVOUHpyMm9sQTBIY3IweWJtbG4ydzZiSzBubDZVQ3BuVT0=/nhst/binary/43ae5e5413495e7539ea356ce7361f87?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/akFrUFd2cnFZZWVOUHpyMm9sQTBIY3IweWJtbG4ydzZiSzBubDZVQ3BuVT0=/nhst/binary/43ae5e5413495e7539ea356ce7361f87?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/RTBRcUR5c21JajFMNTkzc0RSaG4vd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/43ae5e5413495e7539ea356ce7361f87",
+                    "landscape_representation": "https://images.dn.no/image/akFrUFd2cnFZZWVOUHpyMm9sQTBIY3IweWJtbG4ydzZiSzBubDZVQ3BuVT0=/nhst/binary/43ae5e5413495e7539ea356ce7361f87",
+                    "portrait_representation": "https://images.dn.no/image/RmpHUjQ2aThsNWlKT3BPSG5WRmZBeEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/43ae5e5413495e7539ea356ce7361f87",
+                    "portrait_wide_representation": "https://images.dn.no/image/RU1KN0tWN1dCNzZjOFZuaW5xVnBBQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/43ae5e5413495e7539ea356ce7361f87"
+                }
+            }
+        },
+        {
+            "id": "6-1-5istAFGA",
+            "public_link": "https://dntv.dn.no/m/5istAFGA/denne-byen-blir-den-forste-som-merker-det-hvis-putin-bestemmer-seg-for-invasjon",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Denne byen blir den første som merker det hvis Putin bestemmer seg for invasjon",
+            "type": "article_summary",
+            "state": "published",
+            "open_externally": false,
+            "skin": "dntv",
+            "priority": "A",
+            "header": {
+                "html_text": "Utenriks",
+                "id": "utenriks",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/e41f0690acabb9396519b0886ad4168d?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/e41f0690acabb9396519b0886ad4168d?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/e41f0690acabb9396519b0886ad4168d?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/cHR2aTRmLzVyaUJiL21Kbi9ObGE3QkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/e41f0690acabb9396519b0886ad4168d",
+                    "landscape_representation": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/e41f0690acabb9396519b0886ad4168d",
+                    "portrait_representation": "https://images.dn.no/image/NHpsMEo3Mms4M1U4b0NBaHdZa2tHQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/e41f0690acabb9396519b0886ad4168d",
+                    "portrait_wide_representation": "https://images.dn.no/image/Q3VNMU8rNDZNTm9mZWZJb2t1bGhwQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/e41f0690acabb9396519b0886ad4168d"
+                }
+            },
+            "video": {
+                "type": "dnPlay",
+                "image": {
+                    "photographer": {
+                        "name": ""
+                    },
+                    "caption": "",
+                    "alignment": "",
+                    "files": [
+                        {
+                            "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/e41f0690acabb9396519b0886ad4168d?image_version=360",
+                            "size": {
+                                "width": 360,
+                                "height": 202
+                            }
+                        },
+                        {
+                            "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/e41f0690acabb9396519b0886ad4168d?image_version=720",
+                            "size": {
+                                "width": 720,
+                                "height": 405
+                            }
+                        },
+                        {
+                            "url": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/e41f0690acabb9396519b0886ad4168d?image_version=1080",
+                            "size": {
+                                "width": 1080,
+                                "height": 607
+                            }
+                        }
+                    ],
+                    "representation": {
+                        "square_representation": "https://images.dn.no/image/cHR2aTRmLzVyaUJiL21Kbi9ObGE3QkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/e41f0690acabb9396519b0886ad4168d",
+                        "landscape_representation": "https://images.dn.no/image/dHZ0VDhOc0FET1kvZzY0MmhFcjZtd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/e41f0690acabb9396519b0886ad4168d",
+                        "portrait_representation": "https://images.dn.no/image/NHpsMEo3Mms4M1U4b0NBaHdZa2tHQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/e41f0690acabb9396519b0886ad4168d",
+                        "portrait_wide_representation": "https://images.dn.no/image/Q3VNMU8rNDZNTm9mZWZJb2t1bGhwQkZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/e41f0690acabb9396519b0886ad4168d"
+                    }
+                },
+                "provider": "brightcove"
+            }
+        },
+        {
+            "id": "e6y7ssej",
+            "public_link": "https://www.intrafish.no/okonomi/salmon-evolution-aksjen-opp-nar-30-prosent-pa-en-uke-analytiker-tror-pa-videre-oppgang/2-1-1148938",
+            "layout": {
+                "theme": "default",
+                "style": "default"
+            },
+            "view_type": "DEFAULT",
+            "title": "Salmon Evolution-aksjen opp nær 30 prosent på en uke",
+            "type": "short_news",
+            "state": "published",
+            "open_externally": true,
+            "skin": "intrafish",
+            "priority": "A",
+            "header": {
+                "html_text": "",
+                "id": "",
+                "external_source": false
+            },
+            "paid": false,
+            "lead_text": "Analytiker tror på videre oppgang.",
+            "image": {
+                "photographer": {
+                    "name": ""
+                },
+                "caption": "",
+                "alignment": "",
+                "files": [
+                    {
+                        "url": "https://images.dn.no/image/NFNLbHdORGNCYkFCc1I0TnU5Szhjd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/1e70bdfb5f3e48142c2a42f17b48efea?image_version=360",
+                        "size": {
+                            "width": 360,
+                            "height": 202
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/NFNLbHdORGNCYkFCc1I0TnU5Szhjd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/1e70bdfb5f3e48142c2a42f17b48efea?image_version=720",
+                        "size": {
+                            "width": 720,
+                            "height": 405
+                        }
+                    },
+                    {
+                        "url": "https://images.dn.no/image/NFNLbHdORGNCYkFCc1I0TnU5Szhjd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/1e70bdfb5f3e48142c2a42f17b48efea?image_version=1080",
+                        "size": {
+                            "width": 1080,
+                            "height": 607
+                        }
+                    }
+                ],
+                "representation": {
+                    "square_representation": "https://images.dn.no/image/OWd0eVJRTkg3d0tPaVhSVEVFZWU0eEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/1e70bdfb5f3e48142c2a42f17b48efea",
+                    "landscape_representation": "https://images.dn.no/image/NFNLbHdORGNCYkFCc1I0TnU5Szhjd1Vja2FvQ1hTU3dlcVZadmlGSm9BMD0=/nhst/binary/1e70bdfb5f3e48142c2a42f17b48efea",
+                    "portrait_representation": "https://images.dn.no/image/MDVySnR5VElmM29vc1RKQW52NDgyaEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/1e70bdfb5f3e48142c2a42f17b48efea",
+                    "portrait_wide_representation": "https://images.dn.no/image/eWMxUG94bnN4NFArZGR6VTlaaE9seEZqenpZalNOdnY0U2VKL0RFamdIbz0=/nhst/binary/1e70bdfb5f3e48142c2a42f17b48efea"
+                }
+            }
+        }
+    ]
+}
