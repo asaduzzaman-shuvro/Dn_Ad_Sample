@@ -11,7 +11,6 @@
 		CE1F4E0C279A4FCD00CEDBA8 /* ArticleSummaryNormalCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E0A279A4FCD00CEDBA8 /* ArticleSummaryNormalCell.swift */; };
 		CE1F4E0D279A4FCD00CEDBA8 /* ArticleSummaryNormalCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE1F4E0B279A4FCD00CEDBA8 /* ArticleSummaryNormalCell.xib */; };
 		CE1F4E0F279A4FD800CEDBA8 /* ArticleSummaryCellTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E0E279A4FD800CEDBA8 /* ArticleSummaryCellTemplate.swift */; };
-		CE1F4E12279A502A00CEDBA8 /* InteractiveZoomHelper in Frameworks */ = {isa = PBXBuildFile; productRef = CE1F4E11279A502A00CEDBA8 /* InteractiveZoomHelper */; };
 		CE1F4E15279A505600CEDBA8 /* BadgeView.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE1F4E13279A505600CEDBA8 /* BadgeView.xib */; };
 		CE1F4E16279A505600CEDBA8 /* BadgeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E14279A505600CEDBA8 /* BadgeView.swift */; };
 		CE1F4E19279A506E00CEDBA8 /* ArticleSummaryTextPortionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E17279A506E00CEDBA8 /* ArticleSummaryTextPortionView.swift */; };
@@ -375,7 +374,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE1F4E12279A502A00CEDBA8 /* InteractiveZoomHelper in Frameworks */,
 				90ADF96ECD3286CCD4C1D7D9 /* Pods_GoogleAdSample__iOS_.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -909,7 +907,6 @@
 			);
 			name = "GoogleAdSample (iOS)";
 			packageProductDependencies = (
-				CE1F4E11279A502A00CEDBA8 /* InteractiveZoomHelper */,
 			);
 			productName = "GoogleAdSample (iOS)";
 			productReference = CE53BD132797D8F5001CCE7F /* GoogleAdSample.app */;
@@ -941,7 +938,6 @@
 			);
 			mainGroup = CE53BD062797D8F4001CCE7F;
 			packageReferences = (
-				CE1F4E10279A502A00CEDBA8 /* XCRemoteSwiftPackageReference "mobileapp-interactive-zoom-helper-package" */,
 			);
 			productRefGroup = CE53BD142797D8F5001CCE7F /* Products */;
 			projectDirPath = "";
@@ -1403,25 +1399,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCRemoteSwiftPackageReference section */
-		CE1F4E10279A502A00CEDBA8 /* XCRemoteSwiftPackageReference "mobileapp-interactive-zoom-helper-package" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://nahidul-raffi:10720fc194b1781316c92c806931dc4a74e213bf@github.com/nhst/mobileapp-interactive-zoom-helper-package.git";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = "1.0.0-beta.1";
-			};
-		};
-/* End XCRemoteSwiftPackageReference section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		CE1F4E11279A502A00CEDBA8 /* InteractiveZoomHelper */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = CE1F4E10279A502A00CEDBA8 /* XCRemoteSwiftPackageReference "mobileapp-interactive-zoom-helper-package" */;
-			productName = InteractiveZoomHelper;
-		};
-/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = CE53BD072797D8F4001CCE7F /* Project object */;
 }

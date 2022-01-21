@@ -8,8 +8,6 @@
 
 import Foundation
 import UIKit
-import InteractiveZoomHelper
-
 class ArticleSummaryCellTemplate: CollectionViewCell {
     @IBOutlet weak var articleImageTopMargin: NSLayoutConstraint!
     @IBOutlet weak var articleImageLeadingMargin: NSLayoutConstraint!
@@ -27,10 +25,7 @@ class ArticleSummaryCellTemplate: CollectionViewCell {
     @IBOutlet weak var largeBadgeView: BadgeView!
     
     @IBOutlet weak var articleTextPortionView: ArticleSummaryTextPortionView!
-    
-    fileprivate lazy var imageZoomHelper: InteractiveZoomHelper<UIImageView> = {
-        return self.articleImageView.getInteractiveZoomHelper(gestureReceivingView: nil)
-    }()
+
     
     fileprivate var part: ArticleSummaryPart!
     
@@ -43,7 +38,6 @@ class ArticleSummaryCellTemplate: CollectionViewCell {
     override func awakeFromNib() {
         super.awakeFromNib()
         
-        _ = self.imageZoomHelper
     }
 
     override func initializeView(with part: CollectionViewFeedPart) {
