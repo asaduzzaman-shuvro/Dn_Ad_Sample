@@ -59,7 +59,8 @@ class BaseFeedViewController: UIViewController, EditingCollectionViewContainerTy
         
         let bundle = Bundle(for: type(of: self))
         self.collectionView?.register(UINib(nibName: "DFPAdCollectionViewCell", bundle: bundle), forCellWithReuseIdentifier: "DFPAdCollectionViewCell")
-        
+        self.collectionView?.register(UINib(nibName: "ArticleSummaryNormalCell", bundle: bundle), forCellWithReuseIdentifier: "ArticleSummaryNormalCellReuseId")
+
         self.collectionView?.decelerationRate = .normal
     }
     

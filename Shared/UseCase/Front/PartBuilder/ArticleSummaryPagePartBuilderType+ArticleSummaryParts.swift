@@ -24,5 +24,13 @@ extension ArticleSummaryPagePartBuilderType {
         part.delegate = self.adComponentDelegate
         return part
     }
+    
+    func buildArticleSummaryPart(for articleSummary: ArticleSummary,  inContext context: FeedMappingContextType) -> ArticleSummaryPart {
+        
+        let size = CGSize(width: context.contentWidth, height: 200)
+        
+        return ArticleSummaryPart(articleSummary: articleSummary, image: nil, badge: nil, authorImage: nil, kicker: nil, title: AttributedTextPartFragment(attributedString: NSAttributedString(string: articleSummary.title), size: CGSize(width: size.width, height: 60), margins: Margins(top: 10, bottom: 10, left: 0, right: 0), backgroundColor: UIColor.white), leadText: nil, isVideoArticle: false, size: size, cellNibName: "ArticleSummaryNormalCell", cellReuseId: "ArticleSummaryNormalCellReuseId", backgroundColor: .white, topRounding: false, bottomRounding: false)
+        
+    }
 }
 

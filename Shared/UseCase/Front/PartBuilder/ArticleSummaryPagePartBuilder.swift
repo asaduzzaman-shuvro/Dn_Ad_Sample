@@ -65,6 +65,8 @@ class ArticleSummaryPagePartBuilder: ArticleSummaryPagePartBuilderType {
         case let ad as DFPAd:
             let partSize = CGSize(width: context.contentWidth, height: ad.adSize.height)
             return self.buildUpDFPAdPart(adComponent: ad, isResizable: true, isRemovable: true, size: partSize, context: context)
+        case let articleSummary as ArticleSummary:
+            return self.buildArticleSummaryPart(for: articleSummary,inContext: context)
         default:
             return UnknownPart(component: component)
         }

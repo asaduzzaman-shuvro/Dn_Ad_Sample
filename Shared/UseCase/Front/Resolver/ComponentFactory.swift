@@ -34,6 +34,8 @@ class ComponentFactory {
         switch type {
         case "ad_dfp":
             return json.decode(DFPAd.self)
+        case "article_summary":
+            return json.decode(ArticleSummary.self)
         default:
             return UnknownComponent(json: json)
         }

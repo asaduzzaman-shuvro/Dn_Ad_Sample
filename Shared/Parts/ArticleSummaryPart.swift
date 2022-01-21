@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 
 class ArticleSummaryPart: CollectionViewFeedPart {
-    let articleId: String
+    let articleSummary: ArticleSummary
     let image: ImagePartFragment?
     let badge: BadgePartFragment?
     let authorImage: ImagePartFragment?
@@ -22,8 +22,8 @@ class ArticleSummaryPart: CollectionViewFeedPart {
     let isVideoArticle: Bool
     var shouldShowFullWidthBadge: Bool = false
     
-    init(articleId: String, image: ImagePartFragment?, badge: BadgePartFragment?, authorImage: ImagePartFragment?, kicker: AttributedTextPartFragment?, title: AttributedTextPartFragment?, leadText: AttributedTextPartFragment?, isVideoArticle: Bool, size: CGSize, cellNibName: String, cellReuseId: String, backgroundColor: UIColor, topRounding: Bool, bottomRounding: Bool) {
-        self.articleId = articleId
+    init(articleSummary: ArticleSummary, image: ImagePartFragment?, badge: BadgePartFragment?, authorImage: ImagePartFragment?, kicker: AttributedTextPartFragment?, title: AttributedTextPartFragment?, leadText: AttributedTextPartFragment?, isVideoArticle: Bool, size: CGSize, cellNibName: String, cellReuseId: String, backgroundColor: UIColor, topRounding: Bool, bottomRounding: Bool) {
+        self.articleSummary = articleSummary
         self.image = image
         self.badge = badge
         self.authorImage = authorImage
