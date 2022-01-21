@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ArticleSummaryTextPortionView" customModule="DNApp" customModuleProvider="target">
+            <connections>
+                <outlet property="authorImageLeadingMarginToKicker" destination="Xtl-jV-uSe" id="oec-cv-mnl"/>
+                <outlet property="authorImageLeadingMarginToTitle" destination="j2g-xS-CSj" id="ZE9-oD-aCw"/>
+                <outlet property="authorImageTopMargin" destination="CMl-Uj-1ET" id="Xqq-GI-G4v"/>
+                <outlet property="authorImageTrailingMargin" destination="37Z-EW-0GO" id="xmc-BU-3bC"/>
+                <outlet property="authorImageView" destination="tGC-Ln-nxz" id="ow8-05-EuD"/>
+                <outlet property="authorImageWidth" destination="OBo-nc-Rc6" id="l8u-G8-cKC"/>
+                <outlet property="bookmarkSectionBottomMargin" destination="8pn-J0-2tO" id="2bc-mG-70H"/>
+                <outlet property="bookmarkSectionHeight" destination="AoR-QV-Xb0" id="HjS-vV-vof"/>
+                <outlet property="bookmarkSectionLeadingMargin" destination="3Vy-dO-bsv" id="0r3-yZ-yWB"/>
+                <outlet property="bookmarkSectionTrailingMargin" destination="AbR-AH-YfH" id="DMs-yU-bDT"/>
+                <outlet property="bookmarkSectionView" destination="x42-3f-sRV" id="l24-k7-RRS"/>
+                <outlet property="contentView" destination="iN0-l3-epB" id="GOS-xi-yZh"/>
+                <outlet property="kickerHeight" destination="5Mc-ZM-6ZO" id="Fof-3W-47Q"/>
+                <outlet property="kickerLabel" destination="1Qi-m5-cDb" id="7B7-0S-A3U"/>
+                <outlet property="kickerLeadingMargin" destination="5s6-nW-nkL" id="Bnm-sB-Fq6"/>
+                <outlet property="leadTextHeight" destination="7Wk-gE-XzB" id="rFb-6n-g2g"/>
+                <outlet property="leadTextLabel" destination="2vO-Ra-Anj" id="XDj-If-76C"/>
+                <outlet property="leadTextLeadingMargin" destination="8Yx-LG-eCc" id="wcB-fQ-goe"/>
+                <outlet property="leadTextTopMargin" destination="get-wO-ZwZ" id="CDk-bO-Ax8"/>
+                <outlet property="leadTextWidth" destination="9At-X8-Gox" id="fBG-pj-JYA"/>
+                <outlet property="titleHeight" destination="Zcj-w7-DPX" id="KOh-kX-6HJ"/>
+                <outlet property="titleLabel" destination="wbY-Xu-ZTZ" id="y64-Vz-teP"/>
+                <outlet property="titleLeadingMargin" destination="pSJ-O4-zNI" id="PvA-xs-xLU"/>
+                <outlet property="titleTopMargin" destination="N45-yR-evw" id="029-Cv-4UE"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="245"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="tGC-Ln-nxz">
+                    <rect key="frame" x="314" y="0.0" width="80" height="80"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="80" id="OBo-nc-Rc6"/>
+                        <constraint firstAttribute="height" secondItem="tGC-Ln-nxz" secondAttribute="width" multiplier="1:1" id="gq4-tu-5iB"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1Qi-m5-cDb" userLabel="Kicker Label">
+                    <rect key="frame" x="20" y="0.0" width="284" height="25"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="25" id="5Mc-ZM-6ZO"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wbY-Xu-ZTZ" userLabel="Title Label">
+                    <rect key="frame" x="20" y="33" width="284" height="35"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="35" id="Zcj-w7-DPX"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2vO-Ra-Anj" userLabel="Lead Text Label">
+                    <rect key="frame" x="20" y="76" width="200" height="30"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="7Wk-gE-XzB"/>
+                        <constraint firstAttribute="width" constant="200" id="9At-X8-Gox"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="x42-3f-sRV" customClass="BookmarkSectionView" customModule="DNApp" customModuleProvider="target">
+                    <rect key="frame" x="20" y="210" width="374" height="35"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="35" id="AoR-QV-Xb0"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="tGC-Ln-nxz" secondAttribute="trailing" constant="20" id="37Z-EW-0GO"/>
+                <constraint firstItem="x42-3f-sRV" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="20" id="3Vy-dO-bsv"/>
+                <constraint firstItem="1Qi-m5-cDb" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="20" id="5s6-nW-nkL"/>
+                <constraint firstItem="2vO-Ra-Anj" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="20" id="8Yx-LG-eCc"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="x42-3f-sRV" secondAttribute="bottom" id="8pn-J0-2tO"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="x42-3f-sRV" secondAttribute="trailing" constant="20" id="AbR-AH-YfH"/>
+                <constraint firstItem="tGC-Ln-nxz" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="CMl-Uj-1ET"/>
+                <constraint firstItem="wbY-Xu-ZTZ" firstAttribute="top" secondItem="1Qi-m5-cDb" secondAttribute="bottom" constant="8" id="N45-yR-evw"/>
+                <constraint firstItem="tGC-Ln-nxz" firstAttribute="leading" secondItem="1Qi-m5-cDb" secondAttribute="trailing" constant="10" id="Xtl-jV-uSe"/>
+                <constraint firstItem="1Qi-m5-cDb" firstAttribute="top" secondItem="tGC-Ln-nxz" secondAttribute="top" id="dh7-BE-Aox"/>
+                <constraint firstItem="2vO-Ra-Anj" firstAttribute="top" secondItem="wbY-Xu-ZTZ" secondAttribute="bottom" constant="8" id="get-wO-ZwZ"/>
+                <constraint firstItem="tGC-Ln-nxz" firstAttribute="leading" secondItem="wbY-Xu-ZTZ" secondAttribute="trailing" constant="10" id="j2g-xS-CSj"/>
+                <constraint firstItem="wbY-Xu-ZTZ" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="20" id="pSJ-O4-zNI"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="118.84057971014494" y="-126.76630434782609"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

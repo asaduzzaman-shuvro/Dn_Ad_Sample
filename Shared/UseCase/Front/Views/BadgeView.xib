@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="BadgeView" customModule="DNApp" customModuleProvider="target">
+            <connections>
+                <outlet property="badgeImageView" destination="sFE-An-CSX" id="MYS-Id-Crr"/>
+                <outlet property="badgeImageViewWidth" destination="G5b-0d-mcA" id="jLx-6A-UGJ"/>
+                <outlet property="badgeLabel" destination="JUt-zJ-AV6" id="eea-Ox-eoe"/>
+                <outlet property="badgeStackView" destination="yKR-eP-spK" id="C4A-nf-Sdp"/>
+                <outlet property="badgeStackViewBottomMargin" destination="JO7-eJ-fKX" id="K56-pv-xwR"/>
+                <outlet property="badgeStackViewLeadingMargin" destination="18X-H8-yfs" id="yga-jx-4Pu"/>
+                <outlet property="badgeStackViewTopMargin" destination="ird-3D-KyG" id="eHB-CC-91g"/>
+                <outlet property="badgeStackViewTrailingMargin" destination="eDj-uT-wrQ" id="gGX-yL-GtO"/>
+                <outlet property="contentView" destination="iN0-l3-epB" id="p5c-9m-SKK"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="507" height="77"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" alignment="center" spacing="6" translatesAutoresizingMaskIntoConstraints="NO" id="yKR-eP-spK">
+                    <rect key="frame" x="18" y="8" width="481" height="61"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="sFE-An-CSX">
+                            <rect key="frame" x="0.0" y="23.666666666666668" width="14" height="14.000000000000004"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="14" id="G5b-0d-mcA"/>
+                                <constraint firstAttribute="height" secondItem="sFE-An-CSX" secondAttribute="width" multiplier="1:1" id="asL-mg-zV4"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalCompressionResistancePriority="250" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JUt-zJ-AV6">
+                            <rect key="frame" x="20" y="22" width="461" height="17"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="yKR-eP-spK" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="18" id="18X-H8-yfs"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="yKR-eP-spK" secondAttribute="bottom" constant="8" id="JO7-eJ-fKX"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="yKR-eP-spK" secondAttribute="trailing" constant="8" id="eDj-uT-wrQ"/>
+                <constraint firstItem="yKR-eP-spK" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="8" id="ird-3D-KyG"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="203.62318840579712" y="-166.71195652173915"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

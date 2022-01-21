@@ -31,6 +31,25 @@ extension UIView {
 //        UIGraphicsEndImageContext()
 //        return image
     }
+    
+    func hideView(topMargin: NSLayoutConstraint?,
+                  bottomMargin: NSLayoutConstraint?,
+                  leadingMargin: NSLayoutConstraint?,
+                  trailingMargin: NSLayoutConstraint?,
+                  widthConstraint: NSLayoutConstraint?,
+                  heightConstraint: NSLayoutConstraint?) {
+        if !self.isHidden {
+            self.isHidden = true
+            topMargin?.constant = .zero
+            bottomMargin?.constant = .zero
+            leadingMargin?.constant = .zero
+            trailingMargin?.constant = .zero
+            widthConstraint?.constant = .zero
+            heightConstraint?.constant = .zero
+
+        }
+    }
+
 }
 
 extension NibInitializable where Self : UIView {
@@ -56,3 +75,5 @@ extension UIView: NibInitializable {
 protocol NibInitializable {
     static var nibName: String { get }
 }
+
+

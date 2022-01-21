@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="BookmarkSectionView" customModule="DNApp" customModuleProvider="target">
+            <connections>
+                <outlet property="bookmarkImageView" destination="IPx-vb-wa5" id="kCk-za-kHp"/>
+                <outlet property="bookmarkImageViewWidth" destination="58d-8w-Dtz" id="Jav-gU-KoT"/>
+                <outlet property="contentView" destination="iN0-l3-epB" id="JqX-JF-u4c"/>
+                <outlet property="headerLabel" destination="JKl-wM-7p4" id="850-3q-rL4"/>
+                <outlet property="headerLabelHeight" destination="zGR-Aa-JcA" id="T4g-yi-nuy"/>
+                <outlet property="headerLabelTrailingMargin" destination="r06-0P-pkH" id="v0n-7M-huF"/>
+                <outlet property="headerLabelWidth" destination="L84-dx-Ayk" id="yvF-kF-q5F"/>
+                <outlet property="skinImageTrailingMargin" destination="fJj-lh-Yqt" id="o1u-lp-d6Y"/>
+                <outlet property="skinImageView" destination="pIQ-qU-l3M" id="rIH-4l-F0S"/>
+                <outlet property="skinImageViewHeight" destination="Qoa-5N-piL" id="bOW-Pc-aw8"/>
+                <outlet property="skinImageViewWidth" destination="Tdb-me-Uaq" id="uN5-sz-jLa"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="554" height="107"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JKl-wM-7p4" userLabel="Header Label">
+                    <rect key="frame" x="0.0" y="48.666666666666664" width="128" height="12"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="128" id="L84-dx-Ayk"/>
+                        <constraint firstAttribute="height" constant="12" id="zGR-Aa-JcA"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="750" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="pIQ-qU-l3M">
+                    <rect key="frame" x="144" y="43.666666666666664" width="20" height="20"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="20" id="Qoa-5N-piL"/>
+                        <constraint firstAttribute="width" constant="20" id="Tdb-me-Uaq"/>
+                    </constraints>
+                </imageView>
+                <imageView clipsSubviews="YES" contentMode="scaleAspectFit" verticalHuggingPriority="251" image="icon_bookmark" translatesAutoresizingMaskIntoConstraints="NO" id="IPx-vb-wa5">
+                    <rect key="frame" x="534" y="43.666666666666664" width="20" height="20"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="20" id="58d-8w-Dtz"/>
+                        <constraint firstAttribute="width" secondItem="IPx-vb-wa5" secondAttribute="height" multiplier="1:1" id="X0D-L0-qKX"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="JKl-wM-7p4" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="20P-je-R2O"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="IPx-vb-wa5" secondAttribute="trailing" id="OWb-82-fmc"/>
+                <constraint firstItem="IPx-vb-wa5" firstAttribute="centerY" secondItem="vUN-kp-3ea" secondAttribute="centerY" id="TBa-m7-paY"/>
+                <constraint firstItem="pIQ-qU-l3M" firstAttribute="centerY" secondItem="vUN-kp-3ea" secondAttribute="centerY" id="Y0s-M0-WQd"/>
+                <constraint firstItem="IPx-vb-wa5" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="pIQ-qU-l3M" secondAttribute="trailing" constant="16" id="fJj-lh-Yqt"/>
+                <constraint firstItem="pIQ-qU-l3M" firstAttribute="leading" secondItem="JKl-wM-7p4" secondAttribute="trailing" constant="16" id="r06-0P-pkH"/>
+                <constraint firstItem="JKl-wM-7p4" firstAttribute="centerY" secondItem="vUN-kp-3ea" secondAttribute="centerY" constant="1" id="rKa-Fd-0Bd"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="71.014492753623188" y="27.309782608695656"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="icon_bookmark" width="36" height="36"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

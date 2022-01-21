@@ -8,6 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		90ADF96ECD3286CCD4C1D7D9 /* Pods_GoogleAdSample__iOS_.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 532FE02182A87081B448B71C /* Pods_GoogleAdSample__iOS_.framework */; };
+		CE1F4E0C279A4FCD00CEDBA8 /* ArticleSummaryNormalCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E0A279A4FCD00CEDBA8 /* ArticleSummaryNormalCell.swift */; };
+		CE1F4E0D279A4FCD00CEDBA8 /* ArticleSummaryNormalCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE1F4E0B279A4FCD00CEDBA8 /* ArticleSummaryNormalCell.xib */; };
+		CE1F4E0F279A4FD800CEDBA8 /* ArticleSummaryCellTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E0E279A4FD800CEDBA8 /* ArticleSummaryCellTemplate.swift */; };
+		CE1F4E12279A502A00CEDBA8 /* InteractiveZoomHelper in Frameworks */ = {isa = PBXBuildFile; productRef = CE1F4E11279A502A00CEDBA8 /* InteractiveZoomHelper */; };
+		CE1F4E15279A505600CEDBA8 /* BadgeView.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE1F4E13279A505600CEDBA8 /* BadgeView.xib */; };
+		CE1F4E16279A505600CEDBA8 /* BadgeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E14279A505600CEDBA8 /* BadgeView.swift */; };
+		CE1F4E19279A506E00CEDBA8 /* ArticleSummaryTextPortionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E17279A506E00CEDBA8 /* ArticleSummaryTextPortionView.swift */; };
+		CE1F4E1A279A506E00CEDBA8 /* ArticleSummaryTextPortionView.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE1F4E18279A506E00CEDBA8 /* ArticleSummaryTextPortionView.xib */; };
+		CE1F4E1C279A50C500CEDBA8 /* ArticleSummaryPart.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E1B279A50C500CEDBA8 /* ArticleSummaryPart.swift */; };
+		CE1F4E1F279A514F00CEDBA8 /* BadgePartFragment.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E1D279A514F00CEDBA8 /* BadgePartFragment.swift */; };
+		CE1F4E20279A514F00CEDBA8 /* ImagePartFragment.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E1E279A514F00CEDBA8 /* ImagePartFragment.swift */; };
+		CE1F4E23279A51AA00CEDBA8 /* BookmarkSectionView.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE1F4E21279A51AA00CEDBA8 /* BookmarkSectionView.xib */; };
+		CE1F4E24279A51AA00CEDBA8 /* BookmarkSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E22279A51AA00CEDBA8 /* BookmarkSectionView.swift */; };
+		CE1F4E26279A523800CEDBA8 /* UILabelExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E25279A523800CEDBA8 /* UILabelExtensions.swift */; };
 		CE53BD202797D8F5001CCE7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE53BD0E2797D8F5001CCE7F /* Assets.xcassets */; };
 		CE53BD2C2797D986001CCE7F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE53BD2B2797D986001CCE7F /* AppDelegate.swift */; };
 		CE53BD2E2797D9EE001CCE7F /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE53BD2D2797D9EE001CCE7F /* Launch Screen.storyboard */; };
@@ -148,6 +162,19 @@
 		3177B72EC1B80F032287A8CA /* Pods-GoogleAdSample (iOS).debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoogleAdSample (iOS).debug.xcconfig"; path = "Target Support Files/Pods-GoogleAdSample (iOS)/Pods-GoogleAdSample (iOS).debug.xcconfig"; sourceTree = "<group>"; };
 		532FE02182A87081B448B71C /* Pods_GoogleAdSample__iOS_.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GoogleAdSample__iOS_.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		783A01958C997057B9B6AB6A /* Pods-GoogleAdSample (iOS).release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoogleAdSample (iOS).release.xcconfig"; path = "Target Support Files/Pods-GoogleAdSample (iOS)/Pods-GoogleAdSample (iOS).release.xcconfig"; sourceTree = "<group>"; };
+		CE1F4E0A279A4FCD00CEDBA8 /* ArticleSummaryNormalCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleSummaryNormalCell.swift; sourceTree = "<group>"; };
+		CE1F4E0B279A4FCD00CEDBA8 /* ArticleSummaryNormalCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ArticleSummaryNormalCell.xib; sourceTree = "<group>"; };
+		CE1F4E0E279A4FD800CEDBA8 /* ArticleSummaryCellTemplate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleSummaryCellTemplate.swift; sourceTree = "<group>"; };
+		CE1F4E13279A505600CEDBA8 /* BadgeView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BadgeView.xib; sourceTree = "<group>"; };
+		CE1F4E14279A505600CEDBA8 /* BadgeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BadgeView.swift; sourceTree = "<group>"; };
+		CE1F4E17279A506E00CEDBA8 /* ArticleSummaryTextPortionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleSummaryTextPortionView.swift; sourceTree = "<group>"; };
+		CE1F4E18279A506E00CEDBA8 /* ArticleSummaryTextPortionView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ArticleSummaryTextPortionView.xib; sourceTree = "<group>"; };
+		CE1F4E1B279A50C500CEDBA8 /* ArticleSummaryPart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleSummaryPart.swift; sourceTree = "<group>"; };
+		CE1F4E1D279A514F00CEDBA8 /* BadgePartFragment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BadgePartFragment.swift; sourceTree = "<group>"; };
+		CE1F4E1E279A514F00CEDBA8 /* ImagePartFragment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePartFragment.swift; sourceTree = "<group>"; };
+		CE1F4E21279A51AA00CEDBA8 /* BookmarkSectionView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BookmarkSectionView.xib; sourceTree = "<group>"; };
+		CE1F4E22279A51AA00CEDBA8 /* BookmarkSectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookmarkSectionView.swift; sourceTree = "<group>"; };
+		CE1F4E25279A523800CEDBA8 /* UILabelExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UILabelExtensions.swift; sourceTree = "<group>"; };
 		CE53BD0E2797D8F5001CCE7F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE53BD132797D8F5001CCE7F /* GoogleAdSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoogleAdSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE53BD2A2797D986001CCE7F /* GoogleAdSample (iOS)-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GoogleAdSample (iOS)-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -292,6 +319,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE1F4E12279A502A00CEDBA8 /* InteractiveZoomHelper in Frameworks */,
 				90ADF96ECD3286CCD4C1D7D9 /* Pods_GoogleAdSample__iOS_.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -360,6 +388,7 @@
 		CE9D716827981A7F002BD4BF /* Extesnions */ = {
 			isa = PBXGroup;
 			children = (
+				CE1F4E25279A523800CEDBA8 /* UILabelExtensions.swift */,
 				CEE53097279965AF009F2086 /* HTTPAdditionalHeaderProvider.swift */,
 				CEE5304A27994778009F2086 /* CGSizeExtension.swift */,
 				CEE52FAC2799233A009F2086 /* UIView+SafeAnchor.swift */,
@@ -489,6 +518,7 @@
 			children = (
 				CEE5306F27995BEB009F2086 /* Fragments */,
 				CEE5306D27995BD1009F2086 /* UnknownPart.swift */,
+				CE1F4E1B279A50C500CEDBA8 /* ArticleSummaryPart.swift */,
 				CEE530A127996CF2009F2086 /* DFPAdPart.swift */,
 				CEE5306B27995BB3009F2086 /* IntermediaryPart.swift */,
 				CEE52F98279921BA009F2086 /* FeedPart.swift */,
@@ -627,6 +657,12 @@
 		CEE52FD327992F20009F2086 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				CE1F4E22279A51AA00CEDBA8 /* BookmarkSectionView.swift */,
+				CE1F4E21279A51AA00CEDBA8 /* BookmarkSectionView.xib */,
+				CE1F4E17279A506E00CEDBA8 /* ArticleSummaryTextPortionView.swift */,
+				CE1F4E18279A506E00CEDBA8 /* ArticleSummaryTextPortionView.xib */,
+				CE1F4E14279A505600CEDBA8 /* BadgeView.swift */,
+				CE1F4E13279A505600CEDBA8 /* BadgeView.xib */,
 				CEE52FD427992F2C009F2086 /* DFPAdView.swift */,
 			);
 			path = Views;
@@ -692,6 +728,8 @@
 				CEE5307227995C0B009F2086 /* AttributedTextPartFragment.swift */,
 				CEE5307127995C0B009F2086 /* PartFragment.swift */,
 				CEE5307527995C0B009F2086 /* TogglePartFragment.swift */,
+				CE1F4E1D279A514F00CEDBA8 /* BadgePartFragment.swift */,
+				CE1F4E1E279A514F00CEDBA8 /* ImagePartFragment.swift */,
 			);
 			path = Fragments;
 			sourceTree = "<group>";
@@ -726,6 +764,9 @@
 		CEE530B227996FB5009F2086 /* Cell */ = {
 			isa = PBXGroup;
 			children = (
+				CE1F4E0E279A4FD800CEDBA8 /* ArticleSummaryCellTemplate.swift */,
+				CE1F4E0A279A4FCD00CEDBA8 /* ArticleSummaryNormalCell.swift */,
+				CE1F4E0B279A4FCD00CEDBA8 /* ArticleSummaryNormalCell.xib */,
 				CEE530B527996FD1009F2086 /* DFPAdCollectionViewCell.swift */,
 				CEE530B727996FE4009F2086 /* DFPAdCollectionViewCell.xib */,
 				CEE530B327996FC0009F2086 /* CollectionViewCell.swift */,
@@ -751,6 +792,9 @@
 			dependencies = (
 			);
 			name = "GoogleAdSample (iOS)";
+			packageProductDependencies = (
+				CE1F4E11279A502A00CEDBA8 /* InteractiveZoomHelper */,
+			);
 			productName = "GoogleAdSample (iOS)";
 			productReference = CE53BD132797D8F5001CCE7F /* GoogleAdSample.app */;
 			productType = "com.apple.product-type.application";
@@ -780,6 +824,9 @@
 				Base,
 			);
 			mainGroup = CE53BD062797D8F4001CCE7F;
+			packageReferences = (
+				CE1F4E10279A502A00CEDBA8 /* XCRemoteSwiftPackageReference "mobileapp-interactive-zoom-helper-package" */,
+			);
 			productRefGroup = CE53BD142797D8F5001CCE7F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -795,11 +842,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE53BD302797DA11001CCE7F /* Main.storyboard in Resources */,
+				CE1F4E0D279A4FCD00CEDBA8 /* ArticleSummaryNormalCell.xib in Resources */,
 				CE53BD2E2797D9EE001CCE7F /* Launch Screen.storyboard in Resources */,
 				CE53BD202797D8F5001CCE7F /* Assets.xcassets in Resources */,
+				CE1F4E15279A505600CEDBA8 /* BadgeView.xib in Resources */,
 				CEE52FBE27992C13009F2086 /* ErrorStateView.xib in Resources */,
 				CEE530B827996FE4009F2086 /* DFPAdCollectionViewCell.xib in Resources */,
 				CEE52FB927992B80009F2086 /* NewsFeedViewController.xib in Resources */,
+				CE1F4E23279A51AA00CEDBA8 /* BookmarkSectionView.xib in Resources */,
+				CE1F4E1A279A506E00CEDBA8 /* ArticleSummaryTextPortionView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -855,9 +906,11 @@
 				CEE5308927995D0B009F2086 /* CollectionViewBadgeContentTheme.swift in Sources */,
 				CEE52FC427992D42009F2086 /* NewsFeedViewControllerDelegate.swift in Sources */,
 				CEE52FCC27992D96009F2086 /* WebContentViewCellDelegate.swift in Sources */,
+				CE1F4E1C279A50C500CEDBA8 /* ArticleSummaryPart.swift in Sources */,
 				CEE52F73279909E7009F2086 /* ErrorStateMapper.swift in Sources */,
 				CEE530AE27996D4C009F2086 /* FeedAppearanceProvideriPadPro.swift in Sources */,
 				CEE5306327995889009F2086 /* FeedPartBuilderType.swift in Sources */,
+				CE1F4E0C279A4FCD00CEDBA8 /* ArticleSummaryNormalCell.swift in Sources */,
 				CE9D71D027981B39002BD4BF /* CollectionViewDecoratorViewInitialsType.swift in Sources */,
 				CEE52F7127990992009F2086 /* Data+Extension.swift in Sources */,
 				CEE52F9D27992211009F2086 /* IntExtensions.swift in Sources */,
@@ -879,8 +932,10 @@
 				CEE52FD027992E19009F2086 /* DynamicContentCellDelegate.swift in Sources */,
 				CE9D71D827981B39002BD4BF /* UIView+LoadFromXIB.swift in Sources */,
 				CEE5308727995D0B009F2086 /* CollectionViewBookmarkSectionContentTheme.swift in Sources */,
+				CE1F4E0F279A4FD800CEDBA8 /* ArticleSummaryCellTemplate.swift in Sources */,
 				CEE52F7C27990A61009F2086 /* VaryingSizePart.swift in Sources */,
 				CEE52FB227992389009F2086 /* PageType.swift in Sources */,
+				CE1F4E1F279A514F00CEDBA8 /* BadgePartFragment.swift in Sources */,
 				CEE52FC627992D54009F2086 /* SearchableContentDelegate.swift in Sources */,
 				CE53BD2C2797D986001CCE7F /* AppDelegate.swift in Sources */,
 				CEE5306C27995BB3009F2086 /* IntermediaryPart.swift in Sources */,
@@ -914,6 +969,7 @@
 				CEE52FB327992389009F2086 /* CollectionViewContainerType.swift in Sources */,
 				CEE52FC027992CF7009F2086 /* NewsFeedContainerViewType.swift in Sources */,
 				CE9D716727981A59002BD4BF /* BaseFeedViewController.swift in Sources */,
+				CE1F4E24279A51AA00CEDBA8 /* BookmarkSectionView.swift in Sources */,
 				CEE53098279965AF009F2086 /* HTTPAdditionalHeaderProvider.swift in Sources */,
 				CEE5304027994641009F2086 /* PageInfoProvider.swift in Sources */,
 				CE9D721027981C46002BD4BF /* Log+Extension.swift in Sources */,
@@ -922,6 +978,7 @@
 				CEE5307B27995C0B009F2086 /* TogglePartFragment.swift in Sources */,
 				CEE52FAD2799233A009F2086 /* UIView+SafeAnchor.swift in Sources */,
 				CEE5304D279947F6009F2086 /* Feed.swift in Sources */,
+				CE1F4E20279A514F00CEDBA8 /* ImagePartFragment.swift in Sources */,
 				CEE52F9427992187009F2086 /* CollectionViewPartRendererFactory.swift in Sources */,
 				CEE5309627996512009F2086 /* DNNewsServiceProvider.swift in Sources */,
 				CEE5308427995D0B009F2086 /* CollectionViewToggleContentTheme.swift in Sources */,
@@ -937,6 +994,7 @@
 				CEE52F7F27990ECA009F2086 /* Component.swift in Sources */,
 				CEE52FCE27992DB3009F2086 /* AdComponentDelegate.swift in Sources */,
 				CEE52F9327992187009F2086 /* PartRendererBase.swift in Sources */,
+				CE1F4E26279A523800CEDBA8 /* UILabelExtensions.swift in Sources */,
 				CEE5307727995C0B009F2086 /* PartFragment.swift in Sources */,
 				CEE5308C27995D2C009F2086 /* Margins.swift in Sources */,
 				CEE52F8127990EF7009F2086 /* UnknownComponent.swift in Sources */,
@@ -952,6 +1010,7 @@
 				CE9D71C927981B39002BD4BF /* CollectionViewSectionLayoutInitials.swift in Sources */,
 				CEE530AB27996D4C009F2086 /* FeedAppearanceProvider.swift in Sources */,
 				CEE52F6E27990577009F2086 /* CollectionViewFlowLayoutInfoProvider.swift in Sources */,
+				CE1F4E16279A505600CEDBA8 /* BadgeView.swift in Sources */,
 				CEE52F8627991107009F2086 /* CollectionViewSectionInfoProviding.swift in Sources */,
 				CEE530B127996DCE009F2086 /* Ad.swift in Sources */,
 				CEE5308A27995D0B009F2086 /* CollectionViewImageContentTheme.swift in Sources */,
@@ -976,6 +1035,7 @@
 				CE9D71C827981B39002BD4BF /* CollectionViewCustomLayout.swift in Sources */,
 				CEE52FD527992F2C009F2086 /* DFPAdView.swift in Sources */,
 				CEE52FBA27992B80009F2086 /* NewsFeedViewController.swift in Sources */,
+				CE1F4E19279A506E00CEDBA8 /* ArticleSummaryTextPortionView.swift in Sources */,
 				CEE53094279964C9009F2086 /* NewsFeedController.swift in Sources */,
 				CEE5306527995889009F2086 /* ArticleSummaryPagePartBuilderType.swift in Sources */,
 				CEE530AA27996D4C009F2086 /* FeedAppearanceProviderFactory.swift in Sources */,
@@ -1199,6 +1259,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		CE1F4E10279A502A00CEDBA8 /* XCRemoteSwiftPackageReference "mobileapp-interactive-zoom-helper-package" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://nahidul-raffi:10720fc194b1781316c92c806931dc4a74e213bf@github.com/nhst/mobileapp-interactive-zoom-helper-package.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = "1.0.0-beta.1";
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		CE1F4E11279A502A00CEDBA8 /* InteractiveZoomHelper */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CE1F4E10279A502A00CEDBA8 /* XCRemoteSwiftPackageReference "mobileapp-interactive-zoom-helper-package" */;
+			productName = InteractiveZoomHelper;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = CE53BD072797D8F4001CCE7F /* Project object */;
 }
