@@ -9,6 +9,8 @@
 import Foundation
 
 struct ArticleDetailChunk {
+    private static let urlString = "https://www.dn.no/oslo-business-forum/obama/barack-obama-til-norge-i-september/2-1-374292?googfc"
+    
     let articleId: String
     let publicLink: String
     let title: String
@@ -67,14 +69,14 @@ struct ArticleDetailChunk {
 extension ArticleDetailChunk {
     static func build(summary: ArticleSummaryType) -> ArticleDetailChunk {
         return ArticleDetailChunk(articleId: summary.id,
-                                  publicLink: summary.publicUrl,
+                                  publicLink: urlString,
                                   title: summary.title,
                                   leadText: summary.leadText)
     }
     
     static func build(publicLink: String) -> ArticleDetailChunk {
-        return ArticleDetailChunk(articleId: String.getArticleId(from: publicLink) ?? "",
-                                  publicLink: publicLink,
+        return ArticleDetailChunk(articleId: String.getArticleId(from: urlString) ?? "",
+                                  publicLink: urlString,
                                   title: "",
                                   leadText: "")
     }
